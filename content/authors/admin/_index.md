@@ -30,11 +30,11 @@ last_name: Chen
 highlight_name: true
 first_name: Zhiqian
 ---
-I am an Assistant Professor in the Computer Science and Engineering Department of Mississippi State University. Before joining MS State in 2020, I worked as a research assistant at Virginia Tech. I am now working on machine learning, with a particular emphasis on dynamics behaviors over graphs/networks, see \[my research interest]({{< relref "/post/research-interest" >}}). 
+I am an Assistant Professor in the Computer Science and Engineering Department of Mississippi State University. Before joining MS State in 2020, I worked as a research assistant at Virginia Tech. I am now working on machine learning, with a particular emphasis on dynamics behaviors over graphs/networks, see [my research interest]({{< relref "/post/research-interest" >}}). 
 
 {{% callout note %}}
 Call for undergraduate students 
-\[opening]({{< relref "/post/call-for-undergraduate-research-participation" >}})
+[opening]({{< relref "/post/call-for-undergraduate-research-participation" >}})
 {{% /callout %}} 
 
 * `[Tutorial]` 2/24: our tutorial on `Spectral and Spatial Graph Neural Network` has been accepted at [CVPR 24'](https://cvpr.thecvf.com/). Look forward to our gathering in Seattle this summer!
