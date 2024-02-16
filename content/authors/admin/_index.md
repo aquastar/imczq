@@ -37,16 +37,16 @@ Call for undergraduate students
 [opening]({{< relref "/post/call-for-undergraduate-research-participation" >}})
 {{% /callout %}} 
 
-* `[Tutorial]` 2/24: our tutorial on `Spectral and Spatial Graph Neural Network` has been accepted at [CVPR 24'](https://cvpr.thecvf.com/). Look forward to our gathering in Seattle this summer!
-* `[Fund]` 1/24: Received NSF REU to fund undergraduate students research.
-* `[Paper]` 12/23: 2 papers are accepted by [AAAI 24'](https://aaai.org/aaai-conference/): We proposed <u>Graph Bayesian Optimization</u> to conduct Information Propagation efficiently.
-* `[Paper]` 12/23:  Our theoretical framework for unifying GNN accepted by [ACM Computing Survey](https://dl.acm.org/journal/csur), see [paper](https://dl.acm.org/doi/10.1145/3627816), [related work collection](https://github.com/XGraph-Team/Spectral-Graph-Survey) and \[slides]({{< relref "/project/csur23" >}}). 
+* `[Tutorial]` 2/24: our tutorial on <u>Spectral and Spatial Graph Neural Network</u> has been accepted at **[CVPR 24'](https://cvpr.thecvf.com/)**. Look forward to our gathering in Seattle this summer!
+* `[Fund]` 1/24: Received **NSF** REU supp to fund undergraduate students research.
+* `[Paper]` 12/23: 2 papers are accepted by **[AAAI 24'](https://aaai.org/aaai-conference/)**: We proposed <u>Graph Bayesian Optimization</u> to conduct Information Propagation efficiently.
+* `[Paper]` 12/23:  Our theoretical framework for unifying GNN accepted by **[ACM Computing Survey](https://dl.acm.org/journal/csur)**, see [paper](https://dl.acm.org/doi/10.1145/3627816), [related work collection](https://github.com/XGraph-Team/Spectral-Graph-Survey) and \[slides]({{< relref "/project/csur23" >}}). 
 * `[Tool]` 12/23: Our custom GPT [Research Reviewer](https://chat.openai.com/g/g-rMiwNjjai-research-reviewer) (used in 600+ chats) is listed as 1st returned result of `Research Review` at [gptshunter](https://www.gptshunter.com) and [gpts.works](https://gpts.works). Check our [FlowGPT](https://chat.openai.com/g/g-2jt5LFYXE-flowgpt) (117 chats), which demonstrates the energy evolution of disease spreading.
 * `[Fund]` 12/23: Received a Global Development Seed Grant
   Award from International Institute to develop a collaboration with the University of Auckland in New Zealand.  
 * `[Fund]` 12/23: Launch a working group on <u>Graph AI</u> comprised of academic members from social science, biomedical, supply chain, and geoscience. Thanks to Bagley College of Engineering for financial support.  
 * `[Tool]` 8/23: [XFlow](https://xflow.network/) is released which targets to model generalized graph flows  
-* `[Fund]` 8/23: <u>USDA-ARS</u> funded project on genomics. Special thanks to the support from CVM@MSState
+* `[Fund]` 8/23: **USDA-ARS** funded project on genomics. Special thanks to the support from CVM@MSState
 * `[Paper]` 12/22: One paper is accepted by [SIAM Data Mining (SDM) 23'](https://www.siam.org/conferences/cm/conference/sdm23): how seeds interact in higher-order perspective
 * `[Textbook]` 7/22: Our textbook published by Springer Nature provides numerous code examples, [Springer Nature](https://link.springer.com/book/10.1007/978-3-030-96756-7), [Amazon](https://www.amazon.com/Machine-Learning-Computer-Scientists-Analysts/dp/3030967557)
 * `[Fund]` 4/22: Received **NSF**'s fund: [CRII: Interpretable Influence Propagating and Blocking on Graphs](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2153369&HistoricalAwards=false)
