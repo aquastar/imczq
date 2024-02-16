@@ -8,19 +8,16 @@ main:
     url: '#about'
     weight: 10
   - name: Posts
-    url: '#posts'
-    weight: 20
-  - name: Projects
-    url: '#projects'
-    weight: 30
-  - name: Talks
-    url: '#talks'
-    weight: 40
-  - name: Publications
-    url: '#featured'
+    url: '/post'
     weight: 50
-  - name: Contact
-    url: '#contact'
+  - name: Research
+    url: '/post/research-interest'
+    weight: 30
+  - name: Publications
+    url: 'https://scholar.google.com/citations?user=NC3-O6UAAAAJ&hl=en'
+    weight: 40
+  - name: MyRelated.Work
+    url: 'https://myrelated.work'
     weight: 60
 
 # Link to a PDF of your resume/CV from the menu.

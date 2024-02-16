@@ -9,7 +9,7 @@ appearance:
   theme_day: minimal
   theme_night: minimal
   font: minimal
-  font_size: L
+  font_size: l
 
 # SEO
 
@@ -18,13 +18,13 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder.'
-    twitter: 'GetResearchDev'
+    description: 'Zhiqian Chen, 陈枳扦, Assistant Professor, Graph Learning, Network Science, Machine Learning'
+    twitter: 'imczq'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-PRESZGQJN2'
+    google_tag_manager: 'GTM-PM4WRQF'
+    microsoft_clarity: 'g92sat0zr0'
     baidu_tongji: ''
-    google_tag_manager: ''
-    microsoft_clarity: ''
   verification:
     google: ''
     baidu: ''
