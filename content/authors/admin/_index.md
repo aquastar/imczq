@@ -135,15 +135,12 @@ Two openings for undergraduate and graduate students
 * `[Tool]` 8/23: [XFlow](https://xflow.network/) is released which targets to model generalized graph flows  
 * `[Fund]` 8/23: <u>USDA-ARS</u> funded project on genomics. Special thanks to the support from CVM@MSState
 * `[Paper]` 12/22: One paper is accepted by [SIAM Data Mining (SDM) 23'](https://www.siam.org/conferences/cm/conference/sdm23): how seeds interact in higher-order perspective
-* `[Fund]` 10/22: undergraduate research program funded by MS state ORED
 * `[Textbook]` 7/22: Our textbook published by Springer Nature provides numerous code examples, [Springer Nature](https://link.springer.com/book/10.1007/978-3-030-96756-7), [Amazon](https://www.amazon.com/Machine-Learning-Computer-Scientists-Analysts/dp/3030967557)
-* `[Fund]` 4/22: Appreciate **NSF**'s support for my research on graph flow!
-  * [CRII: Interpretable Influence Propagating and Blocking on Graphs](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2153369&HistoricalAwards=false)
+* `[Fund]` 4/22: Received **NSF**'s fund: [CRII: Interpretable Influence Propagating and Blocking on Graphs](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2153369&HistoricalAwards=false)
 * `[Paper]` 12/21: One paper is accepted by [SIAM Data Mining (SDM) 22'](https://www.siam.org/conferences/cm/conference/sdm22)
   * <u>Graph Wavelet</u> for Impact Forecast of Traffic Accidents, with SIAM Early Career Travel Award
 * `[Tutorial]` 5/21: See our [tutorial Spreading Model for Epidemics](https://beiyulincs.github.io/pub/sdm_tutorial_21.html) ([GNN, RNN, SIR and PDE](/files/SDM21-part2.pptx)) in [SDM 21'](https://www.siam.org/conferences/cm/conference/sdm21)
 * `[Paper & Award]` 9/20: 2 papers on Kalman filtering and school redistricting are accepted by [ACM SIGSPATIAL 20'](https://sigspatial2020.sigspatial.org) with (**Best Paper Award**)
 * `[Paper]` 12/19: [Unsupervised learning for material discovery](https://www.nature.com/articles/s41467-019-13214-1) is published in **Nature Communications**.
-
   * Selected as 22nd of Top 50 Chemistry and Materials Sciences Articles [Top 50 Collection](https://www.nature.com/collections/giacagiaca)
-{style="text-align: justify;"}
+

@@ -3,14 +3,17 @@ body {
 	font-family: Optima, "Avenir Next", Avenir, Calibri, Arial, sans-serif;
 }
 
+.container, .container-xl {
+	max-width:1600px;
+}
 
 .article-style .bio-text {
 	text-align: left;
 	max-width: 100% 
 }
 
-.article-style{
-	font-size: 16px;
+.article-style, .alert{
+	font-size: 20px;
 }
 
 .home-section:first-of-type, .home-section{
@@ -19,4 +22,8 @@ body {
 
 .home-section {
 	padding: 10px;
+}
+
+.col-12{
+	padding:0px;
 }
