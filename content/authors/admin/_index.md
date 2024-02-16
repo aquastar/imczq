@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Zhiqian Chen 陈枳扦
+title: 陈枳扦
 
 # Name pronunciation (optional)
-name_pronunciation: Zhiqian Chen
+name_pronunciation:  Chen, Zhiqian
 
 # Full name (for SEO)
 first_name: Zhiqian 
