@@ -40,7 +40,7 @@ Call for undergraduate students
 * `[Tutorial]` 2/24: our tutorial on <u>Spectral and Spatial Graph Neural Network</u> has been accepted at **[CVPR 24'](https://cvpr.thecvf.com/)**. Look forward to our gathering in Seattle this summer!
 * `[Fund]` 1/24: Received **NSF** REU supp to fund undergraduate students research.
 * `[Paper]` 12/23: 2 papers are accepted by **[AAAI 24'](https://aaai.org/aaai-conference/)**: We proposed <u>Graph Bayesian Optimization</u> to conduct Information Propagation efficiently.
-* `[Paper]` 12/23:  Our theoretical framework for unifying GNN accepted by **[ACM Computing Survey](https://dl.acm.org/journal/csur)**, see [paper](https://dl.acm.org/doi/10.1145/3627816), [related work collection](https://github.com/XGraph-Team/Spectral-Graph-Survey) and \[slides]({{< relref "/project/csur23" >}}). 
+* `[Paper]` 12/23:  Our theoretical framework for unifying GNN accepted by **[ACM Computing Survey](https://dl.acm.org/journal/csur)**, see [paper](https://dl.acm.org/doi/10.1145/3627816), [related work collection](https://github.com/XGraph-Team/Spectral-Graph-Survey) and [slides]({{< relref "/project/csur23" >}}). 
 * `[Tool]` 12/23: Our custom GPT [Research Reviewer](https://chat.openai.com/g/g-rMiwNjjai-research-reviewer) (used in 600+ chats) is listed as 1st returned result of `Research Review` at [gptshunter](https://www.gptshunter.com) and [gpts.works](https://gpts.works). Check our [FlowGPT](https://chat.openai.com/g/g-2jt5LFYXE-flowgpt) (117 chats), which demonstrates the energy evolution of disease spreading.
 * `[Fund]` 12/23: Received a Global Development Seed Grant
   Award from International Institute to develop a collaboration with the University of Auckland in New Zealand.  
