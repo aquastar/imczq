@@ -3,11 +3,14 @@ body {
 	font-family: Optima, "Avenir Next", Avenir, Calibri, Arial, sans-serif;
 }
 
-.container, .container-xl {
+.container, .container-xl, .article-container, .universal-wrapper{
 	max-width:1520px;
 	padding: 0px;
 }
 
+.universal-wrapper{
+	width:1520px;
+}
 .article-style .bio-text {
 	text-align: left;
 	max-width: 100% 
