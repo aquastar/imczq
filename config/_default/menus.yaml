@@ -7,18 +7,47 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Posts
-    url: '/post'
-    weight: 50
   - name: Research
-    url: '/post/research-interest'
+    url: '#research'
+    weight: 20
+  - name: Fund
+    url: '#fund'
     weight: 30
-  - name: Publications
-    url: 'https://scholar.google.com/citations?user=NC3-O6UAAAAJ&hl=en'
-    weight: 40
+  - name: Posts
+    url: '#posts'
+    weight: 30
+  - name: Projects
+    url: '#projects'
+    weight: 30
+  - name: Papers
+    url: '/publication/'
+    weight: 50
+  - name: Teach
+    url: '/teach/'
+    weight: 60
+  - name: Contact
+    url: '#contact'
+    weight: 70
+  - name: XGraph.Team
+    url: 'https://xgraph.team'
+    weight: 80
   - name: MyRelated.Work
     url: 'https://myrelated.work'
-    weight: 60
+    weight: 90
+
+
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
+#  - name: CV
+#    url: uploads/resume.pdf
+#    weight: 70
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.

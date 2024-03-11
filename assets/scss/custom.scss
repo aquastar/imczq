@@ -16,14 +16,37 @@ body {
 	max-width: 100% 
 }
 
-
-.home-section:first-of-type, .home-section{
-	padding-top: 0px;
+.home-section:first-of-type{
+	padding-top: 20px;
+}
+.home-section{
+	padding: 20px;
 }
 .home-section {
-	padding: 5px;
+	margin: 10px;
+	padding: 30px;
 }
-.col-lg-8{
-	padding: 20px 0 0 0;
+.col-lg-4{
+	max-width: 20%;
 }
 
+.col-lg-8{
+	max-width: 80%;
+	flex: 0 0 80%;
+	font-size: 0.9rem;
+}
+.card{
+	width: 33%;
+	display: inline-flex;
+	height: 260px;
+}
+.card.course{
+	margin-bottom: 5px;
+}
+.card-body img{
+	height: 50px;
+}
+.section-heading h1{
+	font-family: Optima, "Avenir Next", Avenir, Calibri, Arial, sans-serif;
+
+}
