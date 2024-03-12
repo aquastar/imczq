@@ -4,12 +4,12 @@ body, .section-heading h1, nav span, .navbar-brand{
 }
 
 .container, .container-xl, .article-container, .universal-wrapper{
-	max-width:1540px;
+	max-width:1600px;
 	padding: 0px;
 }
 
 .universal-wrapper{
-	width:1540px;
+	width:1600px;
 }
 .article-style .bio-text {
 	text-align: left;
@@ -40,7 +40,7 @@ body, .section-heading h1, nav span, .navbar-brand{
 	width: 32%;
 	display: inline-flex;
 	height: 256px;
-	min-width:200px;
+	min-width:300px;
 }
 .card.course{
 	margin-bottom: 5px;
@@ -48,7 +48,12 @@ body, .section-heading h1, nav span, .navbar-brand{
 .card-body img{
 	height: 50px;
 }
-
+.card-body{
+	padding: 1rem;
+}
+.projects-container{
+	min-width: 300px;
+}
 
 .avatar-circle{
 	border-radius: 10%
