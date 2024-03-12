@@ -1,5 +1,5 @@
 ---
-title: 2024 IEEE Big Data Cup
+title: "Call for Proposal - 2024 IEEE Big Data Cup"
 date: 2024-03-04T02:23:16.984Z
 draft: false
 featured: false

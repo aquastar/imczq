@@ -41,7 +41,7 @@ I am an Assistant Professor in the Computer Science and Engineering Department o
 Call for Proposal: [Data Challenge at IEEE BigData 2024]({{< relref "/post/2024-ieee-big-data-cup" >}}), and I will serve as a co-chair of Data Challenge.
 {{% /callout %}} 
 
-* `[Tutorial]` 2/24: our tutorial on <u>Spectral and Spatial Graph Neural Network</u> has been accepted at **[CVPR 24'](https://cvpr.thecvf.com/)**. Look forward to our gathering in Seattle this summer! See our tutorial website at [CVPR 24 Tutorial](https://xgraph.team/course/cvpr24/).
+* `[Tutorial]` 2/24: our tutorial on <u>Spectral and Spatial Graph Neural Network</u> has been accepted at **[CVPR 24'](https://cvpr.thecvf.com/)**. Look forward to our gathering in Seattle this summer! See our tutorial website at [CVPR 24' Tutorial](https://xgraph.team/course/cvpr24/).
 * `[Fund]` 1/24: Received **NSF** REU supp to fund undergraduate students research. 
 * `[Paper]` 12/23: 2 papers are accepted by **[AAAI 24'](https://aaai.org/aaai-conference/)**: We proposed <u>Graph Bayesian Optimization</u> to conduct Information Propagation efficiently.
 * `[Paper]` 12/23:  Our theoretical framework for unifying GNN accepted by **[ACM Computing Survey](https://dl.acm.org/journal/csur)**, see [paper](https://dl.acm.org/doi/10.1145/3627816), [related work collection](https://github.com/XGraph-Team/Spectral-Graph-Survey) and [slides]({{< relref "/project/unifying" >}}). 
@@ -55,7 +55,6 @@ Call for Proposal: [Data Challenge at IEEE BigData 2024]({{< relref "/post/2024-
 * `[Textbook]` 7/22: Our textbook published by Springer Nature provides numerous code examples, [Springer Nature](https://link.springer.com/book/10.1007/978-3-030-96756-7), [Amazon](https://www.amazon.com/Machine-Learning-Computer-Scientists-Analysts/dp/3030967557)
 * `[Fund]` 4/22: Received **NSF**'s fund: [CRII: Interpretable Influence Propagating and Blocking on Graphs](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2153369&HistoricalAwards=false)
 * `[Paper]` 12/21: One paper is accepted by [SIAM Data Mining (SDM) 22'](https://www.siam.org/conferences/cm/conference/sdm22)
-
   * <u>Graph Wavelet</u> for Impact Forecast of Traffic Accidents, with SIAM Early Career Travel Award
 * `[Tutorial]` 5/21: See our [tutorial Spreading Model for Epidemics](https://beiyulincs.github.io/pub/sdm_tutorial_21.html) ([GNN, RNN, SIR and PDE](/files/SDM21-part2.pptx)) in [SDM 21'](https://www.siam.org/conferences/cm/conference/sdm21)
 * `[Paper & Award]` 9/20: 2 papers on Kalman filtering and school redistricting are accepted by [ACM SIGSPATIAL 20'](https://sigspatial2020.sigspatial.org) with (**Best Paper Award**)

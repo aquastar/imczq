@@ -1,15 +1,15 @@
 // Override this file to add your own SCSS styling.
-body {
-	font-family: Optima, "Avenir Next", Avenir, Calibri, Arial, sans-serif;
+body, .section-heading h1, nav span, .navbar-brand{
+	font-family: "josefin sans", Optima, "Avenir Next", Avenir, Calibri, Arial, sans-serif;
 }
 
 .container, .container-xl, .article-container, .universal-wrapper{
-	max-width:1520px;
+	max-width:1540px;
 	padding: 0px;
 }
 
 .universal-wrapper{
-	width:1520px;
+	width:1540px;
 }
 .article-style .bio-text {
 	text-align: left;
@@ -28,6 +28,7 @@ body {
 }
 .col-lg-4{
 	max-width: 20%;
+	min-width: 15%;
 }
 
 .col-lg-8{
@@ -38,7 +39,7 @@ body {
 .card{
 	width: 33%;
 	display: inline-flex;
-	height: 260px;
+	height: 256px;
 }
 .card.course{
 	margin-bottom: 5px;
@@ -46,7 +47,11 @@ body {
 .card-body img{
 	height: 50px;
 }
-.section-heading h1{
-	font-family: Optima, "Avenir Next", Avenir, Calibri, Arial, sans-serif;
 
+
+.avatar-circle{
+	border-radius: 10%
+}
+#profile{
+	text-align: right;
 }
