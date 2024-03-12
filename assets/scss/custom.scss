@@ -43,7 +43,7 @@ body, .section-heading h1, nav span, .navbar-brand{
 	min-width:300px;
 }
 .card.course{
-	margin-bottom: 5px;
+	margin: 3px;
 }
 .card-body img{
 	height: 50px;
@@ -60,4 +60,16 @@ body, .section-heading h1, nav span, .navbar-brand{
 }
 #profile{
 	text-align: right;
+}
+
+.featurette-icon{
+	color: hsl(216, 55%, 53%);
+}
+.btn-primary{
+	background-color: #2f90c8;
+	border-color: #0d577e;
+}
+.btn-primary:hover{
+	background-color: #294fb7;
+	border-color: #0b1da7;
 }
