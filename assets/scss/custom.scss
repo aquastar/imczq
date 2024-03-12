@@ -27,19 +27,20 @@ body, .section-heading h1, nav span, .navbar-brand{
 	padding: 30px;
 }
 .col-lg-4{
-	max-width: 18%;
+	max-width: 19%;
 	min-width: 270px
 }
 
 .col-lg-8{
-	max-width: 78%;
-	flex: 0 0 78%;
+	max-width: 79%;
+	flex: 0 0 79%;
 	font-size: 0.9rem;
 }
 .card{
 	width: 32%;
 	display: inline-flex;
 	height: 256px;
+	min-width:200px;
 }
 .card.course{
 	margin-bottom: 5px;
