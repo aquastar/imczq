@@ -7,12 +7,6 @@ title: 陈枳扦
 role: Assistant Professor
 bio: My research interests include graph learningwith particular interest in
   graph dynamics.
-status:
-  icon: 👨🏻‍💻
-
-# Skills
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-
 social:
   - icon: google-scholar
     icon_pack: ai
@@ -30,7 +24,8 @@ social:
     icon_pack: fab
     link: https://twitter.com/imczq
 superuser: true
-
+status:
+  icon: 👨🏻‍💻
 last_name: Chen
 highlight_name: true
 first_name: Zhiqian
