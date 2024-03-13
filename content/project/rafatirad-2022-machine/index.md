@@ -4,13 +4,14 @@
 title: 'Machine Learning for Computer Scientists and Data Analysts: From an Applied
   Perspective'
 subtitle: ''
-summary: ''
+summary: 'A textbook for practitioners and students in computer science and data analysis'
 authors:
 - Setareh Rafatirad
 - Houman Homayoun
 - Zhiqian Chen
 - Sai Manoj Pudukotai Dinakarrao
-tags: []
+tags:
+  - app
 categories: []
 date: '2022-01-01'
 lastmod: 2024-03-10T21:29:24-05:00
@@ -24,6 +25,17 @@ image:
   caption: ''
   focal_point: ''
   preview_only: false
+
+
+url_pdf : ""
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: 'https://www.amazon.com/Machine-Learning-Computer-Scientists-Analysts/dp/3030967557'
+url_slides: ''
+url_source: ''
+url_video: ''
+
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
