@@ -8,6 +8,8 @@ authors:
 - Chang-Tien Lu
 date: "2017-07-01T00:00:00Z"
 doi: ""
+tags:
+  - app
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2018-01-01T00:00:00Z"

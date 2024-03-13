@@ -1,9 +1,11 @@
 ---
-title: "Graph Learning on Street Views in Cities"
+title: "Graph Learning on Street Views"
 authors:
 - Kaiqun Fu
 - admin
 - Chang-Tien Lu
+tags:
+  - app
 date: "2018-09-01T00:00:00Z"
 doi: ""
 

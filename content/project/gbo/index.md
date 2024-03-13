@@ -2,14 +2,14 @@
 title: Graph Bayesian Optimization
 summary: How to conduct Bayesian optimization over graph problems so as to reduce data use?
 tags:
-  - featured
+  - UQ
 date: '2023-12-07T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: A unified Framework for GNNs
+  caption: 
   focal_point: Smart
 
 links:

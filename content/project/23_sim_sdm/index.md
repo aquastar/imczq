@@ -1,10 +1,14 @@
 ---
-title: "Explain Higher-order Relation in Seeds"
+title: "Higher-order Relation in Seeds"
+summary: How remote seeds can implicitly ``interact'' with each other in the influence maximization problem?
+tags:
+  - high
 authors:
 - Zonghan Zhang
 - admin
-date: "2023-04-28T00:00:00Z"
+date: "2024-01-28T00:00:00Z"
 doi: ""
+
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2018-01-01T00:00:00Z"
@@ -24,8 +28,6 @@ abstract: Due to its vast application on online social networks, Influence Maxim
 # Summary. An optional shortened abstract.
 summary: How remote seeds can implicitly ``interact'' with each other in the influence maximization problem?
 
-tags:
-- music
 featured: true
 
 #links:

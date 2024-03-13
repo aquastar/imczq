@@ -110,12 +110,12 @@ sections:
 
         - organization: NSF
           organization_url: 'https://www.nsf.gov'
-          title: "NSF REU Supplement"
+          title: "NSF REU - Supplement"
           url: 'https://www.nsf.gov/awardsearch/showAward?AWD_ID=2153369&HistoricalAwards=false'
           certificate_url: 'https://www.nsf.gov/awardsearch/showAward?AWD_ID=2153369&HistoricalAwards=false'
           date_start: '2024-02-01'
           date_end: ''
-          description: '**Sole-PI**: develop undergraduate research experience on graph dynamics. Support native students to conduct research on graph dynamics.'
+          description: '**Sole-PI**: Develop undergraduate research experience on graph dynamics with supplement fundings and support native students to participate in the research.'
 
         - organization: USDA
           organization_url: 'https://www.usda.org'
@@ -135,7 +135,7 @@ sections:
           date_end: '2028-08-01'
           description: '**Co-PI** - _Developing Detection and Modeling Tools for the Geospatial and Environmental Epidemiology of Animal Disease_.'
 
-        - organization: msstate
+        - organization: MSstate
           organization_url: 'https://www.msstate.edu'
           title: Global Development Grants
           url: https://www.international.msstate.edu/offices/international-research-develpment/internal-funding/global-development
@@ -144,7 +144,7 @@ sections:
           date_end: '2024-12-31'
           description: '**PI**: Develop international relationship with New Zealand. Through this grant, we will develop a collaboration with the University of Auckland in New Zealand.'
         
-        - organization: msstate
+        - organization: MSstate
           organization_url: 'https://www.msstate.edu'
           title: Graph AI Working Group
           url: https://www.international.msstate.edu/offices/international-research-develpment/internal-funding/global-development
@@ -198,13 +198,17 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: UQ
+          tag: UQ
+        - name: Spectral
+          tag: spec
+        - name: Higher-Order
+          tag: high
+        - name: Application
+          tag: app
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '2'
+      columns: '1'
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false

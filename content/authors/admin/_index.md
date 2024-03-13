@@ -35,7 +35,7 @@ last_name: Chen
 highlight_name: true
 first_name: Zhiqian
 ---
-I am an Assistant Professor in the Computer Science and Engineering Department of Mississippi State University. Before joining MS State in 2020, I worked as a research assistant at Virginia Tech. I am now working on machine learning, with a particular emphasis on dynamics behaviors over graphs/networks, see [my research interest]({{< relref "/bakup/research-interest" >}}). 
+I am an Assistant Professor in the Computer Science and Engineering Department of Mississippi State University. I am now working on machine learning, with a particular emphasis on dynamics behaviors over graphs/networks, see [my research interest]({{< relref "/bakup/research-interest" >}}). For student who are interested in my research, please check ways to [work with me]({{< relref "/bakup/work-with-me" >}}).
 
 {{% callout note %}}
 Call for Proposal: [Data Challenge at IEEE BigData 2024]({{< relref "/post/2024-ieee-big-data-cup" >}}), and I will serve as a co-chair of Data Challenge.

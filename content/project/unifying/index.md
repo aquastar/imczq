@@ -2,8 +2,8 @@
 title: An Unified Framework for Graphs
 summary: Is there an unfying framework for all types of graphs, including spectral and spatial, also, directed, higher-order, and dynamic graphs?
 tags:
-  - featured
-date: '2023-12-07T00:00:00Z'
+  - spec
+date: '2024-01-07T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -29,3 +29,6 @@ slides:
 
 This research aims to provide a coherent framework for generalizing GNNs by bridging the divide between seemingly unrelated works in the spatial and spectral domains, as well as by linking methods within each domain.
 The study will build a unified theoretical framework that encompasses diverse GNNs. Our research is novel in that it connects disparate GNN models, allowing for direct rethinking and comparison of all GNN models.
+
+
+
