@@ -106,7 +106,7 @@ sections:
           certificate_url: 'https://www.nsf.gov/awardsearch/showAward?AWD_ID=2153369&HistoricalAwards=false'
           date_start: '2022-04-21'
           date_end: '2024-04-30'
-          description: '**Sole PI** - _CRII: Interpretable Influence Propagating and Blocking on Graphs_, Interpret the influence propagation and blocking on graphs.'
+          description: '**Sole PI** - _CRII: Interpretable Influence Propagating and Blocking on Graphs_.'
 
         - organization: NSF
           organization_url: 'https://www.nsf.gov'
@@ -115,7 +115,7 @@ sections:
           certificate_url: 'https://www.nsf.gov/awardsearch/showAward?AWD_ID=2153369&HistoricalAwards=false'
           date_start: '2024-02-01'
           date_end: ''
-          description: '**Sole-PI**: Develop undergraduate research experience on graph dynamics with supplement fundings and support native students to participate in the research.'
+          description: '**Sole-PI**: Develop undergraduate research experience on graph dynamics.'
 
         - organization: USDA
           organization_url: 'https://www.usda.org'
@@ -142,7 +142,7 @@ sections:
           certificate_url: 'https://www.msstate.edu/newsroom/article/2024/03/planting-seeds-internal-funding-helps-msu-faculty-grow-international'
           date_start: '2024-01-01'
           date_end: '2024-12-31'
-          description: '**PI**: Develop international relationship with New Zealand. Through this grant, we will develop a collaboration with the University of Auckland in New Zealand.'
+          description: '**PI**: Develop international relationship with University of Auckland in New Zealand.'
         
         - organization: MSstate
           organization_url: 'https://www.msstate.edu'
@@ -151,7 +151,8 @@ sections:
           certificate_url: 'https://www.msstate.edu/newsroom/article/2024/03/planting-seeds-internal-funding-helps-msu-faculty-grow-international'
           date_start: '2024-01-01'
           date_end: '2024-12-31'
-          description: '**PI**: Develop a working group on Graph AI comprised of academic members from social science, biomedical, supply chain, and geoscience.'
+          description: '**PI**: Promote research from social science, biomedical, supply chain, and geoscience.'
+
     design:
       columns: '2'
   - block: collection
