@@ -33,7 +33,7 @@ first_name: Zhiqian
 I am an assistant professor in the Computer Science and Engineering Department of Mississippi State University. I am now working on machine learning, with a particular emphasis on dynamics behaviors over graphs/networks, see [my research interest]({{< relref "/bakup/research-interest" >}}). For students who are interested in my research, please check ways to [work with me]({{< relref "/bakup/work-with-me" >}}).
 
 {{% callout note %}}
-Call for Proposal: [Data Challenge at IEEE BigData 2024]({{< relref "/post/2024-ieee-big-data-cup" >}}), and I will serve as a co-chair of Data Challenge.
+Call for Proposal: [Data Challenge at IEEE BigData 2024]({{< relref "/post/2024-ieee-big-data-cup" >}}), and I am serving as a co-chair of the 2024 IEEE Big Data Cup Challenge.
 {{% /callout %}} 
 
 * `[Tutorial]` 2/24: our tutorial on <u>Spectral and Spatial Graph Neural Network</u> has been accepted at **[CVPR 24'](https://cvpr.thecvf.com/)**. Look forward to our gathering in Seattle this summer! See our tutorial website at [CVPR 24' Tutorial](https://xgraph.team/course/cvpr24/).
