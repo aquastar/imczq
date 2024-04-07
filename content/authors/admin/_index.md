@@ -36,7 +36,11 @@ I am an assistant professor in the Computer Science and Engineering Department o
 Call for Proposal: [Data Challenge at IEEE BigData 2024]({{< relref "/post/2024-ieee-big-data-cup" >}}), and I am serving as a co-chair of the 2024 IEEE Big Data Cup Challenge.
 {{% /callout %}} 
 
-* `[Tutorial]` 2/24: our tutorial on <u>Spectral and Spatial Graph Neural Network</u> has been accepted at **[CVPR 24'](https://cvpr.thecvf.com/)**. Look forward to our gathering in Seattle this summer! See our tutorial website at [CVPR 24' Tutorial](https://xgraph.team/course/cvpr24/).
+{{% callout note %}}
+Call for participation: our tutorial on <u>Spectral and Spatial Graph Neural Network</u> has been accepted at **[CVPR 24'](https://cvpr.thecvf.com/)**. Look forward to our gathering in Seattle this summer! See our tutorial website at [CVPR 24' Tutorial](https://xgraph.team/course/cvpr24/).
+{{% /callout %}} 
+
+* `[Honor]` 4/24: Received **Excellent Reviewer** of the IEEE Transactions on Network Science and Engineering Journal. 
 * `[Fund]` 1/24: Received **NSF** REU supp to fund undergraduate student research. 
 * `[Paper]` 12/23: 2 papers are accepted by **[AAAI 24'](https://aaai.org/aaai-conference/)** proposing <u>Graph Bayesian Optimization</u> to conduct information propagation efficiently.
 * `[Paper]` 12/23:  Our theoretical framework for unifying GNN accepted by **[ACM Computing Survey](https://dl.acm.org/journal/csur)**, see [paper](https://dl.acm.org/doi/10.1145/3627816), [related work](https://github.com/XGraph-Team/Spectral-Graph-Survey) and [slides]({{< relref "/project/unifying" >}}). 
