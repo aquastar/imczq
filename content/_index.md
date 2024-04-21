@@ -106,7 +106,7 @@ sections:
           certificate_url: ''
           date_start: '2024-09-01'
           date_end: '2027-08-31'
-          description: '**Co PI** - SmartCT: Develop AI education program for K-12 students in Mississippi.'
+          description: '**Co-PI** - SmartCT: Develop AI education program for K-12 students in Mississippi.'
 
         - organization: NSF
           organization_url: 'https://www.nsf.gov'
