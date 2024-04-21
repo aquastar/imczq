@@ -101,6 +101,15 @@ sections:
       items:
         - organization: NSF
           organization_url: 'https://www.nsf.gov'
+          title: "NSF ITEST"
+          url: ''
+          certificate_url: ''
+          date_start: '2024-09-01'
+          date_end: '2027-08-31'
+          description: '**Co PI** - SmartCT: Develop AI education program for K-12 students in Mississippi.'
+
+        - organization: NSF
+          organization_url: 'https://www.nsf.gov'
           title: "NSF IIS"
           url: 'https://www.nsf.gov/awardsearch/showAward?AWD_ID=2153369&HistoricalAwards=false'
           certificate_url: 'https://www.nsf.gov/awardsearch/showAward?AWD_ID=2153369&HistoricalAwards=false'
