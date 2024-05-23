@@ -47,7 +47,7 @@ Call for participation: our tutorial on <u>Spectral and Spatial Graph Neural Net
   Award from the International Institute to develop a collaboration with the University of Auckland in New Zealand.  
 * `[Fund]` 12/23: Launch a working group on <u>Graph AI</u> comprised of academic members from social science, biomedical, supply chain, and geoscience. Thanks to Bagley College of Engineering for financial support.  
 * `[Tool]` 8/23: [XFlow](https://xflow.network/) is released, which targets to model generalized graph flows  
-* `[Fund]` 8/23: **USDA-ARS** funded project on genomics. Special thanks to the support from CVM@MSState. See [our storymap](https://storymaps.arcgis.com/stories/4569acf3a05944c99360029dd7029a96)
+* `[Fund]` 8/23: **USDA-ARS** funded project on genomics. Special thanks to the support from CVM@MSState. See [our storymap].(https://storymaps.arcgis.com/stories/4569acf3a05944c99360029dd7029a96)
 * `[Paper]` 12/22: One paper is accepted by [SIAM Data Mining (SDM) 23'](https://www.siam.org/conferences/cm/conference/sdm23): how seeds interact in higher-order perspective
 * `[Textbook]` 7/22: Our textbook published by Springer Nature provides numerous code examples, [Springer Nature](https://link.springer.com/book/10.1007/978-3-030-96756-7), [Amazon](https://www.amazon.com/Machine-Learning-Computer-Scientists-Analysts/dp/3030967557)
 * `[Fund]` 4/22: Received **NSF**'s fund: [CRII: Interpretable Influence Propagating and Blocking on Graphs](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2153369&HistoricalAwards=false)
