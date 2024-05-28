@@ -38,7 +38,7 @@ I am an assistant professor of Computer Science and Engineering at Mississippi S
 Call for participation: our tutorial on <u>Spectral and Spatial Graph Neural Network</u> has been accepted at **[CVPR 24'](https://cvpr.thecvf.com/)**. Look forward to our gathering in Seattle this summer! See our tutorial website at [CVPR 24' Tutorial](https://xgraph.team/course/cvpr24/).
 {{% /callout %}} 
 
-* `[Fund]` 4/24: Received a **NSF** ITEST fund to conduct AI education research.
+* `[Fund]` 4/24: Received a **NSF** ITEST fund to conduct AI education research. See [media report](https://www.pressreader.com/usa/starkville-daily-news/20240515/281526526156691)
 * `[Honor]` 4/24: Received **Excellent Reviewer** of the IEEE Transactions on Network Science and Engineering Journal. 
 * `[Fund]` 1/24: Received **NSF** REU supp to fund undergraduate student research. 
 * `[Paper]` 12/23: 2 papers are accepted by **[AAAI 24'](https://aaai.org/aaai-conference/)** proposing <u>Graph Bayesian Optimization</u> to conduct information propagation efficiently.
