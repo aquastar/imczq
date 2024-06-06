@@ -38,7 +38,7 @@ I am an assistant professor of Computer Science and Engineering at Mississippi S
 Call for participation: our tutorial on <u>Spectral and Spatial Graph Neural Network</u> has been accepted at **[CVPR 24'](https://cvpr.thecvf.com/)**. Look forward to our gathering in Seattle this summer! See our tutorial website at [CVPR 24' Tutorial](https://xgraph.team/course/cvpr24/).
 {{% /callout %}} 
 
-* `[Fund]` 4/24: Received a **NSF** ITEST fund to conduct AI education research.
+* `[Fund]` 4/24: Received a **NSF** ITEST fund to conduct AI education research. See [media report](https://www.pressreader.com/usa/starkville-daily-news/20240515/281526526156691).
 * `[Honor]` 4/24: Received **Excellent Reviewer** of the IEEE Transactions on Network Science and Engineering Journal. 
 * `[Fund]` 1/24: Received **NSF** REU supp to fund undergraduate student research. 
 * `[Paper]` 12/23: 2 papers are accepted by **[AAAI 24'](https://aaai.org/aaai-conference/)** proposing <u>Graph Bayesian Optimization</u> to conduct information propagation efficiently.
@@ -47,7 +47,7 @@ Call for participation: our tutorial on <u>Spectral and Spatial Graph Neural Net
   Award from the International Institute to develop a collaboration with the University of Auckland in New Zealand.  
 * `[Fund]` 12/23: Launch a working group on <u>Graph AI</u> comprised of academic members from social science, biomedical, supply chain, and geoscience. Thanks to Bagley College of Engineering for financial support.  
 * `[Tool]` 8/23: [XFlow](https://xflow.network/) is released, which targets to model generalized graph flows  
-* `[Fund]` 8/23: **USDA-ARS** funded project on genomics. Special thanks to the support from CVM@MSState. See [our storymap](https://storymaps.arcgis.com/stories/4569acf3a05944c99360029dd7029a96).
+* `[Fund]` 8/23: Received support from **USDA-ARS** funded project on spatial epidemiology & genetics. Special thanks to the support from CVM@MSState. See [our storymap](https://storymaps.arcgis.com/stories/4569acf3a05944c99360029dd7029a96).
 * `[Paper]` 12/22: One paper is accepted by [SIAM Data Mining (SDM) 23'](https://www.siam.org/conferences/cm/conference/sdm23): how seeds interact in higher-order perspective
 * `[Textbook]` 7/22: Our textbook published by Springer Nature provides numerous code examples, [Springer Nature](https://link.springer.com/book/10.1007/978-3-030-96756-7), [Amazon](https://www.amazon.com/Machine-Learning-Computer-Scientists-Analysts/dp/3030967557)
 * `[Fund]` 4/22: Received **NSF**'s fund: [CRII: Interpretable Influence Propagating and Blocking on Graphs](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2153369&HistoricalAwards=false)
