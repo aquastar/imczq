@@ -30,7 +30,7 @@ last_name: Chen
 highlight_name: true
 first_name: Zhiqian
 ---
-I am an assistant professor of Computer Science and Engineering at Mississippi State University. I am now working on dynamics behaviors over graphs/networks, see [my research interest]({{< relref "/bakup/research-interest" >}}). For students who are interested in my research, please check ways to [work with me]({{< relref "/bakup/work-with-me" >}}).
+I am an assistant professor of Computer Science and Engineering at Mississippi State University. I am now working on dynamics behaviors over graphs/networks, see [my research interest]({{< relref "/post/research-interest" >}}). For students who are interested in my research, please check ways to [work with me]({{< relref "/post/work-with-me" >}}).
 
 
 
