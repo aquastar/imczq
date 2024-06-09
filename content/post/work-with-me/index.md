@@ -1,5 +1,5 @@
 ---
-title: Work with Me
+title: For Perspective Students
 date: 2023-03-05T16:45:22.484Z
 draft: false
 featured: false
@@ -11,6 +11,14 @@ image:
 **Ph.D.**
 
 Apply to the Department of Computer Science and Engineering if you wish to work with me. Send me an email, schedule a meeting, or visit my office if you are currently enrolled at Mississippi State. 
+
+**Online Ph.D.**
+
+Since online program students do not have as much time as full-time PhD students, to ensure efficiency and effectiveness, I would expect you to justify your interest in my research, such as demonstrating past experience that may overlap with mine. Additionally, I would anticipate regular meetings if you select me as your primary advisor. 
+
+** Student worker**
+There are dynamic opportunities available, even at month-level. I frequently share these opportunities via the mailing list for graduate and undergraduate students in Computer Science and Engineering. You are welcome to send your CV if you wish to be placed on my waiting list for consideration for the next project.
+
 
 **Research Intern for M.S., Undergrad, and High School Students**  
 
