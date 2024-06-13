@@ -35,7 +35,7 @@ first_name: Zhiqian
 I am an assistant professor of Computer Science and Engineering at Mississippi State University. I am now working on dynamics behaviors over graphs/networks, see [my research interest]({{< relref "/post/research-interest" >}}). For students who are interested in my research, please check ways to [work with me]({{< relref "/post/work-with-me" >}}).
 
 {{% callout note %}}
-Call for participation: our tutorial on <u>Spectral and Spatial Graph Neural Network</u> has been accepted at **[CVPR 24'](https://cvpr.thecvf.com/)**. Look forward to our gathering in Seattle this summer! See our tutorial website at [CVPR 24' Tutorial](https://xgraph.team/course/cvpr24/).
+Call for participation: our tutorial on <u>Spectral and Spatial Graph Neural Network</u> will be delivered at **[CVPR 24'](https://cvpr.thecvf.com/)**. See the tutorial website [CVPR 24' Tutorial](https://xgraph.team/course/cvpr24/).
 {{% /callout %}} 
 
 {{% callout note %}}
