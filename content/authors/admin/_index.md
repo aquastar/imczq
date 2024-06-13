@@ -38,8 +38,8 @@ I am an assistant professor of Computer Science and Engineering at Mississippi S
 Call for participation: our tutorial on <u>Spectral and Spatial Graph Neural Network</u> has been accepted at **[CVPR 24'](https://cvpr.thecvf.com/)**. Look forward to our gathering in Seattle this summer! See our tutorial website at [CVPR 24' Tutorial](https://xgraph.team/course/cvpr24/).
 {{% /callout %}} 
 
-{{% callout warning %}}
-Call for student workers for research in Fall 2024
+{{% callout note %}}
+Student worker positions for research are available in Fall 2024 
 {{% /callout %}} 
 
 * `[Grant]` 4/24: Received a **NSF** ITEST fund to conduct AI education research. See [media report](https://www.pressreader.com/usa/starkville-daily-news/20240515/281526526156691).
