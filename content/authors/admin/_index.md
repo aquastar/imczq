@@ -8,21 +8,23 @@ role: Assistant Professor
 bio: My research interests include graph learningwith particular interest in
   graph dynamics.
 social:
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?hl=en&user=NC3-O6UAAAAJ
   - icon: cv
     icon_pack: ai
     link: cv.pdf
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?hl=en&user=NC3-O6UAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/aquastar
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/i/lists/1250150327418081281
   - icon: square-twitter
     icon_pack: fab
     link: https://twitter.com/imczq
+  - display:
+      header: false
+    link: https://www.linkedin.com/in/zhiqian-chen-ai/
+    icon_pack: fab
+    icon: linkedin
 superuser: true
 status:
   icon: 👨🏻‍💻
