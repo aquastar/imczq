@@ -16,13 +16,14 @@ Apply to the Department of Computer Science and Engineering if you wish to work 
 
 Since online program students do not have as much time as full-time PhD students, to ensure efficiency and effectiveness, I would expect you to justify your interest in my research, such as demonstrating past experience that may overlap with mine. Additionally, I would anticipate regular meetings if you select me as your primary advisor. 
 
-** Student worker**
+**Student worker**
+
 There are dynamic opportunities available, even at month-level. I frequently share these opportunities via the mailing list for graduate and undergraduate students in Computer Science and Engineering. You are welcome to send your CV if you wish to be placed on my waiting list for consideration for the next project.
 
 
-**Research Intern for M.S., Undergrad, and High School Students**  
+**Research Intern**
 
-If you are interested in working with me towards a research-track MS degree, a research intern, an independent study, AP research class (high school), please send me an email with your CV and a concise introduction. There are openings on a case-by-case basis. 
+If you are interested in working with as a research intern, please send me an email with your CV and a concise introduction. There are openings on a case-by-case basis. 
 
 - - -
 
