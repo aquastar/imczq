@@ -34,14 +34,8 @@ first_name: Zhiqian
 ---
 I am an assistant professor of Computer Science and Engineering at Mississippi State University. I am now working on dynamics behaviors over graphs/networks, see [my research interest]({{< relref "/post/research-interest" >}}). For students who are interested in my research, please check ways to [work with me]({{< relref "/post/work-with-me" >}}).
 
-{{% callout note %}}
-Call for participation: our tutorial on <u>Spectral and Spatial Graph Neural Network</u> will be delivered at **[CVPR 24'](https://cvpr.thecvf.com/)**. See the tutorial website [CVPR 24' Tutorial](https://xgraph.team/course/cvpr24/).
-{{% /callout %}} 
-
-{{% callout note %}}
-Student worker positions for research are available in Fall 2024 
-{{% /callout %}} 
-
+* `[Grant]` We will start working on spatial epidemiology with USDA scientists under **USDA-ARS** funded project.
+* `[Tutorial]` Check our **[CVPR 24'](https://cvpr.thecvf.com/virtual/2024/tutorial/23726)** tutorial on <u>Spectral and Spatial Graph Neural Network</u>. See the tutorial website [CVPR 24' Tutorial](https://xgraph.team/course/cvpr24/).
 * `[Grant]` 4/24: Received a **NSF** ITEST fund to conduct AI education research. See [media report](https://www.pressreader.com/usa/starkville-daily-news/20240515/281526526156691).
 * `[Honor]` 4/24: Received **Excellent Reviewer** of the IEEE Transactions on Network Science and Engineering Journal. 
 * `[Grant]` 1/24: Received **NSF** REU supp to fund undergraduate student research. 
@@ -51,7 +45,7 @@ Student worker positions for research are available in Fall 2024
   Award from the International Institute to develop a collaboration with the University of Auckland in New Zealand.  
 * `[Grant]` 12/23: Launch a working group on <u>Graph AI</u> comprised of academic members from social science, biomedical, supply chain, and geoscience. Thanks to Bagley College of Engineering for financial support.  
 * `[Tool]` 8/23: [XFlow](https://xflow.network/) is released, which targets to model generalized graph flows  
-* `[Grant]` 8/23: Received support from **USDA-ARS** funded project on spatial epidemiology & genetics. Special thanks to the support from CVM@MSState. See [our storymap](https://storymaps.arcgis.com/stories/4569acf3a05944c99360029dd7029a96).
+* `[Grant]` 8/23: Received support from **USDA-ARS** funded project on disease genetics. Special thanks to the support from CVM@MSState. See [our storymap](https://storymaps.arcgis.com/stories/4569acf3a05944c99360029dd7029a96).
 * `[Paper]` 12/22: One paper is accepted by [SIAM Data Mining (SDM) 23'](https://www.siam.org/conferences/cm/conference/sdm23): how seeds interact in higher-order perspective
 * `[Textbook]` 7/22: Our textbook published by Springer Nature provides numerous code examples, [Springer Nature](https://link.springer.com/book/10.1007/978-3-030-96756-7), [Amazon](https://www.amazon.com/Machine-Learning-Computer-Scientists-Analysts/dp/3030967557)
 * `[Fund]` 4/22: Received **NSF**'s fund: [CRII: Interpretable Influence Propagating and Blocking on Graphs](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2153369&HistoricalAwards=false)
