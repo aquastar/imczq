@@ -4,12 +4,12 @@ body, .section-heading h1, nav span, .navbar-brand, .card-link{
 }
 
 .container, .container-xl, .article-container, .universal-wrapper{
-	max-width:1600px;
+	max-width:1500px;
 	padding: 0px;
 }
 
 .universal-wrapper{
-	width:1600px;
+	width:1500px;
 }
 .article-style .bio-text {
 	text-align: left;
@@ -17,24 +17,24 @@ body, .section-heading h1, nav span, .navbar-brand, .card-link{
 }
 
 .home-section:first-of-type{
-	padding-top: 20px;
+	padding-top: 15px;
 }
 .home-section{
-	padding: 20px;
+	padding: 15px;
 }
 .home-section {
-	margin: 10px;
-	padding: 30px;
+	margin: 5px;
+	padding: 15px;
 }
 .col-lg-4{
-	max-width: 19%;
-	min-width: 295px
+	max-width: 24%;
+	min-width: 23%;
 }
 
 .col-lg-8{
-	max-width: 79%;
-	flex: 0 0 79%;
-	font-size: 0.9rem;
+	max-width: 76%;
+	flex: 0 0 76%;
+	font-size: 0.8em;
 }
 .card{
 	width: 32%;
@@ -66,10 +66,15 @@ body, .section-heading h1, nav span, .navbar-brand, .card-link{
 }
 
 .avatar-circle{
-	border-radius: 10%
+	border-radius: 5%
 }
 #profile{
 	text-align: right;
+	padding: 5px;
+}
+.avatar{
+	width: 320px;
+	height: 320px;
 }
 
 .fab, .fas, .ai{
@@ -120,4 +125,27 @@ body, .section-heading h1, nav span, .navbar-brand, .card-link{
 .view-showcase img{
 	height: 180px !important;
 	border: #bcbcbc 1px solid;
+}
+
+#profile .network-icon{
+	margin: 0;
+}
+#profile .network-icon li {
+	margin-right: 5px;
+}
+
+.alert, .article-style aside {
+    position: relative;
+    padding: 0.45rem 1rem;
+    margin-bottom: 0.5rem;
+    border-radius: 0.25rem;
+}
+div.alert > div{
+	font-size: 0.85rem;
+}
+
+code{
+	color:rgb(146, 0, 0);
+	font-weight: 550;
+	font-family:Verdana, Geneva, Tahoma, sans-serif
 }
