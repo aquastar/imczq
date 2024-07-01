@@ -50,40 +50,30 @@ sections:
       items:
       - icon: wave-square
         icon_pack: fas
-        name: Spectral Theory on Varying Graphs
-        description: Explore the spectral theory on dynamic, directed, heterogeneous graph representations.
-      - icon: network-wired
-        icon_pack: fas
-        name: Multiple Network Interaction
-        description: Investigate the interaction of coupled flows across heterogeneous graphs.
+        name: Spectral Graph Theory
+        description: Explore dynamic, directed, heterogeneous graph representations.
       - icon: cubes
         icon_pack: fas
         name: Higher-order Analysis on Graphs
-        description: Develop higher-order analysis methods for graph flows.
+        description: Develop higher-order analysis methods for graph dynamics.
       - icon: chart-line
         icon_pack: fas
-        name: Graph Bayesian Optimization
-        description: Investigate uncertainty quantification on graph flows.
+        name: Graph Uncertainty Quantification
+        description: Investigate uncertainty quantification on graph dynamics.
+      - icon: network-wired
+        icon_pack: fas
+        name: Transdisciplinary Graph Dynamics
+        description: How to integrate multidisciplinary advances in graph dynamics.
+      - icon: vial
+        icon_pack: fas
+        name: Graph for Bio-info/medicine
+        description: Genetics, Brain, Spatial Epidemiology.
       - icon: microchip
         icon_pack: fas
         name: LLM for Graphs
-        description: Explore the use of LLM for graph flows.
-      - icon: atlas
-        icon_pack: fas
-        name: Transdisciplinary Graph Flows
-        description: How to integrate multidisciplinary advances in graph flows.
-      - icon: vial
-        icon_pack: fas
-        name: Genomics & Graphs
-        description: Look at the use of graph flows in genomics.
-      - icon: puzzle-piece
-        icon_pack: fas
-        name: Brain Graphs
-        description: Investigate the use of graph flows in brain research.
-      - icon: building-columns
-        icon_pack: fas
-        name: Research Infrastructure
-        description: Develop infrastructure for graph flow research.
+        description: Explore the use of LLM for graph dynamics.
+
+
 
   - block: accomplishments
     id: fund
