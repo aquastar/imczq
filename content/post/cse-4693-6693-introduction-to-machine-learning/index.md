@@ -99,3 +99,8 @@ https://probml.github.io/pml-book/book1.htmlLinks to an external site.
 }
 https://probml.github.io/pml-book/book2.htmlLinks to an external site.  
 
+# Examinations and Assignments
+All assignments must have your name, student ID and course name/ number. Examinations will heavily emphasize the conceptual understanding of the material. No make-up exams will be given for any other reason than those approved by the college office (serious illness, medical emergency). The exam format will be a mixture of multiple-choice questions and short/long answer questions. If you do not think that your test was graded appropriately, you need to send a valid written explanation for the requested change. This must be done within three days from the date the test was returned to you.
+
+# Late Submission Policy
+Assignments are required to be submitted by the specified deadlines. Subsequent to the deadline, a penalty of 1% will be deducted from the total score for each hour past the due time, up to a maximum deduction of 50%. If an assignment is submitted after the in-class homework explanation (typically occurring 1-2 weeks post-deadline), submissions will not be accepted, resulting in a score of 0 for the assignment.
