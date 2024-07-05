@@ -95,9 +95,8 @@ sections:
           url: ''
           certificate_url: ''
           date_start: '2024-07-01'
-          date_end: '2025-06-31'
-          description: '**PI** - Grand Theory Development for Graph Dyanmics.'
-          
+          date_end: '2025-06-30'
+          description: '**PI** - Develop Grand Theory for Graph Dynamics.'
         - organization: NSF
           organization_url: 'https://www.nsf.gov'
           title: "NSF ITEST"
@@ -113,7 +112,7 @@ sections:
           url: 'https://www.nsf.gov/awardsearch/showAward?AWD_ID=2153369&HistoricalAwards=false'
           certificate_url: 'https://www.nsf.gov/awardsearch/showAward?AWD_ID=2153369&HistoricalAwards=false'
           date_start: '2022-04-21'
-          date_end: '2024-04-30'
+          date_end: '2024-11-30'
           description: '**Sole PI** - _CRII: Interpretable Influence Propagating and Blocking on Graphs_.'
 
         - organization: NSF
@@ -122,7 +121,7 @@ sections:
           url: 'https://www.nsf.gov/awardsearch/showAward?AWD_ID=2153369&HistoricalAwards=false'
           certificate_url: 'https://www.nsf.gov/awardsearch/showAward?AWD_ID=2153369&HistoricalAwards=false'
           date_start: '2024-02-01'
-          date_end: ''
+          date_end: '2024-11-01'
           description: '**Sole-PI**: Develop undergraduate research experience on graph dynamics.'
 
         - organization: USDA
