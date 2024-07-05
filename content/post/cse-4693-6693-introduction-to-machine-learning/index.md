@@ -68,37 +68,14 @@ image:
 | D            | < 70% to 60%  |
 | F            | < 60% to 0%   |
 
-## Ref Books
-Reference Books
-@book{Applied, 
-  title={Machine Learning for Computer Scientists and Data Analysts: From an Applied Perspective}, 
-  author={Rafatirad, Setareh and Homayoun, Houman and Chen, Zhiqian and Dinakarrao, Sai Manoj Pudukotai}, 
-  year={2022},  publisher={Springer Nature} 
-}
-
-https://link.springer.com/book/10.1007/978-3-030-96756-7Links to an external site.
-
+## Reference Books
+- [Intro] Murphy, Kevin P. Probabilistic machine learning: an introduction. MIT press, 2022.
+- [Adv] Murphy, Kevin P. Probabilistic machine learning: Advanced topics. MIT press, 2022.
+- [Applied] Rafatirad, Setareh, Houman Homayoun, Zhiqian Chen, and Sai Manoj Pudukotai Dinakarrao. Machine Learning for Computer Scientists and Data Analysts: From an Applied Perspective. Springer Nature, 2022.
+- [Hands-on] Géron, Aurélien. Hands-on machine learning with Scikit-Learn, Keras, and TensorFlow. " O'Reilly Media, Inc.", 2022.
+- [IP] Integer programming (2021) Laurence A. Wolsey
+- [AP]Cormen, Thomas H., Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein. Introduction to algorithms. MIT press, 2022.
  
-
-@book{Intro,
- author = "Kevin P. Murphy",
- title = "Probabilistic Machine Learning: An introduction",
- publisher = "MIT Press",
- year = 2022,
- url = "probml.ai"
-}
-https://probml.github.io/pml-book/book1.htmlLinks to an external site.  
-
- 
-
-@book{Adv,
- author = "Kevin P. Murphy",
- title = "Probabilistic Machine Learning: Advanced Topics",
- publisher = "MIT Press",
- year = 2023,
- url = "probml.ai"
-}
-https://probml.github.io/pml-book/book2.htmlLinks to an external site.  
 
 ## Examinations and Assignments
 All assignments must have your name, student ID and course name/ number. Examinations will heavily emphasize the conceptual understanding of the material. No make-up exams will be given for any other reason than those approved by the college office (serious illness, medical emergency). The exam format will be a mixture of multiple-choice questions and short/long answer questions. If you do not think that your test was graded appropriately, you need to send a valid written explanation for the requested change. This must be done within three days from the date the test was returned to you.
