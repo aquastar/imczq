@@ -36,7 +36,7 @@ first_name: Zhiqian
 I am an assistant professor of Computer Science and Engineering at Mississippi State University. I am now working on dynamics behaviors over graphs/networks, see [my research interest]({{< relref "/post/research-interest" >}}). For students who are interested in my research, please check ways to [work with me]({{< relref "/post/work-with-me" >}}).
 
 {{% callout note %}}
-🚀 Join us at **[SIAM Mathematics & Data Science 2024](https://www.siam.org/conferences/cm/conference/mds24)** for our tutorial on [**Unifying Spectral and Spatial Graph Neural Network**](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=80791)! See you in Atlanta, Oct 2024!
+🚀 Join us at **[SIAM Mathematics & Data Science 2024](https://www.siam.org/conferences/cm/conference/mds24)** for our tutorial on [**Unifying Spectral and Spatial Graph Neural Network**](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=80791)! See you in Atlanta, Oct 23 2024!
 {{% /callout %}}
 
 * `Grant` 7/24: Received a **NSF** CNS/CIRC fund (PI) to develop grand theory for graph dynamics. 
