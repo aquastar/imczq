@@ -39,20 +39,21 @@ I am an assistant professor of Computer Science and Engineering at Mississippi S
 🚀 Join us at **[SIAM Math & Data Science 24'](https://www.siam.org/conferences/cm/conference/mds24)** for our tutorial on [**Unifying Spectral and Spatial Graph Neural Network**](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=80791)! See you in Atlanta, Oct 2024!
 {{% /callout %}}
 
+* `Grant` 7/24: Received a **NSF** CIRC fund (PI) to develop grand theory for graph dynamics. 
 * `Grant` 6/24: We will start working on the spatial epidemiology of animal disease with USDA scientists under **USDA-ARS** funded project.
 * `Tutorial` 6/24: Check our **[CVPR 24'](https://cvpr.thecvf.com/virtual/2024/tutorial/23726)** tutorial on <u>Unifying Spectral and Spatial Graph Neural Network</u>. See the tutorial website [CVPR 24' Tutorial](https://xgraph.team/course/cvpr24/).
-* `Grant` 4/24: Received a **NSF** ITEST fund to conduct AI education research. See [media report](https://www.pressreader.com/usa/starkville-daily-news/20240515/281526526156691).
+* `Grant` 4/24: Received a **NSF** ITEST fund (Co-PI) to conduct AI education research. See [media report](https://www.pressreader.com/usa/starkville-daily-news/20240515/281526526156691).
 * `Honor` 4/24: Received **Excellent Reviewer** of the IEEE Transactions on Network Science and Engineering Journal. 
-* `Grant` 1/24: Received **NSF** REU supp to fund undergraduate student research. 
+* `Grant` 1/24: Received **NSF** REU supp to fund (PI) undergraduate student research. 
 * `Paper` 12/23: 2 papers are accepted by **[AAAI 24'](https://aaai.org/aaai-conference/)** proposing <u>Graph Bayesian Optimization</u> to conduct information propagation efficiently.
 * `Paper` 12/23:  Our theoretical framework for unifying GNN accepted by **[ACM Computing Survey](https://dl.acm.org/journal/csur)**, see [paper](https://dl.acm.org/doi/10.1145/3627816), [related work](https://github.com/XGraph-Team/Spectral-Graph-Survey) and [slides]({{< relref "/project/unifying" >}}). 
 * `Grant` 12/23: Received a Seed Grant from the International Institute to develop collaboration with the U. of Auckland in New Zealand.  
 * `Grant` 12/23: Launch a working group on <u>Graph AI</u> doing cross-disciplinary study. Thanks to BCoE.  
-* `Tool` 8/23: [XFlow](https://xflow.network/) is released, which targets to model generalized graph flows  
-* `Grant` 8/23: Received support from **USDA-ARS** funded project on disease genetics. Special thanks to CVM@MSState. See [our storymap](https://storymaps.arcgis.com/stories/4569acf3a05944c99360029dd7029a96).
+* `Tool` 8/23: [XFlow](https://xflow.network/) is released, which targets modeling generalized graph flows  
+* `Grant` 8/23: Received support from **USDA-ARS** funded project (Co-PI) on disease genetics. Special thanks to CVM@MSState. See [our storymap](https://storymaps.arcgis.com/stories/4569acf3a05944c99360029dd7029a96).
 * `Paper` 12/22: One paper is accepted by [SIAM Data Mining (SDM) 23'](https://www.siam.org/conferences/cm/conference/sdm23): how seeds interact in higher-order perspective
 * `Textbook` 7/22: Our textbook published by Springer Nature provides numerous code examples, [Springer Nature](https://link.springer.com/book/10.1007/978-3-030-96756-7), [Amazon](https://www.amazon.com/Machine-Learning-Computer-Scientists-Analysts/dp/3030967557)
-* `Fund` 4/22: Received **NSF**'s fund: [CRII: Interpretable Influence Propagating and Blocking on Graphs](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2153369&HistoricalAwards=false)
+* `Fund` 4/22: Received **NSF**'s fund (PI): [CRII: Interpretable Influence Propagating and Blocking on Graphs](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2153369&HistoricalAwards=false)
 
 <details>
   <summary>More News</summary>
