@@ -10,15 +10,8 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-# Course Description
 
-This course will cover the fundamental concepts of machine learning as well as its applications, such as supervised, unsupervised learning, neural networks, optimization. Along the way, the course also provides essential learning techniques such as optimization, overfitting, the importance of data, training caveats, etc. The assignments explore critical concepts and simple applications, and the course term paper project allows a flexible and in-depth exploration of a particular domain. By the end of the course, you will have a working knowledge of machine learning models, be able to implement and train them given typical real-world problems.
-
-# Learning Objectives
-
-This course aims to introduce the fundamental theories and the state-of-the-art techniques in machine learning, deep learning, and several cutting-edge techniques. Students are expected to participate in the course project and apply the learned concepts to real-world problem-solving. The ultimate goal of this course is to sharpen the problem-solving skills of the students and prepare them with this unique set of expertise for the increasing demands in the IT industry and in-depth advanced research.
-
-# Course Schedule
+## Course Schedule
 This schedule is subject to change depending on the progress of the course
 
 | Index | Lecture                                                  | Ref                                                                                 | Due                                           |
@@ -54,7 +47,7 @@ This schedule is subject to change depending on the progress of the course
 | 29    | No Class, Reserved for Final Report                       |                                                                                     | Final Project Report, including revision of Phase 4 |
 
 
-# Reference Books
+## Reference Books
 - [Intro] Murphy, Kevin P. Probabilistic machine learning: an introduction. MIT press, 2022.
 - [Adv] Murphy, Kevin P. Probabilistic machine learning: Advanced topics. MIT press, 2022.
 - [Applied] Rafatirad, Setareh, Houman Homayoun, Zhiqian Chen, and Sai Manoj Pudukotai Dinakarrao. Machine Learning for Computer Scientists and Data Analysts: From an Applied Perspective. Springer Nature, 2022.
@@ -63,13 +56,13 @@ This schedule is subject to change depending on the progress of the course
 - [AP]Cormen, Thomas H., Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein. Introduction to algorithms. MIT press, 2022.
  
 
-# Grading
+## Grading
 - 20% In-Class Quiz (5% * 4)
 - 20% Homework (10% * 2)
 - 60% Term Paper (Group Project)
 
-# Grade Policy
-## 10 pt Normal Grade Mode
+## Grade Policy
+### 10 pt Normal Grade Mode
 
 | Letter Grade | Range         |
 |--------------|---------------|
@@ -79,10 +72,10 @@ This schedule is subject to change depending on the progress of the course
 | D            | < 70% to 60%  |
 | F            | < 60% to 0%   |
 
-# Examinations and Assignments
+## Examinations and Assignments
 All assignments must have your name, student ID and course name/ number. Examinations will heavily emphasize the conceptual understanding of the material. No make-up exams will be given for any other reason than those approved by the college office (serious illness, medical emergency). The exam format will be a mixture of multiple-choice questions and short/long answer questions. If you do not think that your test was graded appropriately, you need to send a valid written explanation for the requested change. This must be done within three days from the date the test was returned to you.
 
-# Late Submission Policy
+## Late Submission Policy
 Assignments are required to be submitted by the specified deadlines. Subsequent to the deadline, a penalty of 1% will be deducted from the total score for each hour past the due time, up to a maximum deduction of 50%. If an assignment is submitted after the in-class homework explanation (typically occurring 1-2 weeks post-deadline), submissions will not be accepted, resulting in a score of 0 for the assignment.
 
 

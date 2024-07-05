@@ -10,7 +10,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-# Tentative Course Schedule
+## Tentative Course Schedule
 *Note that this is a tentative schedule subject to changes based on course progress.
 
 | Index | Lecture                                         | Due                        |
@@ -45,7 +45,7 @@ image:
 | 26    |                                                 | Final Report Due           |
 
 
-# Grading
+## Grading
 - 25% In-Class Quiz
   - 2 graded surveys (5% = 2 * 2.5%)
   - 4 graded quizzes (20% = 4 * 5%)
@@ -58,7 +58,7 @@ image:
   - final presentation, 20%
 
 
-## 10 pt Normal Grade Mode
+### 10 pt Normal Grade Mode
 
 | Letter Grade | Range         |
 |--------------|---------------|
@@ -68,7 +68,7 @@ image:
 | D            | < 70% to 60%  |
 | F            | < 60% to 0%   |
 
-# Ref Books
+## Ref Books
 Reference Books
 @book{Applied, 
   title={Machine Learning for Computer Scientists and Data Analysts: From an Applied Perspective}, 
@@ -100,8 +100,8 @@ https://probml.github.io/pml-book/book1.htmlLinks to an external site.
 }
 https://probml.github.io/pml-book/book2.htmlLinks to an external site.  
 
-# Examinations and Assignments
+## Examinations and Assignments
 All assignments must have your name, student ID and course name/ number. Examinations will heavily emphasize the conceptual understanding of the material. No make-up exams will be given for any other reason than those approved by the college office (serious illness, medical emergency). The exam format will be a mixture of multiple-choice questions and short/long answer questions. If you do not think that your test was graded appropriately, you need to send a valid written explanation for the requested change. This must be done within three days from the date the test was returned to you.
 
-# Late Submission Policy
+## Late Submission Policy
 Assignments are required to be submitted by the specified deadlines. Subsequent to the deadline, a penalty of 1% will be deducted from the total score for each hour past the due time, up to a maximum deduction of 50%. If an assignment is submitted after the in-class homework explanation (typically occurring 1-2 weeks post-deadline), submissions will not be accepted, resulting in a score of 0 for the assignment.
