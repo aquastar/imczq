@@ -10,7 +10,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Tentative Course Schedule
+# Tentative Course Schedule
 *Note that this is a tentative schedule subject to changes based on course progress.
 
 | Index | Lecture                                         | Due                        |
@@ -47,15 +47,16 @@ Tentative Course Schedule
 
 # Grading
 - 25% In-Class Quiz
--- 2 graded surveys (5%=2 * 2.5%)
--- 4 graded quizzes (20% = 4 * 5%)
+  - 2 graded surveys (5% = 2 * 2.5%)
+  - 4 graded quizzes (20% = 4 * 5%)
 - 20% Homework (10% * 2)
-- 15% Midterm 
+- 15% Midterm
 - 40% Group Project
--- topic selection and team building, 5%
--- mid-term presentation, 10%
--- mid-point check, 5%
--- final presentation, 20%
+  - topic selection and team building, 5%
+  - mid-term presentation, 10%
+  - mid-point check, 5%
+  - final presentation, 20%
+
 
 ## 10 pt Normal Grade Mode
 
