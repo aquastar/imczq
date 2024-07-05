@@ -91,6 +91,15 @@ sections:
       items:
         - organization: NSF
           organization_url: 'https://www.nsf.gov'
+          title: "NSF CIRC"
+          url: ''
+          certificate_url: ''
+          date_start: '2024-07-01'
+          date_end: '2025-06-31'
+          description: '**PI** - Grand Theory Development for Graph Dyanmics.'
+          
+        - organization: NSF
+          organization_url: 'https://www.nsf.gov'
           title: "NSF ITEST"
           url: ''
           certificate_url: ''
