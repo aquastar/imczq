@@ -14,6 +14,8 @@ image:
 ## Course Schedule
 This schedule is subject to change depending on the progress of the course
 
+<!--more-->
+
 | Index | Lecture                                                  | Ref                                                                                 | Due                                           |
 |-------|----------------------------------------------------------|-------------------------------------------------------------------------------------|-----------------------------------------------|
 | 1     | Course Intro                                             |                                                    |                                               |
