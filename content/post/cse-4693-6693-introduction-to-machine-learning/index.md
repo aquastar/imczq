@@ -13,6 +13,8 @@ image:
 ## Tentative Course Schedule
 *Note that this is a tentative schedule subject to changes based on course progress.
 
+<!--more-->
+
 | Index | Lecture                                         | Due                        |
 |-------|-------------------------------------------------|----------------------------|
 | 1     | Course Introduction                             | Quiz 0: Pre-course Survey  |
