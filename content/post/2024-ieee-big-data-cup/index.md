@@ -1,5 +1,5 @@
 ---
-title: "Call for Proposal - 2024 IEEE Big Data Cup"
+title: Call for Proposal - 2024 IEEE Big Data Cup
 date: 2024-03-04T02:23:16.984Z
 draft: false
 featured: false
@@ -9,6 +9,7 @@ image:
   preview_only: false
 ---
 We invite industrial, government, and academic organizations to submit proposals to organize a Data Challenge for the 2024 IEEE International Conference on Big Data (IEEE BigData 2024, https://bigdataieee.org/BigData2024/index.html). Data Challenges are analytics and programming contests based on datasets released by the organizations sponsoring the competitions. These contests will run for several months, with winners announced in the IEEE BigData 2024 in December 15-18, 2024 at Washington DC, USA.
+<!--more-->
 
 The IEEE Big Data conference series started in 2013 has established itself as the top tier research conference in Big Data.  
 
