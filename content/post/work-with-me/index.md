@@ -8,20 +8,24 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-**Ph.D.**
+Please check the ways you may work with me below.
+
+---
+
+**Regular Ph.D.**
 
 Apply to the Department of Computer Science and Engineering if you wish to work with me. Send me an email, schedule a meeting, or visit my office if you are currently enrolled at Mississippi State. 
 
 **Online Ph.D.**
 
-Since online program students do not have as much time as full-time PhD students, to ensure efficiency and effectiveness, I would expect you to justify your interest in my research, such as demonstrating past experience that may overlap with mine. Additionally, I would anticipate regular meetings if you select me as your primary advisor. 
+Since online program students do not have as much time as full-time PhD students, to ensure your future success, I would expect you to justify your interest in my research, such as demonstrating past experience that may overlap with mine. Additionally, I would anticipate regular meetings if you select me as your primary advisor. I do suggest that you contact before admission, so that we have time to confirm your suitability, it is not required though.
 
 **Student worker**
 
 There are dynamic opportunities available, even at month-level. I frequently share these opportunities via the mailing list for graduate and undergraduate students in Computer Science and Engineering. You are welcome to send your CV if you wish to be placed on my waiting list for consideration for the next project.
 
 
-**Research Intern**
+**Research Intern (summer or semester)**
 
 If you are interested in working with as a research intern, please send me an email with your CV and a concise introduction. There are openings on a case-by-case basis. 
 
