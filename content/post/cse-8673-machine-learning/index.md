@@ -11,7 +11,7 @@ image:
   preview_only: false
 ---
 
-## Course Schedule
+## Tentative Course Schedule
 This schedule is subject to change depending on the progress of the course
 
 <!--more-->
