@@ -26,17 +26,31 @@ body, .section-heading h1, nav span, .navbar-brand, .card-link{
 	margin: 5px;
 	padding: 15px;
 }
-.col-lg-4{
-	max-width: 24%;
-	min-width: 350px;
-}
 
-.col-lg-8{
-	max-width: 76%;
-	min-width: 350px;
-	flex: 0 0 60%;
+.col-lg-8 {
+	flex: 1;
+	min-width: 300px;
 	font-size: 0.8em;
 }
+  
+@media (min-width: 992px) {
+	.col-lg-8 {
+		max-width: 76%;
+	}
+}
+  
+.col-lg-4 {
+max-width: 24%;
+min-width: 350px;
+}
+
+@media (max-width: 991.98px) {
+	.col-lg-4 {
+		margin-left: auto;
+		margin-right: auto;
+	}
+}
+
 .card{
 	width: 32%;
 	display: inline-flex;
