@@ -11,7 +11,8 @@ image:
   preview_only: false
 ---
 ## Tentative Course Schedule
-*Note that this is a tentative schedule subject to changes based on course progress.
+This schedule is subject to change depending on the progress of the course
+<!--more-->
 
 | Index | Lecture                                         | Due                        |
 |-------|-------------------------------------------------|----------------------------|
