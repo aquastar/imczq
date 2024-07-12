@@ -9,8 +9,10 @@ image:
   preview_only: false
 ---
 Please check the ways you may work with me below.
-<!--more-->
----
+
+## <!--more-->
+
+Please send CV/transcripts to <ins>chen dot zhiqian dot work at gmail dot com</ins>
 
 **Regular Ph.D.**
 
@@ -23,7 +25,6 @@ Since online program students do not have as much time as full-time PhD students
 **Student worker**
 
 There are dynamic opportunities available, even at month-level. I frequently share these opportunities via the mailing list for graduate and undergraduate students in Computer Science and Engineering. You are welcome to send your CV if you wish to be placed on my waiting list for consideration for the next project.
-
 
 **Research Intern (summer or semester)**
 
@@ -44,9 +45,3 @@ If you are doing a course-track MS degree and want to include me as a major prof
 **Project-Track** M.S.
 
 * replace the course-related content above with your project content.
-
-- - -
-
-**Course Override**
-
-If a course is full and you still desire to enroll, check with your major professor or department to see if your registration has been released. Then submit your override requests at the following web address: https://www.cse.msstate.edu/capacity-override-request-form/
