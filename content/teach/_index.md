@@ -5,7 +5,7 @@ date: 2024-01-01
 
 
 
-# Course Override**
+## Course Override
 
 If a course is full and you still desire to enroll, check with your major professor or department to see if your registration has been released. Then submit your override requests at the following web address: https://www.cse.msstate.edu/capacity-override-request-form/
 
