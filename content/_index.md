@@ -240,7 +240,7 @@ sections:
       title: Contact
       subtitle:
       text:       # Contact (add or remove contact options as necessary)
-      email: zchen AT cse.msstate.edu
+      email: zchen AT cse DOT msstate DOT edu / chen DOT zhiqian DOT work AT gmail DOT com
       address:
         street: 304 Butler Hall, 665 Perry Street
         city: MS State

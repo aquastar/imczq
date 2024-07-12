@@ -10,18 +10,22 @@ main:
   - name: Research
     url: '#research'
     weight: 20
-  - name: Fund
+  - name: Grants
     url: '#fund'
     weight: 30
-  - name: Posts
-    url: '/post'
-    weight: 30
-  - name: Projects
-    url: '#projects'
-    weight: 30
   - name: Papers
-    url: '/publication/'
+    url: 'https://scholar.google.com/citations?hl=en&user=NC3-O6UAAAAJ'
+    weight: 40
+  - name: Perspective Students
+    url: '/post/work-with-me/'
     weight: 50
+  # - name: Posts
+  #   url: '/post'
+  #   weight: 30
+  # - name: Projects
+  #   url: '#projects'
+  #   weight: 30
+
   - name: Teach
     url: '/teach/'
     weight: 60
