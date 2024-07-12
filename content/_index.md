@@ -237,10 +237,10 @@ sections:
   - block: contact
     id: contact
     content:
-      title: Contact
+      title: Contact Me
       subtitle:
       text:       # Contact (add or remove contact options as necessary)
-      email: zchen@cse.msstate.edu / chen.zhiqian.work@gmail.com
+      email: zchen@cse.msstate.edu OR chen.zhiqian.work@gmail.com
       address:
         street: 304 Butler Hall, 665 Perry Street
         city: MS State
@@ -253,7 +253,7 @@ sections:
         latitude: '33.45778485113696'
         longitude: '-88.790005885393'
       # Automatically link email and phone or display as text?
-      autolink: true
+      autolink: false
       # Email form provider
     design:
       columns: '2'

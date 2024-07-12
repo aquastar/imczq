@@ -19,17 +19,15 @@ main:
   - name: Teach
     url: '/teach/'
     weight: 50
-  - name: Perspective Students
-    url: '/post/work-with-me/'
-    weight: 60
+  # - name: Perspective Students
+  #   url: '/post/work-with-me/'
+  #   weight: 60
   # - name: Posts
   #   url: '/post'
   #   weight: 30
   # - name: Projects
   #   url: '#projects'
   #   weight: 30
-
-
   # - name: Contact
   #   url: '#contact'
   #   weight: 70
