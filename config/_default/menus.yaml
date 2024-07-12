@@ -32,10 +32,10 @@ main:
   - name: Contact
     url: '#contact'
     weight: 70
-  - name: XGraph.Team
+  - name: 🔗XGraph.Team
     url: 'https://xgraph.team'
     weight: 80
-  - name: MyRelated.Work
+  - name: 🔗MyRelated.Work
     url: 'https://myrelated.work'
     weight: 90
 
