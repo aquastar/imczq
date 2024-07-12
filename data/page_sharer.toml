@@ -18,6 +18,30 @@
   enable = true
 
 [[buttons]]
+  id = "wechat"
+  url = "weixin://dl/posts?url={url}&title={title}"
+  title = "WeChat"
+  icon_pack = "fab"
+  icon = "weixin"
+  enable = true
+
+[[buttons]]
+  id = "xiaohongshu"
+  url = "https://www.xiaohongshu.com/discovery/item/{url}"
+  title = "Xiaohongshu"
+  icon_pack = "fas"
+  icon = "book-open"
+  enable = true
+
+[[buttons]]
+  id = "zhihu"
+  url = "https://www.zhihu.com/share?target=signup&url={url}&title={title}"
+  title = "Zhihu"
+  icon_pack = "fab"
+  icon = "zhihu"
+  enable = true
+
+[[buttons]]
   id = "email"
   url = "mailto:?subject={title}&body={url}"
   title = "Email"

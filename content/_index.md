@@ -72,9 +72,6 @@ sections:
         icon_pack: fas
         name: LLM for Graphs
         description: Explore the use of LLM for graph dynamics.
-
-
-
   - block: accomplishments
     id: fund
     content:
@@ -257,4 +254,7 @@ sections:
       # Email form provider
     design:
       columns: '2'
+      
+
+
 ---

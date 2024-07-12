@@ -7,16 +7,26 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+image:
+  filename: research.jpg
+  placement: 2
+  caption: ''
+  focal_point: 'Center'
+  preview_only: false
+  alt_text: An optional description of the image for screen readers.
 ---
 
 
 ```markmap {height="200px"}
 - Research Interests
-  - Methodology
-    - Optimization Problem over Graphs
-    - Interaction between Network Flow and Structures
-    - Spectral Method on Graphs
   - Application
     - Physical Flow, e.g., Circuit Flow and Traffic Flow
-    - Virtual Flow, e.g., Social Message and Disease Spreading
+    - Cyber Flow, e.g., Social Message and Disease Spreading
+  - Tasks
+    - Grand Theory on Graph/Network Dynamics
+    - Interdependent Network Dynamics
+  - Approaches
+    - Combinatorial optimization Problem over Graphs
+    - Spectral Method on Graphs
+
 ```
