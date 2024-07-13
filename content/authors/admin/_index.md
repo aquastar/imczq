@@ -37,7 +37,7 @@ I am an Assistant Professor of Computer Science and Engineering at Mississippi S
 
 
 {{% callout note %}}
-🚀 Join us at **[SIAM Mathematics & Data Science 2024](https://www.siam.org/conferences/cm/conference/mds24)** for our tutorial on [**Unifying Spectral and Spatial Graph Neural Network**](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=80791)! See you in Atlanta, Oct 23 2024!
+🚀 Join us at **[SIAM Mathematics & Data Science 2024](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=80791)** and [**CIKM 2024**](https://cikm2024.org/tutorials/) for our tutorial on **Unifying Spectral and Spatial Graph Neural Network**.
 {{% /callout %}}
 
 * **[Grant]** 7/24: Received a **NSF** CNS/CIRC fund (PI) to develop grand theory for graph dynamics. 
