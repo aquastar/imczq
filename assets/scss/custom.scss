@@ -95,6 +95,10 @@ min-width: 350px;
 .fab, .fas, .ai{
 	color: rgb(31, 61, 131);
 }
+body.dark .fab, body.dark .fas, body.dark .ai{
+	color: rgb(64, 117, 241);
+}
+
 .powered-by, .powered-by .fab, .powered-by a{
 	color:#a8a8a8;
 }
@@ -168,4 +172,12 @@ code{
 	color:#7d0905 ;
 	font-weight: 600;
 	font-family: Tahoma, sans-serif
+}
+
+body.dark code{
+	color:#168dd6;
+}
+
+body.dark .article-style ul strong{
+	color:#f14545;
 }
