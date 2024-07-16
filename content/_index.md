@@ -89,8 +89,8 @@ sections:
         - organization: NSF
           organization_url: 'https://www.nsf.gov'
           title: "NSF CIRC"
-          url: ''
-          certificate_url: ''
+          url: 'https://www.nsf.gov/awardsearch/showAward?AWD_ID=2345921&HistoricalAwards=false'
+          certificate_url: 'https://www.nsf.gov/awardsearch/showAward?AWD_ID=2345921&HistoricalAwards=false'
           date_start: '2024-07-01'
           date_end: '2025-06-30'
           description: '**PI** - Develop Grand Theory for Graph Dynamics.'
