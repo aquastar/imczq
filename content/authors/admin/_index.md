@@ -37,10 +37,10 @@ I am an Assistant Professor of Computer Science and Engineering at Mississippi S
 
 
 {{% callout note %}}
-🚀 Join us at **[SIAM Mathematics & Data Science 2024](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=80791)** and [**CIKM 2024**](https://cikm2024.org/tutorials/) for our tutorial on **Unifying Spectral and Spatial Graph Neural Network**.
+🚀 Join us at **[SIAM Mathematics & Data Science 2024](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=80791)** and [**CIKM 2024**](https://cikm2024.org/tutorials/) for our tutorial on **Unifying Spectral and Spatial Graph Neural Network**
 {{% /callout %}}
 
-* **[Grant]** 7/24: Received a **NSF** CNS/CIRC fund (PI) to develop grand theory for graph dynamics, [Synergistic Graph Flow Analytics: An Integrated Infrastructure for Bridging Complexity, Fragmentation, and Interdisciplinary Gaps](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2345921&HistoricalAwards=false). 
+* **[Grant]** 7/24: Received a **NSF** CNS/CIRC fund (PI) to develop grand theory for graph dynamics: [Synergistic Graph Flow Analytics: An Integrated Infrastructure for Bridging Complexity, Fragmentation, and Interdisciplinary Gaps](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2345921&HistoricalAwards=false). 
 * **[Grant]** 6/24: We will start working on the spatial epidemiology of animal disease with USDA scientists under **USDA-ARS** funded project.
 * `[Tutorial]` 6/24: Check our **[CVPR 24'](https://cvpr.thecvf.com/virtual/2024/tutorial/23726)** tutorial on <u>Unifying Spectral and Spatial Graph Neural Network</u>. See the tutorial website [CVPR 24' Tutorial](https://xgraph.team/course/cvpr24/).
 * **[Grant]** 4/24: Received a **NSF** EDU/ITEST fund (Co-PI) to conduct AI education research. See [media report](https://www.pressreader.com/usa/starkville-daily-news/20240515/281526526156691).
