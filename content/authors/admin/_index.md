@@ -43,8 +43,8 @@ I am an Assistant Professor of Computer Science and Engineering at Mississippi S
 * **[Grant]** 7/24: Received a **NSF** CNS/CIRC fund (PI) to develop grand theory for graph dynamics: [Synergistic Graph Flow Analytics: An Integrated Infrastructure for Bridging Complexity, Fragmentation, and Interdisciplinary Gaps](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2345921&HistoricalAwards=false). 
 * **[Grant]** 6/24: We will start working on the spatial epidemiology of animal disease with USDA scientists under **USDA-ARS** funded project.
 * `[Tutorial]` 6/24: Check our **[CVPR 24'](https://cvpr.thecvf.com/virtual/2024/tutorial/23726)** tutorial on <u>Unifying Spectral and Spatial Graph Neural Network</u>. See the tutorial website [CVPR 24' Tutorial](https://xgraph.team/course/cvpr24/).
-* **[Grant]** 4/24: Received a **NSF** EDU/ITEST fund (Co-PI) to conduct AI education research. See [media report](https://www.pressreader.com/usa/starkville-daily-news/20240515/281526526156691). [Learning to create Intelligent Solutions with Machine Learning and Computer Vision: A Pathway to AI Careers for Diverse High School Students
-](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2342574)
+* **[Grant]** 4/24: Received a **NSF** EDU/ITEST fund (Co-PI) to conduct AI education research: [Learning to create Intelligent Solutions with Machine Learning and Computer Vision: A Pathway to AI Careers for Diverse High School Students
+](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2342574). See [media report](https://www.pressreader.com/usa/starkville-daily-news/20240515/281526526156691).
 * `[Honor]` 4/24: Received Excellent Reviewer of the IEEE Transactions on Network Science and Engineering Journal. 
 * **[Grant]** 1/24: Received **NSF** IIS/III REU supp to fund (PI) undergraduate student research. 
 * `[Paper]` 12/23: 2 papers are accepted by **[AAAI 24'](https://aaai.org/aaai-conference/)** proposing <u>Graph Bayesian Optimization</u> to conduct information propagation efficiently.
