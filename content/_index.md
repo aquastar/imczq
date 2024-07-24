@@ -94,11 +94,12 @@ sections:
           date_start: '2024-07-01'
           date_end: '2025-06-30'
           description: '**PI** - Develop Grand Theory for Graph Dynamics.'
+
         - organization: NSF
           organization_url: 'https://www.nsf.gov'
           title: "NSF ITEST"
-          url: ''
-          certificate_url: ''
+          url: 'https://www.nsf.gov/awardsearch/showAward?AWD_ID=2342574'
+          certificate_url: 'https://www.nsf.gov/awardsearch/showAward?AWD_ID=2342574'
           date_start: '2024-09-01'
           date_end: '2027-08-31'
           description: '**Co-PI** - SmartCT: Develop AI education program for K-12 students in Mississippi.'
