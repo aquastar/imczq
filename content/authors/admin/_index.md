@@ -33,11 +33,12 @@ last_name: Chen
 highlight_name: true
 first_name: Zhiqian
 ---
-I am an Assistant Professor of Computer Science and Engineering at Mississippi State University, currently focusing on dynamic behaviors over graphs and networks (see [my research interests]({{< relref "/post/research-interest" >}})). For students interested in my research, please explore the opportunities to [work with me]({{< relref "/post/work-with-me" >}}). If you are interested in my courses, please preview the [course syllabi]({{< relref "/teach" >}}).
+I am an Assistant Professor of Computer Science and Engineering at Mississippi State University, currently focusing on dynamic behaviors over graphs and networks (see [my research interests]({{< relref "/post/research-interests" >}})).
+For students interested in my research, please explore the opportunities to [work with me]({{< relref "/post/work-with-me" >}}). If you are interested in my courses, please preview the [course syllabi]({{< relref "/teach" >}}).
 
 
 {{% callout note %}}
-🚀 Join us at **[SIAM Mathematics & Data Science 2024](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=80791)** and [**CIKM 2024**](https://cikm2024.org/tutorials/) for our tutorial on **Unifying Spectral and Spatial Graph Neural Network**
+🚀 Join us at [**SIAM Mathematics & Data Science 2024**](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=80791) and [**CIKM 2024**](https://cikm2024.org/tutorials/) for our tutorial on **Unifying Spectral and Spatial Graph Neural Network**
 {{% /callout %}}
 
 * **[Grant]** 8/24: Received a **NSF** CNS/MSI fund (co-PI) to detect hate speech in English and Spain w/ graph learning & LLMs: [Advancing Speech Detection: A Hybrid Approach Using Large Language Models and Graph Neural Networks](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2431176&HistoricalAwards=false). 
