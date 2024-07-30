@@ -2,7 +2,7 @@
 organizations:
   - name: Mississippi State Univ.
     url: https://msstate.edu/
-name_pronunciation: Chen, Zhiqian
+name_pronunciation: Chen, ZhiQian
 title: 陈枳扦
 role: Assistant Prof.
 bio: My research interests include graph learningwith particular interest in

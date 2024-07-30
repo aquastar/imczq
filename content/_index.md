@@ -88,21 +88,30 @@ sections:
       items:
         - organization: NSF
           organization_url: 'https://www.nsf.gov'
-          title: "NSF CIRC"
+          title: "NSF CNS"
+          url: 'https://www.nsf.gov/awardsearch/showAward?AWD_ID=2431176&HistoricalAwards=false'
+          certificate_url: 'https://www.nsf.gov/awardsearch/showAward?AWD_ID=2431176&HistoricalAwards=false'
+          date_start: '2025-01-01'
+          date_end: '2026-12-31'
+          description: '**Co-PI** - MSI: Detect hate speech in English and Spanish with graph learning + LLM.'
+        
+        - organization: NSF
+          organization_url: 'https://www.nsf.gov'
+          title: "NSF CNS"
           url: 'https://www.nsf.gov/awardsearch/showAward?AWD_ID=2345921&HistoricalAwards=false'
           certificate_url: 'https://www.nsf.gov/awardsearch/showAward?AWD_ID=2345921&HistoricalAwards=false'
           date_start: '2024-07-01'
           date_end: '2025-06-30'
-          description: '**PI** - Develop Grand Theory for Graph Dynamics.'
+          description: '**PI** - CIRC: Develop Grand Theory for Graph Dynamics.'
 
         - organization: NSF
           organization_url: 'https://www.nsf.gov'
-          title: "NSF ITEST"
+          title: "NSF EDU"
           url: 'https://www.nsf.gov/awardsearch/showAward?AWD_ID=2342574'
           certificate_url: 'https://www.nsf.gov/awardsearch/showAward?AWD_ID=2342574'
           date_start: '2024-09-01'
           date_end: '2027-08-31'
-          description: '**Co-PI** - SmartCT: Develop AI education program for K-12 students in Mississippi.'
+          description: '**Co-PI** - ITEST: Develop AI education program for K-12 in Mississippi.'
 
         - organization: NSF
           organization_url: 'https://www.nsf.gov'
