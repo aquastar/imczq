@@ -37,8 +37,12 @@ I am an Assistant Professor of Computer Science and Engineering at Mississippi S
 For students interested in my research, please explore the opportunities to [work with me]({{< relref "/post/work-with-me" >}}). If you are interested in my courses, please preview the [course syllabi]({{< relref "/teach" >}}).
 
 
+{{% callout warn %}}
+Join us at [**SIAM MDS 24'**](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=80791) and [**CIKM 24'**](https://cikm2024.org/tutorials/) for our tutorial on **Unifying Spectral and Spatial Graph Neural Network**
+{{% /callout %}}
+For student applicants: If you’re interested in working with me, fill this [Google Form](https://forms.gle/BMu9sH6YUF5zpfNr5).
 {{% callout note %}}
-🚀 Join us at [**SIAM MDS 2024**](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=80791) and [**CIKM 2024**](https://cikm2024.org/tutorials/) for our tutorial on **Unifying Spectral and Spatial Graph Neural Network**
+
 {{% /callout %}}
 
 * **[Grant]** 8/24: Received a **NSF** CNS/MSI fund (co-PI) to detect hate speech in English and Spanish w/ graph learning & LLMs: [Advancing Speech Detection: A Hybrid Approach Using Large Language Models and Graph Neural Networks](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2431176&HistoricalAwards=false). 
@@ -54,7 +58,7 @@ For students interested in my research, please explore the opportunities to [wor
 * **[Grant]** 12/23: Launch a working group on <u>Graph AI</u> doing cross-disciplinary study. Thanks to BCoE.  
 * `[Tool]` 8/23: [XFlow](https://xflow.network/) is released, which targets modeling generalized graph flows  
 * **[Grant]** 8/23: Received support from **USDA-ARS** funded project (Co-PI) on disease genetics. Special thanks to CVM@MSState. See [our storymap](https://storymaps.arcgis.com/stories/4569acf3a05944c99360029dd7029a96).
-* `[Paper]` 12/22: One paper is accepted by **SIAM Data Mining (SDM) 23' [Understanding Influence Maximization via Higher-Order Decomposition](https://epubs.siam.org/doi/abs/10.1137/1.9781611977653.ch86): how seeds interact in higher-order perspective
+* `[Paper]` 12/22: One paper is accepted by SIAM Data Mining (SDM) 23' [Understanding Influence Maximization via Higher-Order Decomposition](https://epubs.siam.org/doi/abs/10.1137/1.9781611977653.ch86): how seeds interact in higher-order perspective
 * `[Textbook]` 7/22: Our textbook published by Springer Nature provides numerous code examples, [Springer Nature](https://link.springer.com/book/10.1007/978-3-030-96756-7), [Amazon](https://www.amazon.com/Machine-Learning-Computer-Scientists-Analysts/dp/3030967557)
 * **[Grant]** 4/22: Received **NSF**'s IIS/III fund (PI): [CRII: Interpretable Influence Propagating and Blocking on Graphs](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2153369&HistoricalAwards=false)
 
