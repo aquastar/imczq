@@ -37,12 +37,11 @@ I am an Assistant Professor of Computer Science and Engineering at Mississippi S
 For students interested in my research, please explore the opportunities to [work with me]({{< relref "/post/work-with-me" >}}). If you are interested in my courses, please preview the [course syllabi]({{< relref "/teach" >}}).
 
 
-{{% callout warn %}}
+{{% callout note %}}
 Join us at [**SIAM MDS 24'**](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=80791) and [**CIKM 24'**](https://cikm2024.org/tutorials/) for our tutorial on **Unifying Spectral and Spatial Graph Neural Network**
 {{% /callout %}}
+{{% callout warning %}}
 For student applicants: If you’re interested in working with me, fill this [Google Form](https://forms.gle/BMu9sH6YUF5zpfNr5).
-{{% callout note %}}
-
 {{% /callout %}}
 
 * **[Grant]** 8/24: Received a **NSF** CNS/MSI fund (co-PI) to detect hate speech in English and Spanish w/ graph learning & LLMs: [Advancing Speech Detection: A Hybrid Approach Using Large Language Models and Graph Neural Networks](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2431176&HistoricalAwards=false). 
