@@ -41,7 +41,8 @@ For students interested in my research, please explore the opportunities to [wor
 Join us at [**SIAM MDS 24'**](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=80791) and [**CIKM 24'**](https://cikm2024.org/tutorials/) for our tutorial on **Unifying Spectral and Spatial Graph Neural Network**
 {{% /callout %}}
 {{% callout warning %}}
-For student applicants: If you’re interested in working with me, fill this [Google Form](https://forms.gle/BMu9sH6YUF5zpfNr5).
+For assistantship applicants: If you’re interested in working with me, fill this [Form](https://forms.gle/BMu9sH6YUF5zpfNr5). 
+This is for student worker applicants to use [Form](https://forms.gle/2UmEby8noDm5AkqG7).
 {{% /callout %}}
 
 * **[Grant]** 8/24: Received a **NSF** CNS/MSI fund (co-PI) to detect hate speech in English and Spanish w/ graph learning & LLMs: [Advancing Speech Detection: A Hybrid Approach Using Large Language Models and Graph Neural Networks](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2431176&HistoricalAwards=false). 
