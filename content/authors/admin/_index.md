@@ -42,7 +42,7 @@ Join us at [**SIAM MDS 24'**](https://meetings.siam.org/sess/dsp_programsess.cfm
 {{% /callout %}}
 {{% callout warning %}}
 Assistantship applicants should complete this [Form](https://forms.gle/BMu9sH6YUF5zpfNr5) to apply.
-Student worker applicants to use this [Form](https://forms.gle/2UmEby8noDm5AkqG7).
+Student worker applicants use this [Form](https://forms.gle/2UmEby8noDm5AkqG7).
 {{% /callout %}}
 
 * **[Grant]** 8/24: Received a **NSF** CNS/MSI fund (co-PI) to detect hate speech in English and Spanish w/ graph learning & LLMs: [Advancing Speech Detection: A Hybrid Approach Using Large Language Models and Graph Neural Networks](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2431176&HistoricalAwards=false). 
