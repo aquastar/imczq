@@ -26,6 +26,9 @@ social:
   - icon: zhihu
     icon_pack: fab
     link: https://www.zhihu.com/people/aquastar
+  - icon: weixin
+    icon_pack: fab   # or any other pack that supports WeChat
+    link: /weixin.jpg  # your WeChat link or QR code link
 superuser: true
 status:
   icon: 👨🏻‍💻
