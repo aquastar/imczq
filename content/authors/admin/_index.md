@@ -27,8 +27,8 @@ social:
     icon_pack: fab
     link: https://www.zhihu.com/people/aquastar
   - icon: weixin
-    icon_pack: fab   # or any other pack that supports WeChat
-    link: /weixin.jpg  # your WeChat link or QR code link
+    icon_pack: fab
+    link: /weixin.jpg
 superuser: true
 status:
   icon: 👨🏻‍💻
@@ -44,6 +44,7 @@ For students interested in my research, please explore the opportunities to [wor
 Join us at [**SIAM MDS 24'**](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=80791) and [**CIKM 24'**](https://cikm2024.org/tutorials/) for our tutorial on **Unifying Spectral and Spatial Graph Neural Network**
 {{% /callout %}}
 {{% callout warning %}}
+I am hiring 1 PhD student for Graph and LLM staring Spring 2025.
 Assistantship applicants should complete this [Form](https://forms.gle/BMu9sH6YUF5zpfNr5) to apply.
 Student worker applicants use this [Form](https://forms.gle/2UmEby8noDm5AkqG7).
 {{% /callout %}}
