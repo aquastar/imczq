@@ -149,23 +149,23 @@ sections:
           date_end: '2028-08-01'
           description: '**Co-PI** - _Developing Detection and Modeling Tools for the Geospatial and Environmental Epidemiology of Animal Disease_.'
 
-        - organization: MSstate
-          organization_url: 'https://www.msstate.edu'
-          title: Global Development Grants
-          url: https://www.international.msstate.edu/offices/international-research-develpment/internal-funding/global-development
-          certificate_url: 'https://www.msstate.edu/newsroom/article/2024/03/planting-seeds-internal-funding-helps-msu-faculty-grow-international'
-          date_start: '2024-01-01'
-          date_end: '2024-12-31'
-          description: '**PI**: Develop international relationship with University of Auckland in New Zealand.'
+        # - organization: MSstate
+        #   organization_url: 'https://www.msstate.edu'
+        #   title: Global Development Grants
+        #   url: https://www.international.msstate.edu/offices/international-research-develpment/internal-funding/global-development
+        #   certificate_url: 'https://www.msstate.edu/newsroom/article/2024/03/planting-seeds-internal-funding-helps-msu-faculty-grow-international'
+        #   date_start: '2024-01-01'
+        #   date_end: '2024-12-31'
+        #   description: '**PI**: Develop international relationship with University of Auckland in New Zealand.'
         
-        - organization: MSstate
-          organization_url: 'https://www.msstate.edu'
-          title: Graph AI Working Group
-          url: https://www.international.msstate.edu/offices/international-research-develpment/internal-funding/global-development
-          certificate_url: 'https://www.msstate.edu/newsroom/article/2024/03/planting-seeds-internal-funding-helps-msu-faculty-grow-international'
-          date_start: '2024-01-01'
-          date_end: '2024-12-31'
-          description: '**PI**: Promote research from social science, biomedical, supply chain, and geoscience.'
+        # - organization: MSstate
+        #   organization_url: 'https://www.msstate.edu'
+        #   title: Graph AI Working Group
+        #   url: https://www.international.msstate.edu/offices/international-research-develpment/internal-funding/global-development
+        #   certificate_url: 'https://www.msstate.edu/newsroom/article/2024/03/planting-seeds-internal-funding-helps-msu-faculty-grow-international'
+        #   date_start: '2024-01-01'
+        #   date_end: '2024-12-31'
+        #   description: '**PI**: Promote research from social science, biomedical, supply chain, and geoscience.'
 
     design:
       columns: '2'
