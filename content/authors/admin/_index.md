@@ -43,8 +43,10 @@ For students interested in my research, please explore the opportunities to [wor
 {{% callout note %}}
 Join us at [**SIAM MDS 24'**](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=80791) and [**CIKM 24'**](https://cikm2024.org/tutorials/) for our tutorial on **Unifying Spectral and Spatial Graph Neural Network**
 {{% /callout %}}
+
 {{% callout warning %}}
-I am hiring 1 PhD student for Graph and LLM staring Spring 2025.
+I am hiring 1 PhD student for Graph and LLM starting from Spring 2025.
+
 Assistantship applicants should complete this [Form](https://forms.gle/BMu9sH6YUF5zpfNr5) to apply.
 Student worker applicants use this [Form](https://forms.gle/2UmEby8noDm5AkqG7).
 {{% /callout %}}
