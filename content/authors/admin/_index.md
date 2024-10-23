@@ -41,7 +41,7 @@ For students interested in my research, please explore the opportunities to [wor
 
 
 {{% callout note %}}
-Check our recent tutorials on **Unifying Spectral and Spatial Graph Neural Network** on [**SIAM MDS 24'**](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=80791) ([Google Drive](https://drive.google.com/file/d/1u8CdRxV-k_sVekZGHMEtm8qXDmnz-goW/view?usp=sharing), [GitHub](https://github.com/XGraph-Team/Spectral-Graph-Survey/blob/3ea4b2a0f818f6287b4ddefa19a6c1372a619134/MDS%2024%20tutorial.pdf)), [**CIKM 24'**](https://cikm2024.org/tutorials/) ([Google Drive](https://drive.google.com/file/d/1J4qS83haM-_hSQ9M8U83wGMkY22piFy4/view?usp=sharing), [GitHub](https://github.com/XGraph-Team/Spectral-Graph-Survey/blob/3ea4b2a0f818f6287b4ddefa19a6c1372a619134/CIKM%2024%20tutorial.pdf)), and [**CVPR 24'**](https://cvpr.thecvf.com/virtual/2024/tutorial/23726) ([Google Drive](https://drive.google.com/file/d/1nWL0aTxbjPTk9sRVOttOQyK37J_KUBh6/view?usp=sharing), [GitHub](https://github.com/XGraph-Team/Spectral-Graph-Survey/blob/3ea4b2a0f818f6287b4ddefa19a6c1372a619134/CVPR%2024%20tutorial.pdf))
+Check our recent tutorials on **Unifying Spectral and Spatial Graph Neural Network** on [**SIAM MDS 24'**](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=80791) ([Google Drive](https://drive.google.com/file/d/1u8CdRxV-k_sVekZGHMEtm8qXDmnz-goW/view?usp=sharing), [GitHub](https://github.com/XGraph-Team/Spectral-Graph-Survey/blob/3ea4b2a0f818f6287b4ddefa19a6c1372a619134/MDS%2024%20tutorial.pdf)), [**CIKM 24'**](https://cikm2024.org/tutorials/) ([Google Drive](https://drive.google.com/file/d/1J4qS83haM-_hSQ9M8U83wGMkY22piFy4/view?usp=sharing), [GitHub](https://github.com/XGraph-Team/Spectral-Graph-Survey/blob/3ea4b2a0f818f6287b4ddefa19a6c1372a619134/CIKM%2024%20tutorial.pdf)), and [**CVPR 24'**](https://cvpr.thecvf.com/virtual/2024/tutorial/23726) ([Google Drive](https://drive.google.com/file/d/1nWL0aTxbjPTk9sRVOttOQyK37J_KUBh6/view?usp=sharing), [GitHub](https://github.com/XGraph-Team/Spectral-Graph-Survey/blob/3ea4b2a0f818f6287b4ddefa19a6c1372a619134/CVPR%2024%20tutorial.pdf)). See more related papers at [Awesome Spectral GNN](https://github.com/XGraph-Team/Spectral-Graph-Survey/tree/master).
 {{% /callout %}}
 
 {{% callout warning %}}
@@ -51,10 +51,10 @@ Assistantship applicants should complete this [Form](https://forms.gle/BMu9sH6YU
 Student worker applicants use this [Form](https://forms.gle/2UmEby8noDm5AkqG7).
 {{% /callout %}}
 
+
 * **[Grant]** 8/24: Received a **NSF** CNS/MSI fund (co-PI) to detect hate speech in English and Spanish w/ graph learning & LLMs: [Advancing Speech Detection: A Hybrid Approach Using Large Language Models and Graph Neural Networks](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2431176&HistoricalAwards=false). 
 * **[Grant]** 7/24: Received a **NSF** CNS/CIRC fund (PI) to develop grand theory for graph dynamics: [Synergistic Graph Flow Analytics: An Integrated Infrastructure for Bridging Complexity, Fragmentation, and Interdisciplinary Gaps](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2345921&HistoricalAwards=false). 
 * **[Grant]** 6/24: We will start working on the spatial epidemiology of animal disease with USDA scientists under **USDA-ARS** funded project.
-* `[Tutorial]` 6/24: Check our **[CVPR 24'](https://cvpr.thecvf.com/virtual/2024/tutorial/23726)** tutorial on <u>Unifying Spectral and Spatial Graph Neural Network</u>. See the tutorial website [CVPR 24' Tutorial](https://xgraph.team/course/cvpr24/).
 * **[Grant]** 4/24: Received a **NSF** EDU/ITEST fund (Co-PI) to conduct AI education research: [Learning to create Intelligent Solutions with Machine Learning and Computer Vision: A Pathway to AI Careers for Diverse High School Students](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2342574). See [media report](https://www.pressreader.com/usa/starkville-daily-news/20240515/281526526156691).
 * `[Honor]` 4/24: Received Excellent Reviewer of the IEEE Transactions on Network Science and Engineering Journal. 
 * **[Grant]** 1/24: Received **NSF** IIS/III REU supp to fund (PI) undergraduate student research. 
