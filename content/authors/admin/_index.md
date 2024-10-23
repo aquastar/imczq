@@ -45,15 +45,13 @@ Check our recent tutorials on **Unifying Spectral and Spatial Graph Neural Netwo
 {{% /callout %}}
 
 {{% callout warning %}}
-Hiring PhD student to work on `Graph Theory & LLM` starting in Spring 2025.
-
-Assistantship applicants should complete this [Form](https://forms.gle/BMu9sH6YUF5zpfNr5) to apply.
-Student worker applicants use this [Form](https://forms.gle/2UmEby8noDm5AkqG7).
+Hiring PhD student to work on `Graph Theory & LLM` starting in Spring 2025. Fill this [form](https://forms.gle/BMu9sH6YUF5zpfNr5) to apply.
 {{% /callout %}}
 
 
 * **[Grant]** 8/24: Received a **NSF** CNS/MSI fund (co-PI) to detect hate speech in English and Spanish w/ graph learning & LLMs: [Advancing Speech Detection: A Hybrid Approach Using Large Language Models and Graph Neural Networks](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2431176&HistoricalAwards=false). 
 * **[Grant]** 7/24: Received a **NSF** CNS/CIRC fund (PI) to develop grand theory for graph dynamics: [Synergistic Graph Flow Analytics: An Integrated Infrastructure for Bridging Complexity, Fragmentation, and Interdisciplinary Gaps](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2345921&HistoricalAwards=false). 
+* `[Papers]` 7/24: 1 paper accepted at [IJCAI 2024](https://ijcai24.org/main-track-accepted-papers/) about `Trajectory Mining on Graph`, 2 papers accepted at [EMBC 2024](https://embc.embs.org/2024/wp-content/uploads/sites/102/2024/07/EMBC-2024_Proceedings.pdf) about `Antimicrobial Resistance Prediction with Genetic Graph` and `Generation of Synthetic Microbiomes`, 1 paper accepted at PAKDD on `Appliances Graph for Energy Disaggregation`, 1 paper accepted at ICAI on `Neural Tangent Bayesian Optimization for Graph Dynamics`.
 * **[Grant]** 6/24: We will start working on the spatial epidemiology of animal disease with USDA scientists under **USDA-ARS** funded project.
 * **[Grant]** 4/24: Received a **NSF** EDU/ITEST fund (Co-PI) to conduct AI education research: [Learning to create Intelligent Solutions with Machine Learning and Computer Vision: A Pathway to AI Careers for Diverse High School Students](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2342574). See [media report](https://www.pressreader.com/usa/starkville-daily-news/20240515/281526526156691).
 * `[Honor]` 4/24: Received Excellent Reviewer of the IEEE Transactions on Network Science and Engineering Journal. 
