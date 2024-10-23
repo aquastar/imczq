@@ -41,7 +41,7 @@ For students interested in my research, please explore the opportunities to [wor
 
 
 {{% callout note %}}
-Join us at [**SIAM MDS 24'**](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=80791) and [**CIKM 24'**](https://cikm2024.org/tutorials/) for our tutorial on **Unifying Spectral and Spatial Graph Neural Network**
+Check our recent tutorials on **Unifying Spectral and Spatial Graph Neural Network** on [**SIAM MDS 24'**](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=80791) ([Google Drive](https://drive.google.com/file/d/1u8CdRxV-k_sVekZGHMEtm8qXDmnz-goW/view?usp=sharing), [GitHub](https://github.com/XGraph-Team/Spectral-Graph-Survey/blob/3ea4b2a0f818f6287b4ddefa19a6c1372a619134/MDS%2024%20tutorial.pdf)), [**CIKM 24'**](https://cikm2024.org/tutorials/) ([Google Drive](https://drive.google.com/file/d/1J4qS83haM-_hSQ9M8U83wGMkY22piFy4/view?usp=sharing), [GitHub](https://github.com/XGraph-Team/Spectral-Graph-Survey/blob/3ea4b2a0f818f6287b4ddefa19a6c1372a619134/CIKM%2024%20tutorial.pdf)), and [**CVPR 24'**](https://cvpr.thecvf.com/virtual/2024/tutorial/23726) ([Google Drive](https://drive.google.com/file/d/1nWL0aTxbjPTk9sRVOttOQyK37J_KUBh6/view?usp=sharing), [GitHub](https://github.com/XGraph-Team/Spectral-Graph-Survey/blob/3ea4b2a0f818f6287b4ddefa19a6c1372a619134/CVPR%2024%20tutorial.pdf))
 {{% /callout %}}
 
 {{% callout warning %}}
