@@ -45,7 +45,7 @@ Check our recent tutorials on **Unifying Spectral and Spatial Graph Neural Netwo
 {{% /callout %}}
 
 {{% callout warning %}}
-I am seeking to hire 1 PhD student to work on `Graph Theory and Large Language Models (LLMs) in the context of English and Spanish social networks`, with the position starting in Spring 2025.
+I am seeking to hire PhD student to work on `Graph Theory & Large Language Models (LLMs)`, with the position starting in Spring 2025.
 
 Assistantship applicants should complete this [Form](https://forms.gle/BMu9sH6YUF5zpfNr5) to apply.
 Student worker applicants use this [Form](https://forms.gle/2UmEby8noDm5AkqG7).
