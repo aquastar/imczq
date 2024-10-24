@@ -51,6 +51,17 @@ min-width: 350px;
 	}
 }
 
+.col-12{
+	font-size: 0.9rem;
+}
+.w-100 img{
+	width: 60%;
+    float: none;
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
+}
+
 .card{
 	width: 32%;
 	display: inline-flex;
