@@ -42,36 +42,58 @@ sections:
       title: 
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: features
+  # - block: features
+  #   id: research
+  #   content:
+  #     title: Research Topics
+  #     text: on Graph Dynamics
+  #     items:
+  #     - icon: wave-square
+  #       icon_pack: fas
+  #       name: Spectral Graph Theory
+  #       description: Explore dynamic, directed, heterogeneous graph representations.
+  #     - icon: cubes
+  #       icon_pack: fas
+  #       name: Higher-order Analysis on Graphs
+  #       description: Develop higher-order analysis methods for graph dynamics.
+  #     - icon: chart-line
+  #       icon_pack: fas
+  #       name: Graph Uncertainty Quantification
+  #       description: Investigate uncertainty quantification on graph dynamics.
+  #     - icon: network-wired
+  #       icon_pack: fas
+  #       name: Transdisciplinary Graph Dynamics
+  #       description: How to integrate multidisciplinary advances in graph dynamics.
+  #     - icon: vial
+  #       icon_pack: fas
+  #       name: Graph for Bio-info/medicine
+  #       description: Genetics, Brain, Spatial Epidemiology.
+  #     - icon: microchip
+  #       icon_pack: fas
+  #       name: LLM for Graphs
+  #       description: Explore the use of LLM for graph dynamics.
+  - block: markdown
     id: research
     content:
-      title: Research Topics
-      text: on Graph Dynamics
-      items:
-      - icon: wave-square
-        icon_pack: fas
-        name: Spectral Graph Theory
-        description: Explore dynamic, directed, heterogeneous graph representations.
-      - icon: cubes
-        icon_pack: fas
-        name: Higher-order Analysis on Graphs
-        description: Develop higher-order analysis methods for graph dynamics.
-      - icon: chart-line
-        icon_pack: fas
-        name: Graph Uncertainty Quantification
-        description: Investigate uncertainty quantification on graph dynamics.
-      - icon: network-wired
-        icon_pack: fas
-        name: Transdisciplinary Graph Dynamics
-        description: How to integrate multidisciplinary advances in graph dynamics.
-      - icon: vial
-        icon_pack: fas
-        name: Graph for Bio-info/medicine
-        description: Genetics, Brain, Spatial Epidemiology.
-      - icon: microchip
-        icon_pack: fas
-        name: LLM for Graphs
-        description: Explore the use of LLM for graph dynamics.
+      title: ''
+      subtitle: ''
+      text: |-
+        **Research Interest**: My research focuses on graph dynamics, leveraging methodologies such as spectral graph theory, uncertainty quantification, higher-order analysis, and physics-inspired approaches. Currently, I am particularly interested in the dynamics of coupled and interdependent networks. 
+        My collaborations span diverse applications, including Social network [^1], Transportation [^2], Spatial epidemiology, ecological network [^3], Brain network [^4], Genetics [^5], Circuit [^6].
+        Also, I have been working on spectral method [^7], Uncertainty Quantification [^8], LLM/transformers, AI education [^9]
+
+        [^1]: Working with MS State faculty with crimiology expertise in cyberbully, hate speech in NSF projects: [Advancing Speech Detection: A Hybrid Approach Using Large Language Models and Graph Neural Networks](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2431176&HistoricalAwards=false), and [Synergistic Graph Flow Analytics: An Integrated Infrastructure for Bridging Complexity, Fragmentation, and Interdisciplinary Gaps](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2345921&HistoricalAwards=false)
+        [^2]: traffic modeling, [Graph Convolutional Networks with Kalman Filtering
+        for Traffic Prediction](https://dl.acm.org/doi/abs/10.1145/3397536.3422257), redistricting [Geospatial clustering for balanced and proximal schools](https://ojs.aaai.org/index.php/AAAI/article/view/7058)
+        [^3]: with USDA ecologists in funded projects.
+        [^4]: with MS State faculty and Univ. of Mississippi Medical Center (UMMC) on brain signals of ADHD & sleep
+        [^5]: with MS State College of Veterinary Medicine, [EMBC paper](https://epapers2.org/embc2024/ESR/paper_details.php?paper_id=7754)
+        [^6]: UC Davis & GMU, [DATE paper](https://ieeexplore.ieee.org/abstract/document/9116544)
+        [^7]: [Bridging the Gap between Spatial and Spectral Domains: A Unified Framework for Graph Neural Networks](https://dl.acm.org/doi/10.1145/3627816)
+        [^8]: AAAI 24: [Multiple-Source Localization from a Single-Snapshot Observation Using Graph Bayesian Optimization](https://ojs.aaai.org/index.php/AAAI/article/view/30262), SDM 23: [Understanding Influence Maximization via Higher-Order Decomposition](https://epubs.siam.org/doi/abs/10.1137/1.9781611977653.ch86)
+        [^9]: NSF project: [Learning to create Intelligent Solutions with Machine Learning and Computer Vision: A Pathway to AI Careers for Diverse High School Students](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2342574)
+
+        ![](research_statement.png "research interests") 
   - block: accomplishments
     id: fund
     content:
@@ -149,23 +171,23 @@ sections:
           date_end: '2028-08-01'
           description: '**Co-PI** - _Developing Detection and Modeling Tools for the Geospatial and Environmental Epidemiology of Animal Disease_.'
 
-        - organization: MSstate
-          organization_url: 'https://www.msstate.edu'
-          title: Global Development Grants
-          url: https://www.international.msstate.edu/offices/international-research-develpment/internal-funding/global-development
-          certificate_url: 'https://www.msstate.edu/newsroom/article/2024/03/planting-seeds-internal-funding-helps-msu-faculty-grow-international'
-          date_start: '2024-01-01'
-          date_end: '2024-12-31'
-          description: '**PI**: Develop international relationship with University of Auckland in New Zealand.'
+        # - organization: MSstate
+        #   organization_url: 'https://www.msstate.edu'
+        #   title: Global Development Grants
+        #   url: https://www.international.msstate.edu/offices/international-research-develpment/internal-funding/global-development
+        #   certificate_url: 'https://www.msstate.edu/newsroom/article/2024/03/planting-seeds-internal-funding-helps-msu-faculty-grow-international'
+        #   date_start: '2024-01-01'
+        #   date_end: '2024-12-31'
+        #   description: '**PI**: Develop international relationship with University of Auckland in New Zealand.'
         
-        - organization: MSstate
-          organization_url: 'https://www.msstate.edu'
-          title: Graph AI Working Group
-          url: https://www.international.msstate.edu/offices/international-research-develpment/internal-funding/global-development
-          certificate_url: 'https://www.msstate.edu/newsroom/article/2024/03/planting-seeds-internal-funding-helps-msu-faculty-grow-international'
-          date_start: '2024-01-01'
-          date_end: '2024-12-31'
-          description: '**PI**: Promote research from social science, biomedical, supply chain, and geoscience.'
+        # - organization: MSstate
+        #   organization_url: 'https://www.msstate.edu'
+        #   title: Graph AI Working Group
+        #   url: https://www.international.msstate.edu/offices/international-research-develpment/internal-funding/global-development
+        #   certificate_url: 'https://www.msstate.edu/newsroom/article/2024/03/planting-seeds-internal-funding-helps-msu-faculty-grow-international'
+        #   date_start: '2024-01-01'
+        #   date_end: '2024-12-31'
+        #   description: '**PI**: Promote research from social science, biomedical, supply chain, and geoscience.'
 
     design:
       columns: '2'
