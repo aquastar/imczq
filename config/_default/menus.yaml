@@ -34,8 +34,8 @@ main:
   - name: 🔗XGraph.Team
     url: 'https://xgraph.team'
     weight: 80
-  - name: 🔗MyRelated.Work
-    url: 'https://myrelated.work'
+  - name: 🔗iShare
+    url: 'https://czq.notion.site/share'
     weight: 90
 
 
