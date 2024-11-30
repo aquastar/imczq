@@ -36,9 +36,9 @@ last_name: Chen
 highlight_name: true
 first_name: Zhiqian
 ---
-I am an Assistant Professor of Computer Science and Engineering at Mississippi State University, focusing on **dynamic behaviors over graphs and networks** (see details of **[my research interests]({{< relref "/post/research-interests" >}})**). 
-I completed my Ph.D. degree at Virginia Tech in 2020, under the supervision of [Dr. Chang-Tien Lu](https://people.cs.vt.edu/~ctlu/).
-For students interested in my research, check ways to [work with me]({{< relref "/post/work-with-me" >}}). If you are interested in my courses, please check the [course syllabi]({{< relref "/teach" >}}).
+I am an Assistant Professor of Computer Science & Engineering at Mississippi State University, focusing on **dynamics over graphs** (see details of **[my research interests]({{< relref "/post/research-interests" >}})**). 
+I obtained my Ph.D. at Virginia Tech in 2020, under the supervision of [Dr. Chang-Tien Lu](https://people.cs.vt.edu/~ctlu/).
+For students interested in me, check ways to [work with me]({{< relref "/post/work-with-me" >}}). If interested in my courses, please check the [course syllabi]({{< relref "/teach" >}}).
 
 
 {{% callout note %}}
