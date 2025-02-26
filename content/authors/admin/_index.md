@@ -49,7 +49,7 @@ Check our tutorials on **Unifying Spectral and Spatial Graph Neural Network** at
 Hiring PhD student to work on `Graph Theory & LLM` starting in Spring 2025. Fill this [form](https://forms.gle/BMu9sH6YUF5zpfNr5) to apply.
 {{% /callout %}}
 
-
+* [Tutorial] 2/25: Will give our tutorial on [MT11 Unifying Spectral and Spatial Graph Neural Networks](https://meetings.siam.org/program.cfm?CONFCODE=SDM25) at SIAM Data Mining 25 at D.C. 
 * **[Grant]** 8/24: Received a **NSF** CNS/MSI fund (co-PI) to detect hate speech in English and Spanish w/ graph learning & LLMs: [Advancing Speech Detection: A Hybrid Approach Using Large Language Models and Graph Neural Networks](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2431176&HistoricalAwards=false). 
 * **[Grant]** 7/24: Received a **NSF** CNS/CIRC fund (PI) to develop grand theory for graph dynamics: [Synergistic Graph Flow Analytics: An Integrated Infrastructure for Bridging Complexity, Fragmentation, and Interdisciplinary Gaps](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2345921&HistoricalAwards=false). 
 * `[Papers]` 7/24: 1 paper accepted at **[IJCAI 24](https://ijcai24.org/main-track-accepted-papers/)** about `Trajectory Mining on Graph`, 2 papers accepted at [EMBC 2024](https://embc.embs.org/2024/wp-content/uploads/sites/102/2024/07/EMBC-2024_Proceedings.pdf) about `Antimicrobial Resistance Prediction with Genetic Graph` and `Generation of Synthetic Microbiomes`, 1 paper accepted at PAKDD on `Appliances Graph for Energy Disaggregation`, 1 paper accepted at ICTAI on `Neural Tangent Bayesian Optimization for Graph Dynamics`.
