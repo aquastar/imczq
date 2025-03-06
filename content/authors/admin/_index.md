@@ -29,9 +29,7 @@ social:
   - icon: book
     icon_path: fas
     link: https://www.xiaohongshu.com/user/profile/64769efb000000001c029738
-  # - icon: weixin
-  #   icon_pack: fab
-  #   link: /weixin.jpg
+    icon_pack: fab
 superuser: true
 status:
   icon: 👨🏻‍💻
@@ -45,7 +43,7 @@ For students interested in me, check ways to [work with me]({{< relref "/post/wo
 
 
 {{% callout note %}}
-Check our tutorials on **Unifying Spectral and Spatial Graph Neural Network** at [**SIAM MDS 24'**](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=80791) ([Google Drive](https://drive.google.com/file/d/1u8CdRxV-k_sVekZGHMEtm8qXDmnz-goW/view?usp=sharing), [GitHub](https://github.com/XGraph-Team/Spectral-Graph-Survey/blob/3ea4b2a0f818f6287b4ddefa19a6c1372a619134/MDS%2024%20tutorial.pdf)), [**CIKM 24'**](https://cikm2024.org/tutorials/) ([Google Drive](https://drive.google.com/file/d/1J4qS83haM-_hSQ9M8U83wGMkY22piFy4/view?usp=sharing), [GitHub](https://github.com/XGraph-Team/Spectral-Graph-Survey/blob/3ea4b2a0f818f6287b4ddefa19a6c1372a619134/CIKM%2024%20tutorial.pdf)), and [**CVPR 24'**](https://cvpr.thecvf.com/virtual/2024/tutorial/23726) ([Google Drive](https://drive.google.com/file/d/1nWL0aTxbjPTk9sRVOttOQyK37J_KUBh6/view?usp=sharing), [GitHub](https://github.com/XGraph-Team/Spectral-Graph-Survey/blob/3ea4b2a0f818f6287b4ddefa19a6c1372a619134/CVPR%2024%20tutorial.pdf)). This tutorial is based on our [**ACM Computing Survey paper**](https://dl.acm.org/doi/10.1145/3627816), and see more related papers at [Awesome Spectral GNN](https://github.com/XGraph-Team/Spectral-Graph-Survey/tree/master).
+Check our tutorials on **Unifying Spectral and Spatial Graph Neural Network** at [**SIAM MDS 24'**](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=80791) ([slides](https://drive.google.com/file/d/1u8CdRxV-k_sVekZGHMEtm8qXDmnz-goW/view?usp=sharing)), [**CIKM 24'**](https://cikm2024.org/tutorials/) ([slides](https://drive.google.com/file/d/1J4qS83haM-_hSQ9M8U83wGMkY22piFy4/view?usp=sharing)), and [**CVPR 24'**](https://cvpr.thecvf.com/virtual/2024/tutorial/23726) ([slides](https://drive.google.com/file/d/1nWL0aTxbjPTk9sRVOttOQyK37J_KUBh6/view?usp=sharing)). This tutorial is based on our [**ACM Computing Survey paper**](https://dl.acm.org/doi/10.1145/3627816), and see more related papers at [Awesome Spectral GNN](https://github.com/XGraph-Team/Spectral-Graph-Survey/tree/master).
 {{% /callout %}}
 
 {{% callout warning %}}
