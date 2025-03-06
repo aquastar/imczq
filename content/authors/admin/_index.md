@@ -29,7 +29,7 @@ social:
   - icon: book
     icon_path: fas
     link: https://www.xiaohongshu.com/user/profile/64769efb000000001c029738
-    icon_pack: fab
+    icon_pack: fas
 superuser: true
 status:
   icon: 👨🏻‍💻
