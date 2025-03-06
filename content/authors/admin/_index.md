@@ -29,9 +29,9 @@ social:
   - icon: book
     icon_path: fas
     link: https://www.xiaohongshu.com/user/profile/64769efb000000001c029738
-  - icon: weixin
-    icon_pack: fab
-    link: /weixin.jpg
+  # - icon: weixin
+  #   icon_pack: fab
+  #   link: /weixin.jpg
 superuser: true
 status:
   icon: 👨🏻‍💻
