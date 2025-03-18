@@ -10,8 +10,10 @@ image:
 ---
 # Recommendation for Conference Credit Toward Graduation
 
-To encourage publications in top-tier conferences, credits are assigned based on the conference level. The recommendation is to reach a **total of 8 credits** for graduation. 
-This system ensures that students focus on high-impact research while maintaining a clear path to graduation.
+
+To encourage publications in well-regarded conferences, credits are assigned based on the conference level. A total of **8 credits** is a good milestone to aim for.
+
+Different conferences may have significantly different style preferences; therefore, it is advisable to consult with your advisor for suggestions before submitting your work.
 
 ---
 
@@ -29,7 +31,7 @@ This system ensures that students focus on high-impact research while maintainin
 - Continue submitting to **Level 2** conferences as they provide stable credit.
 - Avoid excessive publications in **Level 1** conferences, as their credit diminishes.
 
-### Example Credit Accumulation
+### Example
 
 | Publications | Level 3 (e.g., NeurIPS) | Level 2 (e.g., WSDM) | Level 1 (e.g., ICWSM) | Total Credits |
 |-------------|----------------------|-------------------|------------------|---------------|
@@ -40,9 +42,10 @@ This system ensures that students focus on high-impact research while maintainin
 
 ---
 
-## List of Qualified Conferences/Journal
+## List of Qualified Conferences
 
-Venues not included in this list may be considered, but need additional discussion.
+Conferences or journals not included in this list may be considered, but need additional discussion.
+
 
 ### Machine Learning
 - [ICML](https://icml.cc/) (3)
