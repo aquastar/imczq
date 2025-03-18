@@ -41,7 +41,7 @@ If you are doing a course-track MS degree and want to include me as a major prof
 Additionally, inform the committee members about the specific courses and topics you plan to present.
 * One reasonable content distribution is around 10 slides for each course, for a total of 30 slides, plus around 3 slides before that as an introduction, and one slide at the end.
 * Request feedback on slides from all committee members 1-2 weeks prior to the exam
-* Schedule a meeting with the committee members one to two months prior to the exam, and allow approximately two weeks for selection using [Doodle](doodle.com) or [when2meet](when2meet.com).
+* Schedule a meeting with the committee members one to two months prior to the exam, and allow approximately two weeks for selection using [Doodle](https://doodle.com/en/) or [when2meet](https://www.when2meet.com/).
 
 **Project-Track** M.S.
 
