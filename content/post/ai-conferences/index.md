@@ -8,9 +8,12 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-# Conference Credit System for Graduation
+# Recommendation for Conference Credit Toward Graduation
 
-To encourage publications in top-tier conferences, credits are assigned based on the conference level. The recommendation is to reach a **total of 8 credits** for graduation.
+To encourage publications in top-tier conferences, credits are assigned based on the conference level. The recommendation is to reach a **total of 8 credits** for graduation. 
+This system ensures that students focus on high-impact research while maintaining a clear path to graduation.
+
+---
 
 ## Credit Assignment Rules
 
@@ -20,7 +23,7 @@ To encourage publications in top-tier conferences, credits are assigned based on
 | **2**     | 2                        | 2                            |
 | **1**     | 1                        | 0.5                          |
 
-## Strategy for Graduation
+### Strategy for Graduation
 
 - Prioritize **Level 3** conferences to maximize credits.
 - Continue submitting to **Level 2** conferences as they provide stable credit.
@@ -34,14 +37,14 @@ To encourage publications in top-tier conferences, credits are assigned based on
 | 2           | 3 + 4 = 7             | 2 + 2 = 4         | 1 + 0.5 = 1.5    | 7, 4, 1.5     |
 | 3           | 3 + 4 + 4 = 11        | 2 + 2 + 2 = 6     | 1 + 0.5 + 0.5 = 2 | 11, 6, 2     |
 
-## Recommendation
-- **Aim for at least 1 publications in Level 2 or 3 conferences** to graduate efficiently.
-- **Limit Level 1 publications** as their contribution diminishes.
 
-This system ensures that students focus on high-impact research while maintaining a clear path to graduation.
+---
 
+## List of Qualified Conferences/Journal
 
-## Machine Learning
+Venues not included in this list may be considered, but need additional discussion.
+
+### Machine Learning
 - [ICML](https://icml.cc/) (3)
 - [NeurIPS](https://nips.cc/) (3)
 - [ICLR](https://iclr.cc/) (3)
@@ -52,11 +55,11 @@ This system ensures that students focus on high-impact research while maintainin
 - [ACML](https://www.acml-conf.org/) (1)
 - [IJCNN](https://www.ijcnn.org/) (1)
 
-## Artificial Intelligence
+### Artificial Intelligence
 - [AAAI](https://aaai.org/) (3)
 - [IJCAI](https://ijcai.org/) (3)
 
-## Data Mining
+### Data Mining
 - [SIGKDD](https://www.kdd.org/) (3)
 - [SIGIR](https://sigir.org/) (3)
 - [ICDM](https://icdm2024.org/) (2)
@@ -68,21 +71,21 @@ This system ensures that students focus on high-impact research while maintainin
 - [ECML-PKDD](https://ecmlpkdd.org/) (2)
 - [PAKDD](http://pakdd.org/) (1)
 
-## Natural Language Processing (NLP)
+### Natural Language Processing (NLP)
 - [ACL](https://www.aclweb.org/) (3)
 - [EMNLP](https://2024.emnlp.org/) (2)
 - [NAACL](https://naacl.org/) (2)
 
-## Computer Vision (CV)
+### Computer Vision (CV)
 - [CVPR](https://cvpr.thecvf.com/) (3)
 - [ICCV](https://iccv2023.thecvf.com/) (3)
 - [ECCV](https://eccv.ecva.net/) (2)
 - [WACV](https://wacv2024.thecvf.com/) (1)
 
-## Social Media Analysis
+### Social Media Analysis
 - [ICWSM](https://www.icwsm.org/) (1)
 - [ASONAM](http://asonam.cpsc.ucalgary.ca/) (1)
 
-## Medical/Biomedical Informatics
+### Interdisciplinary: e.g., Medical, Bio, Spatial
 - [MICCAI](https://www.miccai.org/) (2)
 - [SIGSPATIAL](https://sigspatial.acm.org/) (1)
