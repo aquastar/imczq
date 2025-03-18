@@ -1,5 +1,5 @@
 ---
-title: AI conferences
+title: Publication Recommendation for Graduation
 date: 2025-03-18T08:54:00.000Z
 draft: false
 featured: false
@@ -8,12 +8,13 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-# Recommendation for Conference Credit Toward Graduation
+To promote publications in prestigious conferences, credits are allotted according to the conference level. Achieving a total of **8 credits** is a solid goal for graduation.
 
-
-To encourage publications in well-regarded conferences, credits are assigned based on the conference level. A total of **8 credits** is a good milestone to aim for.
+The total expected credits can be adjusted based on each student's circumstances.
 
 Different conferences may have significantly different style preferences; therefore, it is advisable to consult with your advisor for suggestions before submitting your work.
+
+Note that this standard may not meet the current market expectations for securing a faculty position.
 
 ---
 
@@ -70,8 +71,8 @@ Conferences or journals not included in this list may be considered, but need ad
 - [WSDM](https://www.wsdm-conference.org/) (2)
 - [SDM](https://www.siam.org/conferences/cm/conference/sdm24) (2)
 - [The Web Conference (WWW)](https://www2024.thewebconf.org/) (2)
-- [DASFAA](https://dasfaa.github.io/) (2)
 - [ECML-PKDD](https://ecmlpkdd.org/) (2)
+- [DASFAA](https://dasfaa.github.io/) (1)
 - [PAKDD](http://pakdd.org/) (1)
 
 ### Natural Language Processing (NLP)
@@ -85,10 +86,8 @@ Conferences or journals not included in this list may be considered, but need ad
 - [ECCV](https://eccv.ecva.net/) (2)
 - [WACV](https://wacv2024.thecvf.com/) (1)
 
-### Social Media Analysis
-- [ICWSM](https://www.icwsm.org/) (1)
-- [ASONAM](http://asonam.cpsc.ucalgary.ca/) (1)
-
-### Interdisciplinary: e.g., Medical, Bio, Spatial
+### Interdisciplinary: e.g., Social Media, Medical, Bio, Spatial
 - [MICCAI](https://www.miccai.org/) (2)
 - [SIGSPATIAL](https://sigspatial.acm.org/) (1)
+- [ICWSM](https://www.icwsm.org/) (1)
+- [ASONAM](http://asonam.cpsc.ucalgary.ca/) (1)
