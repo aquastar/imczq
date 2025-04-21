@@ -51,11 +51,11 @@ Hiring PhD student to work on `Graph Theory & LLM` starting in Spring 2025. Fill
 {{% /callout %}}
 
 * [Tutorial] 2/25: Will give our tutorial on [MT11 Unifying Spectral and Spatial Graph Neural Networks](https://meetings.siam.org/program.cfm?CONFCODE=SDM25) at SIAM Data Mining 25 at D.C. 
-* **[Grant]** 8/24: Received a **NSF** CNS/MSI fund (co-PI) to detect hate speech in English and Spanish w/ graph learning & LLMs: [Advancing Speech Detection: A Hybrid Approach Using Large Language Models and Graph Neural Networks](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2431176&HistoricalAwards=false). 
-* **[Grant]** 7/24: Received a **NSF** CNS/CIRC fund (PI) to develop grand theory for graph dynamics: [Synergistic Graph Flow Analytics: An Integrated Infrastructure for Bridging Complexity, Fragmentation, and Interdisciplinary Gaps](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2345921&HistoricalAwards=false). 
+* **[Grant]** 8/24: Received a **NSF** CNS/MSI fund (co-PI) to advance speech recognition in English and Spanish w/ graph learning & LLMs: [NSF Link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2431176&HistoricalAwards=false). 
+* **[Grant]** 7/24: Received a **NSF** CNS/CIRC fund (PI) to develop research infrastructure for graph dynamics: [NSF Link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2345921&HistoricalAwards=false). 
 * `[Papers]` 7/24: 1 paper accepted at **[IJCAI 24](https://ijcai24.org/main-track-accepted-papers/)** about `Trajectory Mining on Graph`, 2 papers accepted at [EMBC 2024](https://embc.embs.org/2024/wp-content/uploads/sites/102/2024/07/EMBC-2024_Proceedings.pdf) about `Antimicrobial Resistance Prediction with Genetic Graph` and `Generation of Synthetic Microbiomes`, 1 paper accepted at PAKDD on `Appliances Graph for Energy Disaggregation`, 1 paper accepted at ICTAI on `Neural Tangent Bayesian Optimization for Graph Dynamics`.
 * **[Grant]** 6/24: We will start working on the spatial epidemiology of animal disease with USDA scientists under **USDA-ARS** funded project.
-* **[Grant]** 4/24: Received a **NSF** EDU/ITEST fund (Co-PI) to conduct AI education research: [Learning to create Intelligent Solutions with Machine Learning and Computer Vision: A Pathway to AI Careers for Diverse High School Students](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2342574). See [media report](https://www.pressreader.com/usa/starkville-daily-news/20240515/281526526156691).
+* **[Grant]** 4/24: Received a **NSF** EDU/ITEST fund (Co-PI) to conduct AI education research: [NSF Link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2342574). See [media report](https://www.pressreader.com/usa/starkville-daily-news/20240515/281526526156691).
 * `[Honor]` 4/24: Received Excellent Reviewer of the IEEE Transactions on Network Science and Engineering Journal. 
 * **[Grant]** 1/24: Received **NSF** IIS/III REU supp to fund (PI) undergraduate student research. 
 * `[Paper]` 12/23: 2 papers are accepted by **[AAAI 24](https://aaai.org/aaai-conference/)** proposing <u>Graph Bayesian Optimization</u> to conduct information propagation efficiently: [Multiple-Source Localization from a Single-Snapshot Observation Using Graph Bayesian Optimization](https://ojs.aaai.org/index.php/AAAI/article/view/30262), and [Graph Bayesian Optimization for Multiplex Influence Maximization](https://ojs.aaai.org/index.php/AAAI/article/view/30255)
@@ -66,7 +66,7 @@ Hiring PhD student to work on `Graph Theory & LLM` starting in Spring 2025. Fill
 * **[Grant]** 8/23: Received support from **USDA-ARS** funded project (Co-PI) on disease genetics. Special thanks to CVM@MSState. See [our storymap](https://storymaps.arcgis.com/stories/4569acf3a05944c99360029dd7029a96).
 * `[Paper]` 12/22: One paper is accepted by SIAM Data Mining (SDM) 23' [Understanding Influence Maximization via Higher-Order Decomposition](https://epubs.siam.org/doi/abs/10.1137/1.9781611977653.ch86): how seeds interact in higher-order perspective
 * `[Textbook]` 7/22: Our textbook published by Springer Nature provides numerous code examples, [Springer Nature](https://link.springer.com/book/10.1007/978-3-030-96756-7), [Amazon](https://www.amazon.com/Machine-Learning-Computer-Scientists-Analysts/dp/3030967557)
-* **[Grant]** 4/22: Received **NSF**'s IIS/III fund (PI): [CRII: Interpretable Influence Propagating and Blocking on Graphs](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2153369&HistoricalAwards=false)
+* **[Grant]** 4/22: Received **NSF**'s IIS/III fund (PI) for interpretable graph dynamics: [NSF Link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2153369&HistoricalAwards=false)
 
 <details>
   <summary>More News</summary>
