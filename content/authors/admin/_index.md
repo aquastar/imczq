@@ -50,7 +50,7 @@ Check our tutorials on **Unifying Spectral and Spatial Graph Neural Network** at
 Hiring PhD student to work on `Graph Theory & LLM` starting in Spring 2025. Fill this [form](https://forms.gle/BMu9sH6YUF5zpfNr5) to apply.
 {{% /callout %}}
 
-* [Award] 5/25: Received **Ottilie Schillig Special Teaching Award**, which will be used to improve in-class learning in AI.
+* [Award] 5/25: Received the **Ottilie Schillig Special Teaching Award** (topic: Lego Education Spike Essential Set for Undergrad AI education)
 * [Tutorial] 2/25: Will give our tutorial on [MT11 Unifying Spectral and Spatial Graph Neural Networks](https://meetings.siam.org/program.cfm?CONFCODE=SDM25) at SIAM Data Mining 25 at D.C. 
 * **[Grant]** 8/24: Received a **NSF** CNS/MSI fund (co-PI) to advance speech recognition in English and Spanish w/ graph learning & LLMs: [NSF Link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2431176&HistoricalAwards=false). 
 * **[Grant]** 7/24: Received a **NSF** CNS/CIRC fund (PI) to develop research infrastructure for graph dynamics: [NSF Link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2345921&HistoricalAwards=false). 
