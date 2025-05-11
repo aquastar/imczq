@@ -44,6 +44,7 @@ Additionally, inform the committee members about the specific courses and topics
 * A good way to organize content is to aim for about 10 slides per course, making it 30 slides in total, with an additional 3 slides for the intro and one slide to wrap things up. It's more effective if you highlight your own grasp of the course using specific details.
 * Request feedback on slides from all committee members 1-2 weeks prior to the exam
 * Schedule a meeting with the committee members one to two months prior to the exam, and allow approximately two weeks for selection using [Doodle](https://doodle.com/en/) or [when2meet](https://www.when2meet.com/).
+* Kindly request that the department prepare and send the necessary documentation report file to the committee prior to the examination day.
 
 **Project-Track** M.S.
 
