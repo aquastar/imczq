@@ -1,4 +1,12 @@
 ---
+organizations:
+  - name: Mississippi State Univ.
+    url: https://msstate.edu/
+name_pronunciation: Chen, ZhiQian
+title: 陈枳扦
+role: Assistant Prof.
+bio: My research interests include graph learningwith particular interest in
+  graph dynamics.
 social:
   - icon: cv
     icon_pack: ai
@@ -22,19 +30,11 @@ social:
     icon_path: fas
     link: https://www.xiaohongshu.com/user/profile/64769efb000000001c029738
     icon_pack: fas
-organizations:
-  - name: Mississippi State Univ.
-    url: https://msstate.edu/
-name_pronunciation: Chen, ZhiQian
-bio: My research interests include graph learningwith particular interest in
-  graph dynamics.
 superuser: true
 status:
   icon: 👨🏻‍💻
 last_name: Chen
-role: Assistant Prof.
 highlight_name: true
-title: 陈枳扦
 first_name: Zhiqian
 ---
 I am an Assistant Professor of Computer Science & Engineering at Mississippi State University, focusing on **dynamics over graphs** (see details of **\[my research interests]({{< relref "/post/research-interests" >}})**). 
@@ -42,7 +42,7 @@ I obtained my Ph.D. at Virginia Tech in 2020, under the supervision of [Dr. Chan
 For students interested in me, check ways to \[work with me]({{< relref "/post/work-with-me" >}}). If interested in my courses, please check the \[course syllabi]({{< relref "/teach" >}}).
 
 {{% callout note %}}
-Check our tutorials on **Unifying Spectral and Spatial Graph Neural Network** at **[SIAM MDS 24'](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=80791)** ([slides](https://drive.google.com/file/d/1u8CdRxV-k_sVekZGHMEtm8qXDmnz-goW/view?usp=sharing)), **[CIKM 24'](https://cikm2024.org/tutorials/)** ([slides](https://drive.google.com/file/d/1J4qS83haM-_hSQ9M8U83wGMkY22piFy4/view?usp=sharing)), and **[CVPR 24'](https://cvpr.thecvf.com/virtual/2024/tutorial/23726)** ([slides](https://drive.google.com/file/d/1nWL0aTxbjPTk9sRVOttOQyK37J_KUBh6/view?usp=sharing)). This tutorial is based on our **[ACM Computing Survey paper](https://dl.acm.org/doi/10.1145/3627816)**, and see more related papers at [Awesome Spectral GNN](https://github.com/XGraph-Team/Spectral-Graph-Survey/tree/master).
+Check our tutorials on **Unifying Spectral and Spatial Graph Neural Network** ([slides](https://drive.google.com/file/d/1gbe9xxNHPHHHN5DKRu3fC8f_G9TPcayt/view?usp=sharing)) at and **[CVPR 24'](https://cvpr.thecvf.com/virtual/2024/tutorial/23726), [SIAM MDS 24'](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=80791)** , **[CIKM 24'](https://cikm2024.org/tutorials/), and [SIAM Data Mining 25'](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=84896). This tutorial is based on our **[ACM Computing Survey paper](https://dl.acm.org/doi/10.1145/3627816)** and see more related papers at [Awesome Spectral GNN](https://github.com/XGraph-Team/Spectral-Graph-Survey/tree/master).
 {{% /callout %}}
 
 {{% callout warning %}}
@@ -50,7 +50,6 @@ Hiring PhD student to work on `Graph Theory & LLM` starting in Spring 2025. Fill
 {{% /callout %}}
 
 * \[Award] 5/25: Received the **Ottilie Schillig Special Teaching Award** forundergraduate teaching improvement.
-* \[Tutorial] 2/25: Will give our tutorial on [MT11 Unifying Spectral and Spatial Graph Neural Networks](https://meetings.siam.org/program.cfm?CONFCODE=SDM25) at SIAM Data Mining 25 at D.C. 
 * **\[Grant]** 8/24: Received a **NSF** CNS/MSI fund (co-PI) to advance speech recognition in English and Spanish w/ graph learning & LLMs: [NSF Link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2431176&HistoricalAwards=false). 
 * **\[Grant]** 7/24: Received a **NSF** CNS/CIRC fund (PI) to develop research infrastructure for graph dynamics: [NSF Link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2345921&HistoricalAwards=false). 
 * `[Papers]` 7/24: 1 paper accepted at **[IJCAI 24](https://ijcai24.org/main-track-accepted-papers/)** about `Trajectory Mining on Graph`, 2 papers accepted at [EMBC 2024](https://embc.embs.org/2024/wp-content/uploads/sites/102/2024/07/EMBC-2024_Proceedings.pdf) about `Antimicrobial Resistance Prediction with Genetic Graph` and `Generation of Synthetic Microbiomes`, 1 paper accepted at PAKDD on `Appliances Graph for Energy Disaggregation`, 1 paper accepted at ICTAI on `Neural Tangent Bayesian Optimization for Graph Dynamics`.
