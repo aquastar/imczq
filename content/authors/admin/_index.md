@@ -42,7 +42,7 @@ I obtained my Ph.D. at Virginia Tech in 2020, under the supervision of [Dr. Chan
 For students interested in me, check ways to \[work with me]({{< relref "/post/work-with-me" >}}). If interested in my courses, please check the \[course syllabi]({{< relref "/teach" >}}).
 
 {{% callout note %}}
-Check our tutorials on **Unifying Spectral and Spatial Graph Neural Network** ([slides](https://drive.google.com/file/d/1gbe9xxNHPHHHN5DKRu3fC8f_G9TPcayt/view?usp=sharing)) at and **[CVPR 24'](https://cvpr.thecvf.com/virtual/2024/tutorial/23726), [SIAM MDS 24'](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=80791)** , **[CIKM 24'](https://cikm2024.org/tutorials/), and [SIAM Data Mining 25'](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=84896). This tutorial is based on our **[ACM Computing Survey paper](https://dl.acm.org/doi/10.1145/3627816)** and see more related papers at [Awesome Spectral GNN](https://github.com/XGraph-Team/Spectral-Graph-Survey/tree/master).
+Check **Unifying Spectral and Spatial Graph Neural Network** ([slides](https://drive.google.com/file/d/1gbe9xxNHPHHHN5DKRu3fC8f_G9TPcayt/view?usp=sharing)) at **[CVPR 24'](https://cvpr.thecvf.com/virtual/2024/tutorial/23726), [SIAM MDS 24'](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=80791)**, **[CIKM 24'](https://cikm2024.org/tutorials/)** and **[SIAM Data Mining 25'](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=84896)**. This tutorial is based on our **[ACM Computing Survey paper](https://dl.acm.org/doi/10.1145/3627816)** and see more related papers at [Awesome Spectral GNN](https://github.com/XGraph-Team/Spectral-Graph-Survey/tree/master).
 {{% /callout %}}
 
 {{% callout warning %}}
