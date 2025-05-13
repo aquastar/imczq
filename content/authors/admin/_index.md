@@ -46,7 +46,7 @@ Check **Unifying Spectral and Spatial Graph Neural Network** ([slides](https://d
 {{% /callout %}}
 
 {{% callout warning %}}
-Hiring PhD student to work on `Graph Theory & LLM` starting in Spring 2025. Fill this [form](https://forms.gle/BMu9sH6YUF5zpfNr5) to apply.
+Hiring PhD student starting in Spring 2026. Fill this [form](https://forms.gle/BMu9sH6YUF5zpfNr5) to apply.
 {{% /callout %}}
 
 * \[Award] 5/25: Received the **Ottilie Schillig Special Teaching Award** forundergraduate teaching improvement.
