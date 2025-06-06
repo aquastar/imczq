@@ -37,7 +37,7 @@ last_name: Chen
 highlight_name: true
 first_name: Zhiqian
 ---
-I am an Assistant Professor of Computer Science & Engineering at Mississippi State University, focusing on **dynamics over graphs** (see details of **[my research interests]({{< relref "/post/research-interests" >}})**). 
+I am an Assistant Professor of Computer Science & Engineering at Mississippi State University, focusing on **dynamics over graphs** (see details of **[my research interests]({{< relref "/post/research-interests" >}})**).
 I obtained my Ph.D. at Virginia Tech in 2020, under the supervision of [Dr. Chang-Tien Lu](https://people.cs.vt.edu/~ctlu/).
 For students interested in me, check ways to [work with me]({{< relref "/post/work-with-me" >}}). If interested in my courses, please check the [course syllabi]({{< relref "/teach" >}}).
 
@@ -49,7 +49,7 @@ Check **Unifying Spectral and Spatial Graph Neural Network** ([slides](https://d
 Hiring PhD student starting in Spring 2026. Fill this [form](https://forms.gle/BMu9sH6YUF5zpfNr5) to apply.
 {{% /callout %}}
 
-* **[Grant]** 6/25: Received <span style="color:red">**NSF CAREER Award**</span> for my research on unification across various graph dynamics and their interactions! 
+* **[Grant]** 6/25: Received **NSF CAREER Award** for my research on unification across various graph dynamics and their interactions! 
 * [Award] 5/25: Received the **Ottilie Schillig Special Teaching Award** 
 * **[Grant]** 8/24: Received a **NSF** CNS/MSI fund (co-PI) to advance speech recognition in English and Spanish w/ graph learning & LLMs: [NSF Link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2431176&HistoricalAwards=false). 
 * **[Grant]** 7/24: Received a **NSF** CNS/CIRC fund (PI) to develop research infrastructure for graph dynamics: [NSF Link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2345921&HistoricalAwards=false). 
@@ -60,8 +60,8 @@ Hiring PhD student starting in Spring 2026. Fill this [form](https://forms.gle/B
 * **[Grant]** 1/24: Received **NSF** IIS/III REU supp to fund (PI) undergraduate student research. 
 * `[Paper]` 12/23: 2 papers are accepted by **[AAAI 24](https://aaai.org/aaai-conference/)** proposing <u>Graph Bayesian Optimization</u> to conduct information propagation efficiently: [Multiple-Source Localization from a Single-Snapshot Observation Using Graph Bayesian Optimization](https://ojs.aaai.org/index.php/AAAI/article/view/30262), and [Graph Bayesian Optimization for Multiplex Influence Maximization](https://ojs.aaai.org/index.php/AAAI/article/view/30255)
 * `[Paper]` 12/23:  Our theoretical framework for spectral GNN accepted by **ACM Computing Survey**, see [paper](https://dl.acm.org/doi/10.1145/3627816), [related work](https://github.com/XGraph-Team/Spectral-Graph-Survey) and \[slides]({{< relref "/project/unifying" >}}). 
-* **\[Grant]** 12/23: Received a Seed Grant from the International Institute to develop collaboration with the U. of Auckland in New Zealand.  
-* **\[Grant]** 12/23: Launch a working group on <u>Graph AI</u> doing cross-disciplinary study. Thanks to BCoE.  
+* **[Grant]** 12/23: Received a Seed Grant from the International Institute to develop collaboration with the U. of Auckland in New Zealand.  
+* **[Grant]** 12/23: Launch a working group on <u>Graph AI</u> doing cross-disciplinary study. Thanks to BCoE.  
 * `[Tool]` 8/23: [XFlow](https://xflow.network/) is released, which targets modeling generalized graph flows  
 * **[Grant]** 8/23: Received support from **USDA-ARS** funded project (Co-PI) on disease genetics. Special thanks to CVM@MSState. See [our storymap](https://storymaps.arcgis.com/stories/4569acf3a05944c99360029dd7029a96).
 * `[Paper]` 12/22: One paper is accepted by SIAM Data Mining (SDM) 23' [Understanding Influence Maximization via Higher-Order Decomposition](https://epubs.siam.org/doi/abs/10.1137/1.9781611977653.ch86): how seeds interact in higher-order perspective

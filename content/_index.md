@@ -110,6 +110,15 @@ sections:
       items:
         - organization: NSF
           organization_url: 'https://www.nsf.gov'
+          title: "NSF CAREER"
+          url: ''
+          certificate_url: ''
+          date_start: '2025-06-15'
+          date_end: '2030-05-31'
+          description: '**Sole PI** - Unification across various graph dynamics and their interactions'
+        
+        - organization: NSF
+          organization_url: 'https://www.nsf.gov'
           title: "NSF CNS"
           url: 'https://www.nsf.gov/awardsearch/showAward?AWD_ID=2431176&HistoricalAwards=false'
           certificate_url: 'https://www.nsf.gov/awardsearch/showAward?AWD_ID=2431176&HistoricalAwards=false'
