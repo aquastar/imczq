@@ -59,7 +59,7 @@ Hiring PhD student starting in Spring 2026. Fill this [form](https://forms.gle/B
 * `[Honor]` 4/24: Received Excellent Reviewer of the IEEE Transactions on Network Science and Engineering Journal. 
 * **[Grant]** 1/24: Received **NSF** IIS/III REU supp to fund (PI) undergraduate student research. 
 * `[Paper]` 12/23: 2 papers are accepted by **[AAAI 24](https://aaai.org/aaai-conference/)** proposing <u>Graph Bayesian Optimization</u> to conduct information propagation efficiently: [Multiple-Source Localization from a Single-Snapshot Observation Using Graph Bayesian Optimization](https://ojs.aaai.org/index.php/AAAI/article/view/30262), and [Graph Bayesian Optimization for Multiplex Influence Maximization](https://ojs.aaai.org/index.php/AAAI/article/view/30255)
-* `[Paper]` 12/23:  Our theoretical framework for spectral GNN accepted by **ACM Computing Survey**, see [paper](https://dl.acm.org/doi/10.1145/3627816), [related work](https://github.com/XGraph-Team/Spectral-Graph-Survey) and \[slides]({{< relref "/project/unifying" >}}). 
+* `[Paper]` 12/23:  Our theoretical framework for spectral GNN accepted by **ACM Computing Survey**, see [paper](https://dl.acm.org/doi/10.1145/3627816), [related work](https://github.com/XGraph-Team/Spectral-Graph-Survey) and [slides]({{< relref "/project/unifying" >}}). 
 * **[Grant]** 12/23: Received a Seed Grant from the International Institute to develop collaboration with the U. of Auckland in New Zealand.  
 * **[Grant]** 12/23: Launch a working group on <u>Graph AI</u> doing cross-disciplinary study. Thanks to BCoE.  
 * `[Tool]` 8/23: [XFlow](https://xflow.network/) is released, which targets modeling generalized graph flows  
