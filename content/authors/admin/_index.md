@@ -49,8 +49,8 @@ Check **Unifying Spectral and Spatial Graph Neural Network** ([slides](https://d
 Hiring PhD student starting in Spring 2026. Fill this [form](https://forms.gle/BMu9sH6YUF5zpfNr5) to apply.
 {{% /callout %}}
 
-* **[Grant]** 6/25: Received **NSF CAREER Award** for my research on `unification and interactions across heterogenous graph dynamics` 
-* [Award] 5/25: Received the **Ottilie Schillig Special Teaching Award** :`Enhancing AI Pedagogy with Interactive Educational Tools` [Award Link](https://www.ctl.msstate.edu/resources/ottilie-schillig-special-teaching-projects-grants)
+* **[Grant]** 6/25: Received **NSF CAREER Award** for my research on `unification and interactions across heterogenous graph dynamics`: [NSF Link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2443266)
+* [Award] 5/25: Received the **Ottilie Schillig Special Teaching Award** - `Enhancing AI Pedagogy with Interactive Educational Tools`: [Award Link](https://www.ctl.msstate.edu/resources/ottilie-schillig-special-teaching-projects-grants)
 * **[Grant]** 8/24: Received a **NSF** CNS/MSI fund (co-PI) to advance speech recognition in English and Spanish w/ graph learning & LLMs: [NSF Link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2431176&HistoricalAwards=false). 
 * **[Grant]** 7/24: Received a **NSF** CNS/CIRC fund (PI) to develop research infrastructure for graph dynamics: [NSF Link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2345921&HistoricalAwards=false). 
 * `[Papers]` 7/24: 1 paper accepted at **[IJCAI 24](https://ijcai24.org/main-track-accepted-papers/)** about `Trajectory Mining on Graph`, 2 papers accepted at [EMBC 2024](https://embc.embs.org/2024/wp-content/uploads/sites/102/2024/07/EMBC-2024_Proceedings.pdf) about `Antimicrobial Resistance Prediction with Genetic Graph` and `Generation of Synthetic Microbiomes`, 1 paper accepted at PAKDD on `Appliances Graph for Energy Disaggregation`
