@@ -49,6 +49,10 @@ Check **Unifying Spectral and Spatial Graph Neural Network** ([slides](https://d
 Hiring PhD student starting in Spring 2026. Fill this [form](https://forms.gle/BMu9sH6YUF5zpfNr5) to apply.
 {{% /callout %}}
 
+{{% callout warning %}}
+If a course is full and you still want to enroll, see {{< relref "/teach/" >}}
+{{% /callout %}}
+
 * **[Grant]** 6/25: Received **NSF CAREER Award** for my research on `unification and interactions across heterogenous graph dynamics`: [NSF Link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2443266)
 * [Award] 5/25: Received the **Ottilie Schillig Special Teaching Award** - `Enhancing AI Pedagogy with Interactive Educational Tools`: [Awardee List](https://www.ctl.msstate.edu/resources/ottilie-schillig-special-teaching-projects-grants)
 * **[Grant]** 8/24: Received a **NSF** CNS/MSI fund (co-PI) to advance speech recognition in English and Spanish w/ graph learning & LLMs: [NSF Link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2431176&HistoricalAwards=false). 
