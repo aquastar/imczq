@@ -50,7 +50,7 @@ Hiring PhD student starting in Spring 2026. Fill this [form](https://forms.gle/B
 {{% /callout %}}
 
 {{% callout warning %}}
-If a course is full and you still want to enroll, see {{< relref "/teach/" >}}
+If a course is full and you still want to enroll, see [how to override]({{< relref "/teach" >}}
 {{% /callout %}}
 
 * **[Grant]** 6/25: Received **NSF CAREER Award** for my research on `unification and interactions across heterogenous graph dynamics`: [NSF Link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2443266)
