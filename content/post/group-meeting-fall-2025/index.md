@@ -9,8 +9,12 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+Please prepare your academic papers for presentation.
+
+
 | Date       | Moderator          | Presenter 1        | Presenter 2        | Notes   |
 |:-----------|:-------------------|:-------------------|:-------------------|:--------|
+| 2025-08-22 | Marouane Benbrahim      | Tamanna Rashme  |   |         |
 | 2025-08-29 | Zonghan Zhang      | Zonghan Zhang      | Tamanna Rashme     |         |
 | 2025-09-05 | Tamanna Rashme     | Marouane Benbrahim | Xinyuan Chen       |         |
 | 2025-09-12 | Marouane Benbrahim | Zijian Zhang       | Jiashan Wu         |         |
