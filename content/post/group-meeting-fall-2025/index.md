@@ -13,6 +13,8 @@ Please present your academic papers for presentation.
 
 Moderator will host the meeting.
 
+Each presentation will take up to 30 min with Q&A
+
 
 | Date       | Moderator          | Presenter 1        | Presenter 2        | Notes   |
 |:-----------|:-------------------|:-------------------|:-------------------|:--------|
