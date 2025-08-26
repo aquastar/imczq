@@ -16,6 +16,8 @@ Different conferences may have significantly different style preferences; theref
 
 Note that this standard may not meet the current market expectations for securing a faculty position.
 
+Check conf/journal ranking at https://www.core.edu.au/icore-portal
+
 ---
 
 ## Credit Assignment Rules
