@@ -16,7 +16,8 @@ Different conferences may have significantly different style preferences; theref
 
 Note that this standard may not meet the current market expectations for securing a faculty position.
 
-Check conf/journal ranking at https://www.core.edu.au/icore-portal
+
+Visit [CORE Ranking](https://www.core.edu.au/icore-portal) to check conference/journal rankings. Generally, it is recommended to aim for A*/A/B levels.
 
 ---
 
