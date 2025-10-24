@@ -16,21 +16,11 @@ Moderator will host the meeting.
 Each presentation will take up to 30 min with Q&A
 
 
-| Date       | Moderator          | Presenter 1        | Presenter 2        | Notes   |
+| Date       | Moderator          | Presenter 1        | Presenter 2 | Presenter 3        | Notes   |
 |:-----------|:-------------------|:-------------------|:-------------------|:--------|
-| 2025-08-22 | Marouane Benbrahim      | Tamanna Rashme  |   |         |
-| ~~2025-08-29~~ | ~~Zonghan Zhang~~      | ~~Zonghan Zhang~~      | ~~Tamanna Rashme~~     |     Skipped due to deadlines    |
-| 2025-09-05 | Tamanna Rashme     | Marouane Benbrahim | Xinyuan Chen       |         |
-| 2025-09-12 | Marouane Benbrahim | Zijian Zhang       | Jiashan Wu         |         |
-| 2025-09-19 | Zonghan Zhang      | Sai Harika Gade    | Pavan Dharma Adapa |         |
-| 2025-09-26 | Tamanna Rashme     | Gaoyuan Du         | Rocker D'Antonio   |         |
-| 2025-10-03 | Marouane Benbrahim | George Anim             | Zonghan Zhang      |         |
-| 2025-10-10 | Zonghan Zhang      | Tamanna Rashme     | Marouane Benbrahim |         |
-| 2025-10-17 | Tamanna Rashme     | Xinyuan Chen       | Zijian Zhang       |         |
-| 2025-10-24 | Marouane Benbrahim | Jiashan Wu         | Sai Harika Gade    |         |
-| 2025-10-31 | Zonghan Zhang      | Pavan Dharma Adapa | Gaoyuan Du         |         |
-| 2025-11-07 | Tamanna Rashme     | Rocker D'Antonio   | George Anim             |         |
-| 2025-11-14 | Marouane Benbrahim | Zonghan Zhang      | Tamanna Rashme     |         |
-| 2025-11-21 | Zonghan Zhang      | Marouane Benbrahim | Xinyuan Chen       |         |
-| 2025-12-05 | Tamanna Rashme     | Zijian Zhang       | Jiashan Wu         |         |
-| 2025-12-12 | Marouane Benbrahim | Sai Harika Gade    | Pavan Dharma Adapa |         |
+| 2025-10-31 | Zonghan Zhang      | Marouane Benbrahim | Tamanna Rashme |Pavan Dharma Adapa |  |         
+| 2025-11-07 | Tamanna Rashme     | Marouane Benbrahim | Zonghan Zhang  | Gaoyuan Du              |         |
+| 2025-11-14 | Marouane Benbrahim | Marouane Benbrahim | Tamanna Rashme| Zijian Zhang  |         |
+| 2025-11-21 | Zonghan Zhang      | Zonghan Zhang | Tamanna Rashme| Xinyuan Chen       |         |
+| 2025-12-05 | Tamanna Rashme     |  Marouane Benbrahim | Tamanna Rashme| Zijian Zhang       | Gaoyuan Du        |
+| 2025-12-12 | Marouane Benbrahim | Marouane Benbrahim | Tamanna Rashme| |         |
