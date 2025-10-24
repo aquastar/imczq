@@ -17,7 +17,7 @@ Each presentation will take up to 30 min with Q&A
 
 
 | Date       | Moderator          | Presenter 1        | Presenter 2 | Presenter 3        | Notes   |
-|:-----------|:-------------------|:-------------------|:-------------------|:--------|
+|:-----------|:-------------------|:-------------------|:-------------------|:--------|:--------|
 | 2025-10-31 | Zonghan Zhang      | Marouane Benbrahim | Tamanna Rashme |Pavan Dharma Adapa |  |         
 | 2025-11-07 | Tamanna Rashme     | Marouane Benbrahim | Zonghan Zhang  | Gaoyuan Du              |         |
 | 2025-11-14 | Marouane Benbrahim | Marouane Benbrahim | Tamanna Rashme| Zijian Zhang  |         |
