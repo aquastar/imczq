@@ -53,6 +53,7 @@ Hiring PhD student starting in Spring 2026. Fill this [form](https://forms.gle/B
 If a course is full and you still want to enroll, see \[how to override]({{< relref "/teach" >}})
 {{% /callout %}}
 
+* `[Demo]` 1/26: Our co-simulation demo of power network and transportation network has been accepted by [WebConf (WWW) 26'](https://www2026.thewebconf.org)! See [Sumo✖️Pypsa](https://github.com/XGraph-Team/SumoXPypsa).
 * `[Tutorial]` 1/26: Will give a tutorial on UQ on graph dynamics at [WSDM 26'](https://wsdm-conference.org/2026/). See [WSDM 26' Tutorial List](https://wsdm-conference.org/2026/index.php/tutorials/).
 * `[Honor]` 11/25: Recognized as a Research Fellow at the Social Science Research Center, Mississippi State University, during its 75th Anniversary.
 * **\[Grant]** 8/25: Received **Turing AI** Gift Money to conduct research on Large Language Models (LLMs)
