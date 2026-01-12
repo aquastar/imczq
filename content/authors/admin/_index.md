@@ -53,12 +53,12 @@ Hiring PhD student starting in Spring 2026. Fill this [form](https://forms.gle/B
 If a course is full and you still want to enroll, see \[how to override]({{< relref "/teach" >}})
 {{% /callout %}}
 
-* `[Demo]` 1/26: Our co-simulation demo of power network and transportation network has been accepted by [WebConf (WWW) 26'](https://www2026.thewebconf.org)! See [Sumo✖️Pypsa](https://github.com/XGraph-Team/SumoXPypsa).
+* `[Demo]` 1/26: Our co-simulation demo of power network and transportation network has been accepted by [WebConf (WWW) 26'](https://www2026.thewebconf.org)! See [Sumo✖️Pypsa](https://github.com/XGraph-Team/SumoXPypsa). Will add more network dynamics to the current system. Stay tuned. Thanks the support from our [NSF CIRC funding](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2345921&HistoricalAwards=false). 
 * `[Tutorial]` 1/26: Will give a tutorial on UQ on graph dynamics at [WSDM 26'](https://wsdm-conference.org/2026/). See [WSDM 26' Tutorial List](https://wsdm-conference.org/2026/index.php/tutorials/).
 * `[Honor]` 11/25: Recognized as a Research Fellow at the Social Science Research Center, Mississippi State University, during its 75th Anniversary.
 * **\[Grant]** 8/25: Received **Turing AI** Gift Money to conduct research on Large Language Models (LLMs)
 * **\[Grant]** 6/25: Received **NSF CAREER Award** for my research on `unification and interactions across heterogenous graph dynamics`: [NSF Link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2443266)
-* \[Award] 5/25: Received the **Ottilie Schillig Special Teaching Award** - `Enhancing AI Pedagogy with Interactive Educational Tools`: [Awardee List](https://www.ctl.msstate.edu/resources/ottilie-schillig-special-teaching-projects-grants)
+* \[Award] 5/25: Received the **Ottilie Schillig Special Teaching Award**. I will gamify the AI teaching with Lego Edu Kit: [Awardee List](https://www.ctl.msstate.edu/resources/ottilie-schillig-special-teaching-projects-grants)
 * **\[Grant]** 8/24: Received a **NSF** CNS/MSI fund (co-PI) to advance speech recognition in English and Spanish w/ graph learning & LLMs: [NSF Link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2431176&HistoricalAwards=false). 
 * **\[Grant]** 7/24: Received a **NSF** CNS/CIRC fund (PI) to develop research infrastructure for graph dynamics: [NSF Link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2345921&HistoricalAwards=false). 
 * `[Papers]` 7/24: 1 paper accepted at **[IJCAI 24](https://ijcai24.org/main-track-accepted-papers/)** about `Trajectory Mining on Graph`, 2 papers accepted at [EMBC 2024](https://embc.embs.org/2024/wp-content/uploads/sites/102/2024/07/EMBC-2024_Proceedings.pdf) about `Antimicrobial Resistance Prediction with Genetic Graph` and `Generation of Synthetic Microbiomes`, 1 paper accepted at PAKDD on `Appliances Graph for Energy Disaggregation`
@@ -67,9 +67,7 @@ If a course is full and you still want to enroll, see \[how to override]({{< rel
 * **\[Grant]** 1/24: Received **NSF** IIS/III REU supp to fund (PI) undergraduate student research. 
 * `[Paper]` 12/23: 2 papers are accepted by **[AAAI 24](https://aaai.org/aaai-conference/)** proposing <u>Graph Bayesian Optimization</u> to conduct information propagation efficiently: [Multiple-Source Localization from a Single-Snapshot Observation Using Graph Bayesian Optimization](https://ojs.aaai.org/index.php/AAAI/article/view/30262), and [Graph Bayesian Optimization for Multiplex Influence Maximization](https://ojs.aaai.org/index.php/AAAI/article/view/30255)
 * `[Paper]` 12/23:  Our theoretical framework for spectral GNN accepted by **ACM Computing Survey**, see [paper](https://dl.acm.org/doi/10.1145/3627816), [related work](https://github.com/XGraph-Team/Spectral-Graph-Survey) and \[slides]({{< relref "/project/unifying" >}}). 
-* **\[Grant]** 12/23: Received a Seed Grant from the International Institute to develop collaboration with the U. of Auckland in New Zealand.  
 * **\[Grant]** 12/23: Launch a working group on <u>Graph AI</u> doing cross-disciplinary study. Thanks to BCoE.  
-* `[Tool]` 8/23: [XFlow](https://xflow.network/) is released, which targets modeling generalized graph flows  
 * **\[Grant]** 8/23: Received support from **USDA-ARS** funded project (Co-PI) on disease genetics. Special thanks to CVM@MSState. See [our storymap](https://storymaps.arcgis.com/stories/4569acf3a05944c99360029dd7029a96).
 * `[Paper]` 12/22: One paper is accepted by SIAM Data Mining (SDM) 23' [Understanding Influence Maximization via Higher-Order Decomposition](https://epubs.siam.org/doi/abs/10.1137/1.9781611977653.ch86): how seeds interact in higher-order perspective
 * **\[Grant]** 4/22: Received **NSF**'s IIS/III fund (PI) for interpretable graph dynamics: [NSF Link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2153369&HistoricalAwards=false)
