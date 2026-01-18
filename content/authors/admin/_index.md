@@ -46,11 +46,11 @@ Check **Unifying Spectral and Spatial Graph Neural Network** ([slides](https://d
 {{% /callout %}}
 
 {{% callout warning %}}
-Hiring PhD student starting in Spring 2026. Fill this [form](https://forms.gle/BMu9sH6YUF5zpfNr5) to apply.
+Fill this [form](https://forms.gle/BMu9sH6YUF5zpfNr5) for perspective PhD, while this [form](https://docs.google.com/forms/d/e/1FAIpQLScbRILRElHkEkpplHBveE3uKJhF_eWrRZqyDROIVset7JcSIA/viewform) for student workers. Will contact you if opportunity is available and fits your background,
 {{% /callout %}}
 
 {{% callout warning %}}
-If a course is full and you still want to enroll, see \[how to override]({{< relref "/teach" >}})
+If a course is full and you still want to enroll, see [how to override]({{< relref "/teach" >}})
 {{% /callout %}}
 
 * `[Demo]` 1/26: Our co-simulation demo of power network and transportation network has been accepted by [WebConf (WWW) 26'](https://www2026.thewebconf.org)! See [Sumo✖️Pypsa](https://github.com/XGraph-Team/SumoXPypsa). Will add more network dynamics to the current system. Stay tuned. Thanks the support from our [NSF CIRC funding](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2345921&HistoricalAwards=false). 
