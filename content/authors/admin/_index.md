@@ -30,6 +30,10 @@ social:
     icon_path: fas
     link: https://www.xiaohongshu.com/user/profile/64769efb000000001c029738
     icon_pack: fas
+  - icon: orcid
+    icon_path: fas
+    icon_pack: fas
+    link: https://orcid.org/0000-0003-4112-9647
 superuser: true
 status:
   icon: 👨🏻‍💻
