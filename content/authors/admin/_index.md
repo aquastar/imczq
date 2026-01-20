@@ -23,7 +23,7 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/zhiqian-chen-ai/
-  - icon: zhihu``
+  - icon: zhihu
     icon_pack: fab
     link: https://www.zhihu.com/people/aquastar
   - icon: book
