@@ -110,75 +110,113 @@ sections:
       items:
         - organization: NSF
           organization_url: 'https://www.nsf.gov'
+          organization_logo: nsf
           title: "NSF CAREER"
           url: ''
           certificate_url: ''
           date_start: '2025-06-15'
           date_end: '2030-05-31'
+          weight: 0
           description: '**Sole PI** - Unification across various graph dynamics and their interactions'
-        
+
         - organization: NSF
           organization_url: 'https://www.nsf.gov'
+          organization_logo: nsf
           title: "NSF CNS"
           url: 'https://www.nsf.gov/awardsearch/showAward?AWD_ID=2431176&HistoricalAwards=false'
           certificate_url: 'https://www.nsf.gov/awardsearch/showAward?AWD_ID=2431176&HistoricalAwards=false'
           date_start: '2025-01-01'
           date_end: '2026-12-31'
+          weight: 0
           description: '**Co-PI** - MSI: Detect hate speech in English and Spanish with graph learning + LLM.'
         
         - organization: NSF
           organization_url: 'https://www.nsf.gov'
+          organization_logo: nsf
           title: "NSF CNS"
           url: 'https://www.nsf.gov/awardsearch/showAward?AWD_ID=2345921&HistoricalAwards=false'
           certificate_url: 'https://www.nsf.gov/awardsearch/showAward?AWD_ID=2345921&HistoricalAwards=false'
           date_start: '2024-07-01'
           date_end: '2025-06-30'
+          weight: 0
           description: '**PI** - CIRC: Develop Grand Theory for Graph Dynamics.'
 
         - organization: NSF
           organization_url: 'https://www.nsf.gov'
+          organization_logo: nsf
           title: "NSF EDU"
           url: 'https://www.nsf.gov/awardsearch/showAward?AWD_ID=2342574'
           certificate_url: 'https://www.nsf.gov/awardsearch/showAward?AWD_ID=2342574'
           date_start: '2024-09-01'
           date_end: '2027-08-31'
+          weight: 0
           description: '**Co-PI** - ITEST: Develop AI education program for K-12 in Mississippi.'
 
         - organization: NSF
           organization_url: 'https://www.nsf.gov'
+          organization_logo: nsf
           title: "NSF IIS"
           url: 'https://www.nsf.gov/awardsearch/showAward?AWD_ID=2153369&HistoricalAwards=false'
           certificate_url: 'https://www.nsf.gov/awardsearch/showAward?AWD_ID=2153369&HistoricalAwards=false'
           date_start: '2022-04-21'
           date_end: '2024-11-30'
+          weight: 0
           description: '**Sole PI** - _CRII: Interpretable Influence Propagating and Blocking on Graphs_.'
 
         - organization: NSF
           organization_url: 'https://www.nsf.gov'
+          organization_logo: nsf
           title: "NSF REU - Supplement"
           url: 'https://www.nsf.gov/awardsearch/showAward?AWD_ID=2153369&HistoricalAwards=false'
           certificate_url: 'https://www.nsf.gov/awardsearch/showAward?AWD_ID=2153369&HistoricalAwards=false'
           date_start: '2024-02-01'
           date_end: '2024-11-01'
+          weight: 0
           description: '**Sole-PI**: Develop undergraduate research experience on graph dynamics.'
 
         - organization: USDA
           organization_url: 'https://www.usda.org'
+          organization_logo: usda
           title: USDA-ARS
           url: 
           certificate_url: ''
           date_start: '2020-04-01'
           date_end: '2024-08-31'
+          weight: 0
           description: '**Co-PI** - _Advancing Agricultural Research through High Performance Computing_'
 
         - organization: USDA
           organization_url: 'https://www.usda.org'
+          organization_logo: usda
           title: USDA-ARS
           url: 
           certificate_url: ''
           date_start: '2023-10-01'
           date_end: '2028-08-01'
-          description: '**Co-PI** - _Developing Detection and Modeling Tools for the Geospatial and Environmental Epidemiology of Animal Disease_.'
+          weight: 0
+          description: '**Co-PI** - _Studying the Geospatial and Environmental Epidemiology of Animal Disease_.'
+
+        - organization: Turing AI
+          organization_url: ''
+          organization_logo: turing_ai
+          title: "Turing AI Award"
+          url: ''
+          certificate_url: ''
+          date_start: '2025-08-01'
+          date_end: ''
+          weight: 1000
+          description: 'Gift funding for LLM research.'
+
+        - organization: Mississippi State University
+          organization_url: 'https://www.msstate.edu'
+          organization_logo: mississippi_state
+          title: "Ottilie Schillig Special Teaching Award"
+          url: 'https://www.ctl.msstate.edu/resources/ottilie-schillig-special-teaching-projects-grants'
+          certificate_url: 'https://www.ctl.msstate.edu/resources/ottilie-schillig-special-teaching-projects-grants'
+          date_start: '2025-05-01'
+          date_end: ''
+          weight: 1000
+          description: 'Gamify AI teaching with Lego Education kits.'
 
         # - organization: MSstate
         #   organization_url: 'https://www.msstate.edu'

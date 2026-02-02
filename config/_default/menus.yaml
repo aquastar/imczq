@@ -31,12 +31,6 @@ main:
   # - name: Contact
   #   url: '#contact'
   #   weight: 70
-  - name: 🔗XGraph.Team
-    url: 'https://xgraph.team'
-    weight: 80
-  - name: 🔗iShare
-    url: 'https://czq.notion.site/share'
-    weight: 90
 
 
 # Navigation Links

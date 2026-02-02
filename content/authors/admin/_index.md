@@ -5,8 +5,10 @@ organizations:
 name_pronunciation: Chen, ZhiQian
 title: 陈枳扦
 role: Assistant Prof.
-bio: My research interests include graph learningwith particular interest in
-  graph dynamics.
+bio: |-
+  I am an Assistant Professor of Computer Science & Engineering at Mississippi State University, focusing on **dynamics over graphs** (see details of **[my research interests](/post/research-interests/)**).
+  I obtained my Ph.D. at Virginia Tech in 2020, under the supervision of [Dr. Chang-Tien Lu](https://people.cs.vt.edu/~ctlu/).
+  For students interested in me, check ways to [work with me](/post/work-with-me/). If interested in my courses, please check the [course syllabi](/teach/).
 social:
   - icon: cv
     icon_pack: ai
@@ -33,6 +35,9 @@ social:
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0003-4112-9647
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:zchen@cse.msstate.edu
 superuser: true
 status:
   icon: 👨🏻‍💻
@@ -40,23 +45,19 @@ last_name: Chen
 highlight_name: true
 first_name: Zhiqian
 ---
-I am an Assistant Professor of Computer Science & Engineering at Mississippi State University, focusing on **dynamics over graphs** (see details of **[my research interests]({{< relref "/post/research-interests" >}})**).
-I obtained my Ph.D. at Virginia Tech in 2020, under the supervision of [Dr. Chang-Tien Lu](https://people.cs.vt.edu/~ctlu/).
-For students interested in me, check ways to [work with me]({{< relref "/post/work-with-me" >}}). If interested in my courses, please check the [course syllabi]({{< relref "/teach" >}}).
-
 {{% callout note %}}
 Check **Unifying Spectral and Spatial Graph Neural Network** ([slides](https://drive.google.com/file/d/1gbe9xxNHPHHHN5DKRu3fC8f_G9TPcayt/view?usp=sharing)) at **[CVPR 24'](https://cvpr.thecvf.com/virtual/2024/tutorial/23726), [SIAM MDS 24'](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=80791)**, **[CIKM 24'](https://cikm2024.org/tutorials/)** and **[SIAM Data Mining 25'](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=84896)**. This tutorial is based on our **[ACM Computing Survey paper](https://dl.acm.org/doi/10.1145/3627816)** and a paper collection [Awesome Spectral GNN](https://github.com/XGraph-Team/Spectral-Graph-Survey/tree/master).
 {{% /callout %}}
 
-{{% callout warning %}}
-Fill this [form](https://forms.gle/BMu9sH6YUF5zpfNr5) for perspective PhD, while this [form](https://docs.google.com/forms/d/e/1FAIpQLScbRILRElHkEkpplHBveE3uKJhF_eWrRZqyDROIVset7JcSIA/viewform) for student workers. Will contact you if opportunity is available and fits your background,
+{{% callout note "Interested in working with me?" %}}
+Students interested in working with me can check the **[Work With Me]({{< relref "/post/work-with-me" >}})** for application forms and next steps.
 {{% /callout %}}
 
 {{% callout warning %}}
 If a course is full and you still want to enroll, see [how to override]({{< relref "/teach" >}})
 {{% /callout %}}
 
-* `[Demo]` 1/26: Our co-simulation demo of power network and transportation network has been accepted by [WebConf (WWW) 26'](https://www2026.thewebconf.org)! See [Sumo✖️Pypsa](https://github.com/XGraph-Team/SumoXPypsa). Will add more network dynamics to the current system. Stay tuned. Thanks the support from our [NSF CIRC funding](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2345921&HistoricalAwards=false). 
+* `[Paper]` 1/26: Our co-simulation demo of power network and transportation network has been accepted by [WebConf (WWW) 26'](https://www2026.thewebconf.org)! See [Sumo✖️Pypsa](https://github.com/XGraph-Team/SumoXPypsa). Will add more network dynamics to the current system. Stay tuned. Thanks the support from our [NSF CIRC funding](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2345921&HistoricalAwards=false). 
 * `[Tutorial]` 1/26: Will give a tutorial on UQ on graph dynamics at [WSDM 26'](https://wsdm-conference.org/2026/). See [WSDM 26' Tutorial List](https://wsdm-conference.org/2026/index.php/tutorials/).
 * `[Honor]` 11/25: Recognized as a Research Fellow at the Social Science Research Center, Mississippi State University, during its 75th Anniversary.
 * **\[Grant]** 8/25: Received **Turing AI** Gift Money to conduct research on Large Language Models (LLMs)
@@ -64,12 +65,11 @@ If a course is full and you still want to enroll, see [how to override]({{< relr
 * \[Award] 5/25: Received the **Ottilie Schillig Special Teaching Award**. I will gamify the AI teaching with Lego Edu Kit: [Awardee List](https://www.ctl.msstate.edu/resources/ottilie-schillig-special-teaching-projects-grants)
 * **\[Grant]** 8/24: Received a **NSF** CNS/MSI fund (co-PI) to advance speech recognition in English and Spanish w/ graph learning & LLMs: [NSF Link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2431176&HistoricalAwards=false). 
 * **\[Grant]** 7/24: Received a **NSF** CNS/CIRC fund (PI) to develop research infrastructure for graph dynamics: [NSF Link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2345921&HistoricalAwards=false). 
-* `[Papers]` 7/24: 1 paper accepted at **[IJCAI 24](https://ijcai24.org/main-track-accepted-papers/)** about `Trajectory Mining on Graph`, 2 papers accepted at [EMBC 2024](https://embc.embs.org/2024/wp-content/uploads/sites/102/2024/07/EMBC-2024_Proceedings.pdf) about `Antimicrobial Resistance Prediction with Genetic Graph` and `Generation of Synthetic Microbiomes`, 1 paper accepted at PAKDD on `Appliances Graph for Energy Disaggregation`
+* `[Papers]` 7/24: 1 paper accepted at **[IJCAI 24](https://ijcai24.org/main-track-accepted-papers/)** about `Trajectory Mining on Graph`, 2 papers accepted at [EMBC 2024](https://embc.embs.org/2024/wp-content/uploads/sites/102/2024/07/EMBC-2024_Proceedings.pdf) about `Antimicrobial Resistance Prediction with Genetic Graph` and `Generation of Synthetic Microbiomes`.
 * **\[Grant]** 6/24: We will start working on the spatial epidemiology of animal disease with USDA scientists under **USDA-ARS** funded project.
 * **\[Grant]** 4/24: Received a **NSF** EDU/ITEST fund (Co-PI) to conduct AI education research: [NSF Link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2342574). See [media report](https://www.pressreader.com/usa/starkville-daily-news/20240515/281526526156691).
 * **\[Grant]** 1/24: Received **NSF** IIS/III REU supp to fund (PI) undergraduate student research. 
 * `[Paper]` 12/23: 2 papers are accepted by **[AAAI 24](https://aaai.org/aaai-conference/)** proposing <u>Graph Bayesian Optimization</u> to conduct information propagation efficiently: [Multiple-Source Localization from a Single-Snapshot Observation Using Graph Bayesian Optimization](https://ojs.aaai.org/index.php/AAAI/article/view/30262), and [Graph Bayesian Optimization for Multiplex Influence Maximization](https://ojs.aaai.org/index.php/AAAI/article/view/30255)
-* `[Paper]` 12/23:  Our theoretical framework for spectral GNN accepted by **ACM Computing Survey**, see [paper](https://dl.acm.org/doi/10.1145/3627816), [related work](https://github.com/XGraph-Team/Spectral-Graph-Survey) and \[slides]({{< relref "/project/unifying" >}}). 
 * **\[Grant]** 12/23: Launch a working group on <u>Graph AI</u> doing cross-disciplinary study. Thanks to BCoE.  
 * **\[Grant]** 8/23: Received support from **USDA-ARS** funded project (Co-PI) on disease genetics. Special thanks to CVM@MSState. See [our storymap](https://storymaps.arcgis.com/stories/4569acf3a05944c99360029dd7029a96).
 * `[Paper]` 12/22: One paper is accepted by SIAM Data Mining (SDM) 23' [Understanding Influence Maximization via Higher-Order Decomposition](https://epubs.siam.org/doi/abs/10.1137/1.9781611977653.ch86): how seeds interact in higher-order perspective

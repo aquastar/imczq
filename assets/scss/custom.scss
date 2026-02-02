@@ -163,6 +163,12 @@ body.dark .fab, body.dark .fas, body.dark .ai{
 #profile .network-icon li {
 	margin-right: 5px;
 }
+.profile-bio{
+	margin-top: 0.5rem;
+	font-size: 0.85rem;
+	line-height: 1.35;
+	text-align: justify;
+}
 
 .alert, .article-style aside {
     position: relative;
@@ -191,4 +197,69 @@ body.dark code{
 
 body.dark .article-style ul strong{
 	color:#f14545;
+}
+
+.article-style .research-figure{
+	float: right;
+	width: 38%;
+	margin: 0 0 0.6rem 0.8rem;
+	height: auto;
+}
+
+@media (max-width: 991.98px) {
+	.article-style .research-figure{
+		float: none;
+		width: 100%;
+		margin: 0.6rem 0;
+	}
+}
+
+.wg-accomplishments .card.experience .card-body .d-flex{
+	align-items: flex-start;
+}
+.wg-accomplishments .card.experience .card-body .mr-2{
+	flex: 0 0 56px;
+	width: 56px;
+	height: 56px;
+}
+.wg-accomplishments .card.experience .card-body img{
+	width: 56px;
+	height: 56px;
+	object-fit: contain;
+	display: block;
+}
+.wg-accomplishments .card{
+	vertical-align: top;
+	display: flex;
+	height: auto;
+	min-height: 140px;
+}
+
+.wg-accomplishments .col-12.col-lg-8{
+	display: flex;
+	flex-wrap: wrap;
+	align-items: stretch;
+	gap: 0;
+}
+
+.wg-accomplishments .card-body{
+	padding: 0.4rem 0.5rem;
+}
+
+.wg-accomplishments .card .section-subheading{
+	font-size: 0.75rem;
+}
+
+.wg-accomplishments .card .card-subtitle{
+	font-size: 0.7rem;
+}
+
+.wg-accomplishments .card .card-text{
+	font-size: 0.72rem;
+	line-height: 1.25;
+	margin-top: 0.2rem;
+	display: -webkit-box;
+	-webkit-line-clamp: 2;
+	-webkit-box-orient: vertical;
+	overflow: hidden;
 }
