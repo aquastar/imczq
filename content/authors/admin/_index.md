@@ -53,9 +53,9 @@ Check **Unifying Spectral and Spatial Graph Neural Network** ([slides](https://d
 Students interested in working with me can check the **[Work With Me]({{< relref "/post/work-with-me" >}})** for application forms and next steps.
 {{% /callout %}}
 
-{{% callout warning %}}
+<!-- {{% callout warning %}}
 If a course is full and you still want to enroll, see [how to override]({{< relref "/teach" >}})
-{{% /callout %}}
+{{% /callout %}} -->
 
 * `[Paper]` 1/26: Our co-simulation demo of power network and transportation network has been accepted by [WebConf (WWW) 26'](https://www2026.thewebconf.org)! See [Sumo✖️Pypsa](https://github.com/XGraph-Team/SumoXPypsa). Will add more network dynamics to the current system. Stay tuned. Thanks the support from our [NSF CIRC funding](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2345921&HistoricalAwards=false). 
 * `[Tutorial]` 1/26: Will give a tutorial on UQ on graph dynamics at [WSDM 26'](https://wsdm-conference.org/2026/). See [WSDM 26' Tutorial List](https://wsdm-conference.org/2026/index.php/tutorials/).
