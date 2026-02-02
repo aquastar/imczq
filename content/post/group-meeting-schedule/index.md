@@ -8,8 +8,6 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Group Meeting Spring 26  
-=======================
 
 Please present your academic papers for presentation.  
 
@@ -19,7 +17,9 @@ Meeting will start from 2pm CST.
 
 Each presentation will take up to 30 min with Q&A.  
 
-Spring 2026 Schedule  
+
+# Spring 26  
+
 --------------------
 
 | Date       | Presenter 1         | Presenter 2           | Notes                     | Moderator  |
