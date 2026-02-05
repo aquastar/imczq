@@ -28,15 +28,15 @@ Each presentation will take up to 30 min with Q&A.
 | February 6 | Anim, George        | Chen, Xinyuan         |                           | Marouane  |
 | February 13| Benbrahim, Marouane | Wang, Shaowen         |                           | Tamanna   |
 | February 20| D'Antonio, Rocker   | Wu, Jiashan           |                           | Rayane    |
-| February 27| Zhang, Zijian       | Gogihed, Rayane       |                           | Abdelqo   |
+| February 27| Zhang, Zijian       | Gogihed, Rayane       |                           | Abdelqoddouss   |
 | March 6    | Jiachen Zhong       | Jebbar, Abdelqoddouss |                           | Marouane  |
 | March 13   | NO MEETING          | NO MEETING            | Spring Break (March 9–13) |           |
 | March 20   | Gade, Sai Harika    | Adapa, Pavan Dharma   |                           | Tamanna   |
 | March 27   | Rashme, Tamanna     | Chen, Xinyuan         |                           | Rayane    |
 | April 3    | NO MEETING          | NO MEETING            | University Holiday        |           |
-| April 10   | Benbrahim, Marouane | Wang, Shaowen         |                           | Abdelqo   |
+| April 10   | Benbrahim, Marouane | Wang, Shaowen         |                           | Abdelqoddouss   |
 | April 17   | D'Antonio, Rocker   | Anim, George          |                           | Marouane  |
 | April 24   | Wu, Jiashan         | Zhang, Zijian         |                           | Tamanna   |
 | May 1      | Rashme, Tamanna     | Chen, Xinyuan         |                           | Rayane    |
-| May 8      | Benbrahim, Marouane | Wang, Shaowen         |                           | Abdelqo   |
+| May 8      | Benbrahim, Marouane | Wang, Shaowen         |                           | Abdelqoddouss   |
 | May 15     | D'Antonio, Rocker   | Rashme, Tamanna       |                           | Marouane  |
