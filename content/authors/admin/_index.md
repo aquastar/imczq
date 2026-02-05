@@ -5,9 +5,13 @@ organizations:
 name_pronunciation: Chen, ZhiQian
 title: 陈枳扦
 role: Assistant Prof.
-bio: |-
-  I am an Assistant Professor of Computer Science & Engineering at Mississippi State University, focusing on **dynamics over graphs** (see details of **[my research interests](/post/research-interests/)**).
+bio: >-
+  I am an Assistant Professor of Computer Science & Engineering at Mississippi
+  State University, focusing on **dynamics over graphs** (see details of **[my
+  research interests](/post/research-interests/)**).
+
   I obtained my Ph.D. at Virginia Tech in 2020, under the supervision of [Dr. Chang-Tien Lu](https://people.cs.vt.edu/~ctlu/).
+
   For students interested in me, check ways to [work with me](/post/work-with-me/). If interested in my courses, please check the [course syllabi](/teach/).
 social:
   - icon: cv
@@ -57,7 +61,7 @@ Students interested in working with me can check the **[Work With Me]({{< relref
 If a course is full and you still want to enroll, see [how to override]({{< relref "/teach" >}})
 {{% /callout %}} -->
 
-* `[Paper]` 1/26: Our co-simulation demo of power network and transportation network has been accepted by [WebConf (WWW) 26'](https://www2026.thewebconf.org)! See [Sumo✖️Pypsa](https://github.com/XGraph-Team/SumoXPypsa). Will add more network dynamics to the current system. Stay tuned. Thanks the support from our [NSF CIRC funding](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2345921&HistoricalAwards=false). 
+* `[Paper]` 1/26: Our co-simulation of power network and transportation network has been accepted by [WebConf (WWW) 26'](https://www2026.thewebconf.org)! Thanks [NSF CIRC funding](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2345921&HistoricalAwards=false). 
 * `[Tutorial]` 1/26: Will give a tutorial on UQ on graph dynamics at [WSDM 26'](https://wsdm-conference.org/2026/). See [WSDM 26' Tutorial List](https://wsdm-conference.org/2026/index.php/tutorials/).
 * `[Honor]` 11/25: Recognized as a Research Fellow at the Social Science Research Center, Mississippi State University, during its 75th Anniversary.
 * **\[Grant]** 8/25: Received **Turing AI** Gift Money to conduct research on Large Language Models (LLMs)
