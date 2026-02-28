@@ -8,4 +8,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-https://chinese-monopoly-eo0vz42is-aquastars-projects.vercel.app/
+https://chinese-monopoly.vercel.app/
