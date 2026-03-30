@@ -34,9 +34,9 @@ Each presentation will take up to 30 min with Q&A.
 | March 20   | Gade, Sai Harika    | Adapa, Pavan Dharma   |                           | Tamanna   |
 | March 27   | Rashme, Tamanna     | Chen, Xinyuan         |                           | Rayane    |
 | April 3    | NO MEETING          | NO MEETING            | University Holiday        |           |
-| April 10   | Benbrahim, Marouane | Wang, Shaowen         |                           | Abdelqoddouss   |
+| April 10   | Benbrahim, Marouane | Wang, Shaowen         |                           | Rashme, Tamanna    |
 | April 17   | D'Antonio, Rocker   | Anim, George          |                           | Marouane  |
 | April 24   | Wu, Jiashan         | Zhang, Zijian         |                           | Tamanna   |
 | May 1      | Rashme, Tamanna     | Chen, Xinyuan         |                           | Rayane    |
-| May 8      | Benbrahim, Marouane | Wang, Shaowen         |                           | Abdelqoddouss   |
+| May 8      | Benbrahim, Marouane | Wang, Shaowen         |                           | Rashme, Tamanna   |
 | May 15     | D'Antonio, Rocker   | Rashme, Tamanna       |                           | Marouane  |
