@@ -58,7 +58,7 @@ Students interested in working with me can check the **[Work With Me]({{< relref
 {{% /callout %}}
 
 {{% callout warning %}}
-We invite undergraduate students to participate in the **[NSF REU research position]({{< relref "/post/nsf-reu-2026" >}}) available in Summer 2026. 
+One undergraduate position is available in the **[NSF REU]({{< relref "/post/nsf-reu-2026" >}})** in Summer 2026. 
 {{% /callout %}} 
 
 * `[Paper]` 5/26: Our AI-assisted simulation system LLM-to-Map: __Transparent Conversational Tool Orchestration for Real-Time Multi-Domain Simulation__ has been accepted by **[IJCAI 26'](https://2026.ijcai.org/)**! 
