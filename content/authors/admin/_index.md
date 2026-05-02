@@ -61,8 +61,9 @@ Students interested in working with me can check the **[Work With Me]({{< relref
 We invite undergraduate students to participate in the **[NSF REU research position]({{< relref "/post/nsf-reu-2026" >}}) available in Summer 2026. 
 {{% /callout %}} 
 
-* `[Paper]` 1/26: Our co-simulation of power network and transportation network has been accepted by [WebConf (WWW) 26'](https://www2026.thewebconf.org)! Thanks [NSF CIRC funding](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2345921&HistoricalAwards=false). 
-* `[Tutorial]` 1/26: Will give a tutorial on UQ on graph dynamics at [WSDM 26'](https://wsdm-conference.org/2026/). See [WSDM 26' Tutorial List](https://wsdm-conference.org/2026/index.php/tutorials/).
+* `[Paper]` 5/26: Our AI-assisted simulation system LLM-to-Map: __Transparent Conversational Tool Orchestration for Real-Time Multi-Domain Simulation__ has been accepted by **[IJCAI 26'](https://2026.ijcai.org/)**! 
+* `[Paper]` 1/26: Our co-simulation of power network and transportation network has been accepted by **[WebConf (WWW) 26'](https://www2026.thewebconf.org)**! 
+* `[Tutorial]` 1/26: Will give a tutorial on UQ on graph dynamics at [WSDM 26'](https://wsdm-conference.org/2026/). See **[WSDM 26' Tutorial List](https://wsdm-conference.org/2026/index.php/tutorials/)**.
 * `[Honor]` 11/25: Recognized as a Research Fellow at the Social Science Research Center, Mississippi State University, during its 75th Anniversary.
 * **\[Grant]** 8/25: Received **Turing AI** Gift Money to conduct research on Large Language Models (LLMs)
 * **\[Grant]** 6/25: Received **NSF CAREER Award** for my research on `unification and interactions across heterogenous graph dynamics`: [NSF Link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2443266)
