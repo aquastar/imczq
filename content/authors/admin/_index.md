@@ -57,9 +57,9 @@ Check **Unifying Spectral and Spatial Graph Neural Network** ([slides](https://d
 Students interested in working with me can check the **[Work With Me]({{< relref "/post/work-with-me" >}})** for application forms and next steps.
 {{% /callout %}}
 
-<!-- {{% callout warning %}}
-We invite undergraduate students to participate in the [NSF REU research position]{{< relref "/post/nsf-reu-2026" >} available in Summer 2026. 
-{{% /callout %}} -->
+{{% callout warning %}}
+We invite undergraduate students to participate in the **[NSF REU research position]({{< relref "/post/nsf-reu-2026" >}}) available in Summer 2026. 
+{{% /callout %}} 
 
 * `[Paper]` 1/26: Our co-simulation of power network and transportation network has been accepted by [WebConf (WWW) 26'](https://www2026.thewebconf.org)! Thanks [NSF CIRC funding](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2345921&HistoricalAwards=false). 
 * `[Tutorial]` 1/26: Will give a tutorial on UQ on graph dynamics at [WSDM 26'](https://wsdm-conference.org/2026/). See [WSDM 26' Tutorial List](https://wsdm-conference.org/2026/index.php/tutorials/).
