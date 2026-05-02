@@ -54,11 +54,11 @@ Check **Unifying Spectral and Spatial Graph Neural Network** ([slides](https://d
 {{% /callout %}}
 
 {{% callout note "Interested in working with me?" %}}
-Students interested in working with me can check the **[Work With Me]({{< relref "/post/work-with-me" >}})** for application forms and next steps.
+Students interested in working with me can check the **\[Work With Me]({{< relref "/post/work-with-me" >}})** for application forms and next steps.
 {{% /callout %}}
 
 <!-- {{% callout warning %}}
-If a course is full and you still want to enroll, see [how to override]({{< relref "/teach" >}})
+We invite undergraduate students to participate in the NSF REU research opportunity available in Summer 2026. 
 {{% /callout %}} -->
 
 * `[Paper]` 1/26: Our co-simulation of power network and transportation network has been accepted by [WebConf (WWW) 26'](https://www2026.thewebconf.org)! Thanks [NSF CIRC funding](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2345921&HistoricalAwards=false). 
